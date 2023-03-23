@@ -4,14 +4,14 @@ using namespace std;
 class Trie {
 private:
     struct trieNode{
-        trieNode* alp[255];
+        trieNode* alp[128];
         bool isEnd;
         map<int,int> docFreq;
     };
     trieNode* root;
     trieNode* createNode(){
         trieNode* newnode=new trieNode();
-        for(int i=0; i<255; i++){
+        for(int i=0; i<128; i++){
             newnode->alp[i]=nullptr;
         }
         newnode->isEnd=false;

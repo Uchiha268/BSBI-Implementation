@@ -58,7 +58,7 @@ int main()
 					word = word.substr(0, word.size() - 1);
 				}
 				for(int i = 0;i < word.length();i++){
-					if(int(word[i]) >= 255){
+					if(int(word[i]) >= 128){
 						isAscii = false;
 						break;
 					}
