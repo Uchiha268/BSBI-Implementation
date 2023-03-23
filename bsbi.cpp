@@ -1,4 +1,4 @@
-#include<bits/std++.h>
+#include<bits/stdc++.h>
 #define DOC_COUNT 30
 #define WORDS_PER_BLOCK 50000
 #define ITEMS_PER_BLOCK_IN_MEM 2000
