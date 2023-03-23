@@ -1,0 +1,4047 @@
+THEINTERNATIONAL PSYCHO-ANALYTICAL LIBRARY
+EDITED BYERNEST JONES,M.D.
+No.6
+GROUP PSYCHOLOGY
+ANDTHEANALYSIS
+OFTHEEGO
+SIGMUND FREUD, MD., LL.D.
+AUTHORIZED TRANSLATION BY
+JAMES STRACHEY
+FIFTH IMPRESSION
+LONDON
+THEHOGARTH PRESS, 42WILLL\M IVSTREET. W.C.2
+ANDTHEINSTITUTE OFPSYCHO-ANALYSIS
+1949
+BOSTON UNIVERSITY
+SCHOOL OFqnriAi x^/r^oir
+PUBLISHED BY
+TheHogarthPress Ltd
+LONDON
+Clarke, Irwin&Co.Ltd
+TORONTO
+This Translation
+Firstpublished 1922
+Second Impression1940
+Third Impression1945
+Fourth Impression 1948
+Fifth Impression 1949
+f.OPYRIC.HT
+PRINTED INGREAT BRITAIN BY
+LOWEANDBRYDONE PRINTERS LTD.,LONDON, N.VV.IO
+crt.
+173
+TRANSLATOR'S NOTE
+Acomparisonofthefollowing pageswith the
+Germanoriginal {^Massenpsychologie undIch-Analyse,
+Internationaler Psychoanalytischer Verlag, Vienna, 192 i)
+willshow that certainpassageshave been transferred
+intheEnglishversion from thetext tothefootnotes.
+This alteration hasbeen carried outattheauthor's
+expressdesire.
+All technical terms have been translated in
+accordance with theGlossarytobepublishedasa
+supplementtotheInternational Jo7irnal ofPsycho-
+Analysis.
+J.s.
+BOSTON UNIVERSITY LIBRARIES
+CONTENTS
+IIntroduction . . . .
+IILeBon's DescriptionoftheGroup Mind
+inOther Accounts ofCollective Mental Life
+IVSuggestionandLibido
+VTwo Artificial Groups: theChurch andtheArmy
+VIFurther Problems andLines ofWork
+i/VII Identification
+^YSl BeinginLove andHypnosis
+IXTheHerd Instinct
+XTheGroup andthePrimal Horde
+XIADifferentiating Grade intheEgo
+XnPostscript....
+GROUP PSYCHOLOGY AND
+THEANALYSIS OFTHEEGO
+I
+INTRODUCTION
+The contrast between IndividualPsychology andSocial
+orGroup^
+Psychology,which atafirstglance may
+seem tobe fullofsignificance,loses agreatdeal
+ofitssharpness when itisexamined -moreclosely.
+Itistrue that IndividualPsychologyisconcerned
+with theindividual man andexploresthepaths by
+which heseeks tofind satisfaction forhisinstincts; but
+only rarely andunder certainexceptionalconditions
+isIndividualPsychologyinapositiontodisregardthe
+relations ofthisindividual toothers. Intheindividual's
+mental lifesomeone else isinvariably involved, asa
+*PGroup'isused throughoutthistranslation asequivalent
+totherather more comprehensive German^Masse\ The author
+uses this latter word torender bothMcDougall's 'group',and
+alsoLeBon's ^foule\ which would more naturally betranslated
+'crowd '-inEnglish. Forthesake ofuniformity, however, 'group'
+hasbeen preferredinthiscase aswell, andhasbeen substituted
+for'crowd' even intheextracts from theEnglishtranslation of
+LeBon.—Translator?[
+2Grotip Psychology andtheAnalysis oftheEgo
+model, asanobject,asahelper,asanopponent,
+andsofrom thever}^first IndividualPsychologyisat
+thesame time Social Psychologyaswell—inthis
+extended butentirely justifiablesense ofthewords.
+The relations ofanindividual tohisparents and
+tohisbrothers and sisters, totheobjectofhislove,
+and tohisphysician—infact alltherelations which
+have hitherto been the chiefsubjectofpsycho-
+analyticresearch—may claim tobeconsidered as
+social phenomena; and inthisrespect theymaybe
+contrasted with certain otherprocesses, describedb}^
+usas'narcissistic'
+,inwhich the satisfaction ofthe
+instincts ispartiallyortotally withdrawn from the
+influence ofotherpeople. The contrast between
+social and narcissistic—Bleuler would perhapscall
+them 'autistic'—mental acts therefore falls wholly
+within thedomain ofIndividualPsycholog}^and is
+notwell calculated todifferentiate itfrom aSocial
+orGroup Psychology.
+The individual intherelations w^hich have already
+been mentioned—tohisparents and tohisbrothers
+andsisters, tothepersonhe isinlove with, tohis
+friend, and tohisphysician—comes under theinfluence
+ofonlyasingle person,orofaver}^small number
+ofpersons, each oneofwhom hasbecome enormously
+importanttohim.Now inspeakingofSocial or
+Group Psychologyithasbecome usual toleave these
+relations onone sideand toisolate asthesubjectof
+Introduction 3
+inquirv^theinfluencingofanindividual byalarge
+number ofpeople simultaneously, peoplewithwhom
+he isconnected bysomething, thoughotherwise they
+mayinmany respects bestrangerstohim.Groups
+Psychologyistherefore concerned with theindividual'
+man asamember ofarace, ofanation, ofacaste,
+ofaprofession,ofaninstitution, orasacomponent>
+partofacrowd ofpeople whohave beenorganised
+into agroupatsomeparticulartime forsome definite
+purpose. When once naturalcontinuityhasbeen
+severed inthisw^ay,itiseasytoregardthepheno-
+mena thatappear under thesespecialconditions as
+being expressionsofaspecialinstinct that isnot\
+further reducible, the social instinct ('herd instinct',^
+'group mind'), which does notcome tolightinany
+other situations. Butwemay perhapsventure to
+objectthat itseems difficult toattribute tothefactor
+ofnumber asignificancesogreatastomake itcapable
+byitself ofarousinginourmental lifeanew instinct
+that isotherwise notbroughtintoplay. Our ex-
+pectationistherefore directed towards two other
+possibilities:that thesocial instinct maynotbea
+primitive oneandinsusceptibleofdissection, andthat
+itmaybepossibletodiscover thebeginningsofits
+developmentinanarrow^er circle, such asthatofthe
+family.
+Although Group Psychologyisonlyinitsinfancy,
+itembraces animmense number ofseparateissues
+4Group Psychology and theAnalysis oftheEgo
+and offers toinvestigatorscountless problems which
+have hitherto notevenbeen properly distinguished
+from one another. Themere classification ofthe
+different forms ofgroupformation andthedescription
+ofthemental phenomena produced bythemrequire
+agreat expenditureofobservation andexposition,
+andhave already givenrise toacopious*literature.
+Anyone whocomparesthenarrow dimensions ofthis
+littlebook with theextent ofGroup Psychologywill
+atoncebeable toguessthatonlyafewpoints chosen
+from thewhole material are tobedealt with here.
+And theywill infactonlybeafew^questionswith
+which thedepth-psychologyofpsycho-analysisis
+specially concerned.
+n
+LEBON'S DESCRIPTION OFTHEGROUP MIND
+Instead ofstartingfrom adefinition,itseems
+more useful tobeginwithsome indication ofthe
+rangeofthephenomena under review, and toselect
+from among them afewspecially strikingand
+characteristic facts towhich ourinquirycanbe
+attached. Wecan achieve both ofthese aims by
+means ofquotationfromLeBon'sdeservedly famous
+workPsychologicdesfotdcs)
+Letusmake thematter clear onceagain.Ifa
+Psychology, concerned withexploringthepredis-
+positions,theinstincts, themotives and theaims of
+anindividual mandown tohisactions and hisrela-
+tions withthosewhoarenearest tohim,hadcompletely
+achieved itstask, andhadcleared upthewhole of
+these matters with theirinter-connections,itwould
+thensuddenlyfind itself confronted byanew task
+which would liebefore itunachieved. Itwould be
+*TheCrowd: aStudy ofthePopular Mind, Fisher Unwin,
+12th.Impression, 1920.
+6Group Psychology andtheAnalysis oftheEgo
+obligedtoexplainthesurprisingfact thatunder a
+certain condition this individual whom ithadcome
+tounderstandthought, felt, and acted inquitea
+different wayfrom what would have been expected.
+And thiscondition ishis insertion into acollection
+ofpeople which hasacquiredthe characteristic ofa
+^psychological group'. What, then,isa'group'?
+How does itacquirethecapacityforexercisingsuch
+adecisive influence over themental life ofthe
+individual? Andwhat isthenature ofthemental
+changewhich itforces upontheindividual?
+Itisthetask ofatheoretical Group Psychology
+toansw^er these threequestions. The bestwayof
+approaching them isevidentlytostart with thethird.
+Observation ofthechangesintheindividual's reactions
+iswhatprovides Group Psychologywith itsmaterial;
+forevery attemptatanexplanation must bepreceded
+byadescriptionofthethingthat istobe
+explained.
+Iwillnow letLeBon speakforhimself. He
+says: 'The moststriking peculiarity presented bya
+psychological group^
+isthefollowing. Whoever be
+the individuals thatcompose it,however like or
+unlike betheirmode oflife, their occupations,their
+character, ortheirintelligence,the fact thatthey
+have been transformed into agroup putsthem in
+possession ofasort ofcollective mind which makes
+^[See footnote page i.]
+LeBon' sDescription oftheGroupMind 7
+them feel, think, and act inamannerquitedifferent
+from that inwhich each individual ofthem would
+feel, think, and actwere heinastate ofisolation.
+There arecertain ideas andfeelingswhich donot
+come intobeing,ordonottransform themselves into
+actsexceptinthecase ofindividualsformingagroup.
+Thepsychological groupisaprovisional beingformed
+ofheterogeneous elements, which foramoment are
+combined, exactlyasthe cells which constitute a
+living body formbytheir reunion anev/beingwhich
+displayscharacteristics verydifferent from those
+possessed byeach ofthe cellssingly.' (p.29.)^
+We shall take the libert\' ofinterrupting Le
+Bon'sexpositionwithglossesofourown, and shall
+accordinglyinsert anobservation atthispoint.If
+theindividuals inthegrouparecombined into a
+unity, there mustsurely besomethingtounite them,
+and thisbondmight bepreciselythethingthat is
+characteristic ofagroup.ButLeBondoes notanswer
+thisquestion; hegoes ontoconsider thealteration
+which theindividualundergoes when inagroupand
+describes itinterms w-hich harmonize wellwith the
+fundamentalpostulatesofourowndepth-psychology.
+'
+Itiseasytoprove howmuch theindividual
+forming partofagroupdiffers from the isolated
+individual, but itislesseasytodiscover thecauses
+ofthis difference.
+^[References are totheEnglishtranslation. —Translator?^
+8Group Psychology andtheAnalysis oftheEgo
+*Toobtain atanyrate aglimpseofthem itis
+necessaryinthe firstplacetocalltomind thetruth
+established bymodernpsychology,that unconscious
+phenomena playanaltogether preponderating part
+notonlyinorganic life, but also intheoperations
+oftheintelligence. The conscious lifeofthemind is'
+ofsmall importanceincomparison with itsuncon-
+scious life.Themost subtleanalyst, themost acute
+observer,isscarcetysuccessful indiscovering more
+than averysmall number oftheconscious^ motives
+that determine hisconduct. Ourconscious acts'are
+theoutcome ofanunconscious substratum created in
+themind inthemainbyhereditaryinfluences. This
+substratum consists oftheinnumerable common
+characteristics handed down fromgenerationto
+generation,which constitute thegeniusofarace.
+Behind theavowed causes ofouracts there undoubt-
+edlyliesecret causes thatwedonotavow, but
+>behind these secret causes there aremanyothers
+more secretstill, ofwhich we ourselves are
+ignorant.^ Thegreater partofourdailyactions are
+the result ofhidden motives which escapeour
+observation.'
+(p.30.)
+^[TheGerman translation ofLeBon, quoted bytheauthor,
+reads^beivusster'
+\theEnglishtranslation has'unconscious'; and
+theoriginal French text^inconscients\— Translator.]
+'[TheEnglishtranslation reads 'which weourselves ignore'—
+amisunderstandingoftheFrench word 'ignorees\—Translator.]
+LeBon'sDescription oftheGroupMind 9
+LeBon thinks that theparticular acquirements
+ofindividuals become obliterated inagroup, and
+that inthiswaytheir distinctiveness vanishes. The
+racial unconscious emerges;what isheterogeneousis
+submergedinwhat ishomogeneous. Wemay say
+~that-^the mentalsuperstructure,thedevelopmentof
+which inindividuals shows such dissimilarities,is
+removed, and that theunconscious foundations, which
+aresimilar ineveryone,stand exposedtoview.^
+Inthiswayindividuals inagroupwouldcome\^
+toshow an.averagecharacter. ButLeBon believes^
+thattheyalsodisplay new characteristics which they
+have notpreviously possessed, andheseeks the
+reason forthis inthree different factors.
+^*The first isthat theindividualforming part oft.-
+agroup acquires, solely from numerical considerations,
+asentiment ofinvincible powerwhich allows himto'
+yieldtoinstincts which, hadhebeen alone, hewould
+perforcehave kept under restraint. He willbethe
+lessdisposedtocheck himself from ±heconsideration
+that, agroup being anonymous, and inconsequence
+irresponsible,thesentiment ofresponsibilitywhich
+alwayscontrols individualsdisappears entirely.' (p.33.)y
+From ourpointofviewweneed not attribute
+somuch importancetotheappearanceofnew
+characteristics. Forus itwould beenough\osay
+that inagrouptheindividual isbroughtunder con-
+ditions which allow him tothrow offtherepressions'
+4IOGroup Psychology andtheAnalysis oftheEgo
+ofhisunconscious instincts. Theapparently new
+^characteristics whichhg_,tben^ displays are infact
+themam lestations ofthisunconscious^ inwhich all
+that isevil intHehuman mind iscontained asa
+pFedisposition. Wecan findnodifficulty inunder^
+standingtEe~*disappearanceofconscience orofa
+^sehse of-responsibilityinthese circumstances. Ithas
+longbeen ourcontention that'dread ofsociety [soziale
+Angstyistheessence ofwhat iscalled conscience.^
+^"'^*The second cause, which iscontagion,also
+intervenes todetermine themanifestation ingroups
+oftheirspecial characteristics, and atthesame time
+thetrend theyaretotake.Contagionisapheno-
+menon ofwhich itiseasytoestablish thepresence,
+butthat itisnoteasytoexplain.Itmust beclassed
+-t
+amongthose phenomenaofaJiypnotix: order, which
+weshallshortly study.Inagroup every sentiment
+andact iscontagious,andcontagioustosuch a
+*There issome difference between LeBon's view and
+oursowingtohisconceptoftheunconscious notquite coinciding
+with theoneadopted bypsycho-analysis. LeBon's unconscious
+more especiallycontains themost deeply buried features ofthe
+racial mind, which asamatter offact liesoutside thescopeof
+psycho-analysis. Wedonot failtorecognize, indeed, thatthe
+ego's nucleus, which comprisesthe'archaic inheritance' ofthe
+human mind,isunconscious; but inaddition tothiswe
+distinguishthe 'unconsciousrepressed', which arose from a
+portionofthat inheritance. This concept oftherepressedisnot
+tobefound inLeBon.
+LeBon'sDescription oftheGroupMind 11
+degreethatanindividualreadilysacrifices hispersonal
+interest tothecollective interest. This isanaptitude
+very contrarytohisnature, andofwhich aman is
+scarcely capable, except when hemakespartofa
+group.' (p.33.)
+We shall later onbase animportant conjecture
+uponthis laststatement.
+*Athird cause, andbyfarthemostimportant,
+determines intheindividuals ofagroup specialcha-
+racteristics which arequite contraryattimes to
+thosepresented bytheisolated individual. Iallude
+tothatsuggestibilityofwhich, moreover, thecontagion
+mentioned above isonlyaneffect.
+'Tounderstand thisphenomenonitisnecessary
+tobear inmind certain recentphysiologicaldiscoveries.
+Weknowto-daythatbyvarious processes anindivid- \
+ualmaybebroughtinto such acondition that,
+having entirelylost hisconsciouspersonality, heobeys
+allthesuggestionsoftheoperator who hasdeprived
+him ofit,andcommits acts inutter contradiction
+with hischaracter and habits. The most careful
+investigations seem toprovethat anindividual im-
+mersed forsomelengthoftime inagroupinaction
+soon finds himself—either inconsequenceofthe
+magneticinfluencegivenoutbythegroup,orfrom
+some other cause ofwhich weareignorant—ina
+special state, which much resembles the state of
+fascination inwhich thehypnotisedindividual finds
+12Group Psychology andtheAnalysis oftheEgo
+himself inthehands ofthehypnotiser.. . .The
+consciouspersonalityhasentirely vanished;will
+anddiscernment are lost. Allfeelingsandthoughts
+are bent inthe direction determined bythe
+hypnotiser.
+'Such also isapproximatelythe state ofthe
+individualforming partofapsychological group. He
+isnolongerconscious ofhisacts. Inhiscase, as
+inthecase ofthehypnotised subject,atthesame
+time that certain faculties aredestroyed,others may
+bebroughttoahigh degreeofexaltation. Under
+the influence ofasuggestion, hewillundertake the
+accomplishmentofcertain acts with irresistible im-
+petuosity. This impetuosityisthemore irresistible in
+thecase ofgroupsthan inthat ofthehypnotised
+subject, from thefact that, thesuggestion beingthe
+same for alltheindividuals ofthegroup,itgainsin
+strength byreciprocity.' (p.34.)
+*We see, then, that thedisappearanceofthe
+consciouspersonality,thepredominanceoftheun-
+consciouspersonality,theturning bymeans ofsug-
+gestion andcontagionoffeelings and ideas inan
+identical direction, thetendencytoimmediatelytrans-
+form thesuggestedideas intoacts; these, wesee,are
+theprincipalcharacteristics oftheindividualforming
+partofagroup. He isnolonger himself, buthas
+become anautomaton whohasceased tobeguided
+byhiswill.'(p.35.)
+LeBon' sDescription oftheGroupMind 13
+Ihavequotedthispassagesofullyinorder to
+make itquiteclear thatLeBonexplainsthecondition
+ofanindividual inagroupasbeing actually hypnotic,
+anddoes notmerely make acomparison between
+thetwo states.Wehave nointention ofraising any
+objectionatthispoint,butwishonlytoemphasize
+the fact that the tw^o lastcauses ofanindividual
+becomingaltered inagroup (thecontagionandthe
+heightened suggestibility)areevidentlynotonapar,
+since thecontagion seemsactuallytobeamanifestation
+ofthesuggestibility.Moreover theeffects ofthetwo
+factors donotseem tobesharplydifferentiated in
+the text ofLeBon's remarks. Wemay perhaps
+bestinterprethisstatement ifweconnect thecontagion
+with the eftects ofthe individual members ofthe
+group upon one another, w^hilewepointtoanother
+source forthose manifestations ofsuggestioninthe
+groupwhich areputonalevel with thephenomena
+.ofhypnoticinfluence. But tow^hat source? We
+cannot avoidbeingstruck with asense ofdeficiency
+whenwenotice thatone ofthe chief elements of
+thecomparison, namelytheperson who istoreplace
+thehypnotistinthecase ofthegroup,isnotmentioned
+inLeBon'sexposition. Buthenevertheless dis-
+tinguishes between thisinfluence offascination which
+remainsplungedinobscurity andthecontagiouseffect
+which the individuals exercise upon oneanother and
+bywhich theoriginal suggestionisstrengthened.
+14Group Psychology andtheAnalysis oftheEgo
+Here isyetanotherimportantconsideration for
+helpingustounderstand theindividual inagroup:
+*Moreover, bythemere fact thatheformspart of
+anorganised group,aman descends severalrungs
+intheladder ofcivilisation. Isolated, hemaybea
+cultivated individual;inacrowd, he isabarbarian—
+thatis,acreatureacting byinstinct. Hepossesses
+thespontaneity,theviolence, theferocity, and also
+theenthusiasm and heroism ofprimitive beings.'
+/(p.36.)Hethen dwellsespecially uponthelow^eringin
+intellectualability which anindividualexperiences when
+hebecomes mergedinagroup.^
+Let usnow leave the individual, and turn to
+thegroup mind, as ithasbeen outlined byLeBon.
+Itshows notasinglefeature which apsycho-analyst
+would find any difficultyinplacingorinderiving
+from itssource. LeBon himself shows ustheway
+bypointingtoitssimilaritywith themental lifeof
+primitive people andofchildren(p.40).
+Agroupisimpulsive, changeableand irritable.
+Itisledalmost exclusively bytheunconscious.^ The
+^CompareSchiller's couplet:
+Jeder,siehtman ihneinzeln,istleidlichklug undverstandig;
+Sind sieincorpore, gleich wirdeuch einDummkopfdaraus.
+[Everyone,seenbyhimself,ispassably shrewd anddiscerning;
+Whenthey'reincorpore, thenstraightway you'llfind
+he'sanass.]
+^'Unconscious'isused here correctly byLeBon inthe
+descriptive sense, where itdoes notonlymean the'repressed'.
+LeBon' sDescription oftheGroupMind 15
+impulses which agroup obeys may accordingto
+circumstances begenerousorcruel, heroic orcowardly,
+buttheyarealwayssoimperiousthatnopersonal
+interest, noteven that ofself-preservation, canmake
+itself felt(p.41).Nothingabout itispremeditated.
+Thoughitmaydesirethings passionately, yetthis
+isnever soforlong,for itisincapableofperse-
+verance. Itcannot tolerate any delay between its
+desire and the fulfilment ofwhat itdesires. Ithas
+asense ofomnipotence;thenotion ofimpossibility
+disappearsfortheindividual inagroup.^
+Agroupisextraordinarily credulous andopen
+toinfluence,ithasno criticalfaculty, and the
+improbabledoes notexist for it.Itthinks inimages,w-
+which callone another upbyassociation(justas
+theyarise with individuals instates offreeimagination),
+andwhoseagreementwithrealityisnever checked
+byanyreasonable function \Instanz\? The_jeelings__of^
+agrouparealways very simple andveryexagger-'^
+ated.Sothat agroup knows neifheP~doubt nor
+uncertainty.^""""" ~^
+^CompareTotem unciTabu, III.,'Animismus, Magie, und
+Allmacht derGedanken.' [Totem andTaboo.NewYork, Moffat, 1018.
+London, Kegan Paul, 1919.]
+^[See footnotep.69.]
+^^Intheinterpretationofdreams, towhich, indeed, we
+oweourbestknowledgeofunconscious mentallife,wefollow a
+technical ruleofdisregarding doubt anduncertaintyinthenarrative
+16Group Psychology andtheAnalysis oftheEgo
+Itgoes directlytoextremes;ifasuspicionis
+expressed,itisinstantly changedintoanincontrovertible
+certainty;atrace ofantipathyisturned into furious
+hatred(p.56).^
+Inclined as ititself istoallextremes, agroup
+canonlybeexcited byanexcessive stimulus. Anyone
+who wishes toproduceaneffect uponitneeds no
+logical adjustmentinhisarguments;hemustpaint
+ofthedream, and oftreating every element ofthe .manifest
+dream asbeing quite certain. We attribute doubt anduncer-
+taintytotheinfluence ofthecensorshiptowhich thedream-work
+issubjected, andweassume that theprimary dream-thoughtsare
+notacquainted with doubt anduncertaintyascritical processes.
+Theymay naturally bepresent,likeeverything else, aspartof
+thecontent ofthe day's residue which leads tothedream.
+(SeeDieTraumdeuHtng,6.Auflage, 1921,S.386.\TheInter-
+pretation ofDreams. Allen andUnwin, 3rd. Edition, 1913,
+p.409.]).
+^Thesame extreme andunmeasured intensification of
+every emotion isalso afeature oftheaffective lifeofchildren,
+and itispresentaswell indream life.Thanks totheisolation
+ofthesingle emotions intheunconscious, aslight annoyance
+duringthedaywillexpressitself inadream asawish forthe
+offending person's death, orabreath oftemptation may givethe
+impetustotheportrayalinthedream ofacriminal action.
+Hanns Sachs hasmade anappropriate remark onthispoint:'If
+wetrytodiscover inconsciousness allthat thedream hasmade
+known tousofitsbearing upon thepresent (upon reality), we
+need notbesurprisedthatwhatwesaw asamonster under the
+microscope ofanalysis now reappearsasaninfusorium.' {Die
+Tratmideutung, S.457. [Translation p.493.])
+LeBon' 5Description oftheGroupMind 17
+inthemost forcible colours, hemustexaggerate,
+and hemustrepeatthesamething again and
+again.
+Since agroupisinnodoubt astowhat con-
+stitutes truth orerror, and isconscious, moreover, of
+itsowngreat sti-ength,itisasintolerant as itis
+obedient toauthority.Itrespects force andcan
+only beslightlyinfluenced bykindness, which it
+regards merelyasaform ofweakness. What it
+demands ofitsheroes isstrength,oreven violence.
+Itwants toberuled andoppressed and tofear its
+masters.Fundamentallyitisentirely conservative,
+and ithasadeep aversion from allinnovations and
+advances and anunboundedrespectfortradition
+(p.62).
+Inorder tomake acorrect judgement uponthe
+morals ofgroups, onemust take into consideration
+the fact thatwhen individuals cometogetherina
+groupalltheir individual inhibitions fallaway and all
+the cruel, brutal anddestructiveinstincts, which lie
+dormant inindividuals asrelics ofaprimitive epoch,
+arestirred uptofind freegratification. Butunder
+theinfluence ofsuggestion groupsare also capable
+ofhigh achievements intheshapeofabnegation,
+unselfishness, and devotion toanideal. While with
+isolated individualspersonalinterest isalmost the
+only motiveforce, withgroupsitisvery rarely
+prominent.Itispossibletospeakofanindividual
+18Group Psychology andtheAnalysis oftheEgo
+havinghismoral standards raised byagroup (p.65).
+Whereas theintellectualcapacityofagroupisalways
+farbelow that ofanindividual,itsethical conduct
+mayriseashigh above hisas itmay sink deep
+below it.
+Some other features inLeBon'sdescription
+show inaclearlighthow welljustifiedistheidenti-
+fication ofthegroup mind with themind ofprimitive
+people.Ingroupsthemostcontradictoryideas can
+exist sidebysideand tolerate each other, without
+anyconflictarising from thelogical contradiction
+between them. But this isalso thecase intheun-
+conscious mental lifeofindividuals, ofchildren andof
+neurotics, aspsycho-analysishaslongpointedout.^
+^Inyoung children, for instance, ambivalent emotional
+attitudes towards thosewho arenearest tothem exist sideby
+side foralong time, without either oftheminterferingwith
+theexpression oftheother andcontrary one. Ifeventually a
+conflict breaks outbetween thetwo,itisoften settled bythe
+child makingachangeofobject anddisplacing one ofthe
+ambivalent emotions ontoasubstitute. Thehistory ofthedevel-
+opment Ofaneurosis inanadult will alsoshow that asup-
+pressed emotion may frequently persistforalong time inun-
+conscious oreven inconscious phantasies,thecontent ofwhich
+naturally runsdirectly counter tosome predominant tendency,
+andyetthat thisantagonism does notresult inanyproceedings
+onthepart oftheego against what ithasrepudiated. The
+phantasyistolerated forquitealong time,until suddenly one
+day, usuallyasaresult ofanincrease inthe affective cathexis
+[see footnote page 48]ofthephantasy,aconflict breaks out
+between itand theegowith alltheusual consequences.Inthe
+LeBon'sDescription oftheGroupMind 19
+Agroup, further,issubjecttothetruly magical
+powerofwords; theycanevoke themost formidable
+tempestsinthegroup mind, andarealsocapableof
+stilling them(p.117). ^Reason andargumentsare
+incapableofcombatingcertain- words and formulas.
+Theyareuttered withsolemnityinthepresenceof
+groups,and assoon astheyhavebeen pronounced
+anexpressionofrespectisvisible onevery coun-
+tenance, and allheads arebowed. Bymany they
+areconsidered asnatural forces, assupernatural
+powers.' (p.117.)Itisonly necessaryinthiscon-
+nection toremember thetaboo upon names among
+primitive people and themagical powers which they
+ascribe tonames andwords.^
+And,- finally, groupshave never thirsted after
+truth. Theydemand illusions, andcannot dowithout
+processofachild's developmentinto amature adult there isa
+more andmore extensive integrationofitspersonality,aco-
+ordination oftheseparateinstinctive feelings anddesires which
+havegrown upinhimindependentlyofoneanother. Theanalogous
+processinthedomain ofsexual lifehaslongbeenknown tous
+astheco-ordination ofallthesexual instincts into adefinitive
+genital organisation. {Drei AbhandlungenzurSexualtheorie, 1905.
+[ThreeContributions' totheSexual Theory. Nervous andMental
+Disease Monograph Series, No.7,1910.]) Moreover, that the
+unification oftheegoisliable tothesame interferences asthat
+ofthe libido isshown bynumerous familiar instances, such as
+that ofmen ofscience whohave preser\^edtheir faith inthe
+Bible, andthe like.
+*SeeTotem unciTabu.
+20Group Psychology andtheAnalysis oftheEgo
+them. They constantly givewhat isunreal precedence
+over what isreal; theyarealmost asstronglyin-
+fluenced bywhat isuntrue asbywhat istrue.They
+have anevident tendency nottodistinguishbetween
+thetwo(p.^^),
+Wehave pointedoutthat thispredominanceof
+the lifeofphantasyand ofthe illusion born ofan
+unfulfilled wish istherulingfactor inthepsychology
+ofneuroses. Wehave found thatwhat neurotics
+areguided byisnotordinary objective reality but
+psychological reality. Ahysterical symptomisbased
+upon phantasyinstead ofupontherepetitionofreal
+experience,andthesense ofguiltinanobsessional
+neurosis isbased uponthefact ofanevil intention
+which was never carried out. Indeed, justasin
+dreams and inhypnosis,inthementaloperations
+ofagroupthe function fortestingtherealityof
+thingsfalls into thebackgroundincomparisonwith
+thestrengthofwishes with their affective cathexis.^
+What LeBon saysonthesubjectofleaders of
+groupsislessexhaustive, anddoes, notenable usto
+make outanunderlying principlesoclearly. He
+thinks that assoon asliving beingsaregathered
+togetherincertain numbers, nomatter whether
+theyareaherd ofanimals oracollection ofhuman
+beings, they place themselvesinstinctivelyunder the
+^[See footnotep.48.]
+LeBon'sDescription oftheGroupMind 21
+authorityofachief(p.134).Agroupisanobed-
+ient herd, which could never livewithout amaster.
+Ithassuch athirst forobedience that itsubmits
+instinctivelytoanyone whoappointshimself itsmaster.
+Althoughinthiswaytheneeds ofagroup carry
+ithalf-waytomeet theleader, yethetoomust fitin
+with itinhispersonal qualities. Hemust himself be
+heldji-iascination byastrongfaith(inanidea) in
+order toawaken thegroup'sfaithjhemust possess
+astrong andinipnsing will,which thegroup,which
+hasnowill ofitsown, canaccept from him. Le
+Bonthen discusses thedifferent kinds ofleaders, and
+themeans bywhich theywork uponthegroup. On
+thewhole hebelieves thattheleaders make themselves
+feltbymeans oftheideas inwhich they themselves
+arefanatical believers.
+Moreover, heascribes both totheideas and to
+theleaders amysteriousand irresistible power,which
+hecalls'prestige'. Prestigeisasort ofdomination
+exercised over usbyanindividual, awork oranidea.
+Itentirely paralysesour 'criticalfaculty, and fillsus
+with astonishment andrespect.Itwould seem to
+arouse afeelinglikethat offascination inhypnosis
+(p.148).Hedistinguishes between acquiredorarti-
+ficial andpersonal prestige. The former isattached
+topersonsinvirtue oftheir name, fortune andreput-
+ation, and toopinions, works ofart, etc.,invirtue
+oftradition. Since ineverycase itharks back toU"'
+22Group Psychology andtheAnalysis oftheEgo
+thepast,itcannot beofmuchhelptousinunder-
+standingthispuzzlinginfluence. Personalprestigeis
+attached toafewpeople, whobecome leaders by
+means ofit,and ithasthe effect ofmaking every-
+thing obeythem asthough bytheoperationofsome
+magnetic magic.Allprestige, however,isalso
+dependent upon success, and islost intheevent of
+failure(p.159).
+Wecannot feel thatLeBon hasbroughtthe
+function oftheleader andtheimportanceofprestige
+completelyintoharmonywith hisbrilliantly executed
+pictureofthegroupmind.
+Ill
+OTHER ACCOUNTS OFCOLLECTIVE
+MENTAL LIFE
+We have made use ofLeBon'sdescription by
+wayofintroduction, because itfits insowellwith
+ourownPsychologyintheemphasiswhich itlays
+upon unconscious mental life. Butwemustnowadd
+that asamatter offactnone ofthat author's state-
+mentsbringforwardanythingnew.Everythingthathe
+saystothedetriment anddepreciationofthemani-
+festations ofthegroup mind hadalready been said
+byothers before him withequaldistinctness and
+equal hostility, andhasbeenrepeatedinunison by
+thinkers, statesmen and writers since the earliest
+periodsofliterature.^ Thetwo theses which com-
+prisethemostimportant ofLeBon'sopinions,those
+touching uponthe collective inhibition ofintellectual
+functioning andtheheighteningofaffectivityingroups,
+*B.Kraskovicjun.:Die Psychologie der Kollektivitdien.
+Translated[intoGerman] from theCroatian bySiegmund von
+Posavec. Vukovar, 1915.Seethebodyofthework aswell as
+thebibliography.
+24Group Psychology andtheAnalysis oftheEgo
+hadbeen formulatedshortly before bySighele.* At
+bottom,allthat isleftover asbeing peculiartoLe
+Bon arethetwo notions oftheunconscious andof
+thecomparisonwith themental lifeofprimitive
+people,andeven these hadnaturallyoften been
+alluded tobefore him.
+But,what ismore, thedescription andestimate
+ofthegroupmind astheyhavebeengiven byLe
+Bonand the resthave notbyanymeans been left
+undisputed. There isnodoubt that allthephenomena
+ofthegroupmind which havejustbeen mentioned
+have been correctly observed, but itisalsopossible
+todistinguishother manifestations ofthegroup
+formation, which operateinaprecisely opposite sense,
+andfrom which amuchhigher opinionofthegroup
+mind must necessarilyfollow.
+LeBon himself waspreparedtoadmit that in
+certain circumstances themorals ofagroupcanbe
+higherthan those oftheindividuals thatcompose it,
+and that onlycollectivities arecapableofahigh
+degreeofunselfishness and devotion.^While with
+isolated individuals personalinterest isalmost the
+only motive force, with groupsitisvery rarely
+prominent.' (p.65.)Other writers adduce the fact
+that itisonly society whichprescribes anyethical
+*SeeWalter Moede :*DieMassen- undSozialpsychologieim
+kritischen Oberblick.' Meumann and Scheibner's Zeitschrift fur
+pddagogische Psychologie undexperimentelle Pddagogik. 1915,XVI.
+Other Accounts ofCollective MentalLife 25
+standards at allforthe individual, while heasa
+rule fails inonewayoranother tocome upto its
+highdemands. Orthey pointoutthat inexceptional
+circumstances there mayarise incommunities the
+phenomenonofenthusiasm, which hasmade the
+most splendid groupachievementspossible.
+Asregardsintellectual work itremains afact,
+indeed, thatgreatdecisions intherealm ofthought
+andmomentous discoveries and solutions ofproblems
+areonly possibletoanindividual, workinginsolitude.
+Buteven thegroup mind iscapableofgeniusin
+intellectual creation, asisshown above allbylanguage
+itself, aswell asbyfolk-song,folk-lore andthe like.
+Itremains anopen question, moreover, howmuch
+theindividual thinker orwriter owes[tothestimulation
+ofthegroupinwhich helives, orwhether hedoes
+more thanperfectamental work inwhich theothers
+have hadasimultaneous share.
+Infaceofthese completely contradictory accounts,
+itlooks asthoughthework ofGroup Psycholog}'-
+were bound tocome toanineffectual end. But it
+iseasytofind amorehopeful escape from the
+dilemma. Anumber ofverydifferent formations have
+probably been mergedunder theterm^
+group'and
+may requiretobedistinguished. The assertions of
+Sighele, LeBon. findthe rest relate togroupsofa
+short-lived character, which somepassinginterest has
+hastily agglomeratedoutofvarious sorts ofindividuals.
+26Gro2ip Psychology andtheAnalysis oftheEgo
+The characteristics ofrevolutionary groups, and
+especiallythose ofthegreat French Revolution, have
+unmistakably influenced theirdescriptions. The op-
+posite opinions owe theirorigintotheconsideration
+ofthose stablegroupsorassociations inwhich
+mankind passtheir lives, and w^hich areembodied in
+theinstitutions ofsociety. Groupsofthe firstkindstand
+inthesame sort ofrelation tothose ofthesecond
+asahighbutchoppyseatoagroundswell.
+McDougall,inhisbook onTheGroup Mind^
+starts outfrom thesame contradiction thathasjust
+been mentioned, and finds asolution for itinthe
+factor oforganisation.Inthesimplest case, hesays,
+the'
+group'
+possesses noorganisationatallorone
+scarcely deservingthename. Hedescribes agroup
+ofthiskind asa'crowd'. Butheadmits that a
+crowd ofhumanbeingscanhardly cometogether
+withoutpossessingat allevents therudiments of
+anorganisation, and thatpreciselyinthesesimple
+groups manyofthefundamental facts ofCollective
+Psychologycanbeobserv^ed withspecial ease(p.22).
+Before themembers ofarandom crowd ofpeople
+canconstitutesomethinginthenature ofagroupin
+thepsychologicalsense oftheword, acondition has
+tobefulfilled; these individuals must have something
+incommon with one another, acommon interest in
+^Cambridge University Press, 1920.
+Other AccountsofCollective MentalLife 27
+anobject,asimilar emotional bias insome situation
+orother, and('consequently',Ishould like to^
+interpolate)*somedegreeofreciprocal influence'
+,
+(p.23). Thehigherthedegreeof'this mental
+homogeneity',themorereadily dothe individuals
+form apsychological group, and themorestriking
+arethemanifestations ofagroupmind.
+Themost remarkable and also themost im-
+portantresult oftheformation ofagroupIsthe
+'exaltation orintensification ofemotion'
+produced
+inevery member of it(p.24). InMcDougall's
+opinionmen's emotions are stirred inagrouptoa
+pitchthat they seldom ornever attain under other
+conditions; and itisapleasurable experiencefor
+thosewho areconcerned tosurrender themselves so
+unreservedlytotheirpassions and thus tobecome
+mergedinthegroupand tolose thesense ofthe
+limits oftheirindividuality. Themanner inwhich
+individuals arethus carried away byacommon im-
+pulseisexplained byMcDougall bymeans ofwhat
+hecalls the'principleofdirect induction ofemotion
+bywayoftheprimitive sympathetic response' (p.25),
+thatis,bymeans oftheemotionalcontagionwith
+which wearealreadyfamiliar. The fact isthat the
+perception ofthesignsofanemotional state is
+calculatedautomaticallytoarouse thesame emotion
+intheperson whoperceives them. Thegreaterthe
+number ofpeopleinwhom thesame emotion can
+28Group Psychology andtheAnalysis oftheEgo
+\y besimultaneously observed, thestronger does this
+automatic compulsion grow. The individual loses his
+powerofcriticism, and lets himselfslipinto the
+same emotion. But insodoingheincreases the
+excitement oftheotherpeople, whohadproduced
+this effect upon him,andthus theemotionalcharge
+ofthe individuals becomes intensified bymutual
+interaction.Somethingisunmistakablyatwork in
+thenature ofacompulsiontodothesame asthe
+others, toremain inharmonywith themany. The
+coarser andsimpler emotions arethemoreaptto
+spread throughagroupinthisway (p.39).
+Thismechanism fortheintensification ofemotion
+isfavoured bysome other influences which emanate
+fromgroups. Agroup impressestheindividual with
+asense ofunlimited power and ofinsurmountable
+peril. For themoment itreplacesthewhole of
+humansociety, which isthewielder ofauthorit}^,
+whose punishments theindividualfears, and forwhose
+sake hehassubmitted tosomanyinhibitions. Itis
+clearly perilousforhim toputhimself inopposition
+toit,and itwillbesafer tofollow theexampleof
+those around himandperhapseven 'hunt with the
+pack'.Inobedience tothenew authority hemay
+puthisformer'conscience'outofaction, and so
+surrender tothe attraction oftheincreased pleasure
+that iscertainlyobtained from theremoval ofin-
+hibitions. Onthe whole, therefore,it isnotso
+Other Accounts ofCollective Mental Life 29
+remarkable thatweshould seeanindividual ina
+group doingorapproving thingswhich hewould
+have avoided inthenormal conditions oflife;and in
+thiswaywemay even hopetoclear upalittle of
+themysterywhich issooften covered bythe
+enigmaticword*
+suggestion'.
+McDougalldoes notdisputethe thesis asto
+the collective inhibition ofintelligenceingroups
+(p.41).Hesaysthattheminds oflowerintelligence
+bring down those ofahigherorder totheirown
+level. The latter areobstructed intheiractivity,
+because ingeneralan intensification ofemotion
+creates unfavourable conditions forsound intellectual
+work, and further because the individuals areintim-
+idated bythegroupand their mentalactivityis
+not free, andbecause there isaloweringineach
+individual ofhissense ofresponsibilityforhisown
+performances.
+Thejudgementwith which McDougall sums
+upthepsychologicalbehaviour ofasimple^
+unorga-
+nised'groupisnomorefriendlythan that of
+LeBon. Such agroup*
+isexcessively emotional,
+impulsive, violent, fickle, inconsistent, irresolute and
+extreme inaction, displaying onlythecoarser emo-
+tions and the less refined sentiments; extremely
+suggestible,careless indeliberation, hastyinjudg-
+ment, incapableofany but the simpler and
+imperfect forms ofreasoning; easily swayedandled,
+30Group Psychology andtheAnalysis oftheEgo
+lackinginself-consciousness, devoid ofself-respect and
+ofsense ofresponsibility, andapttobecarried away
+bytheconsciousness ofitsown force, sothat it
+tends toproduceallthe manifestations wehave
+learnt toexpectofany irresponsible and absolute
+power. Hence itsbehaviour islike thatofanunruly
+child oranuntutored passionate savageinastrange
+situation, rather than likethatofitsaverage member;
+and intheworst cases itislikethat ofawild beast,
+rather than like that ofhumanbeings.' (p.45.)
+Since McDougallcontrasts thebehaviour ofa
+highly organised groupwithwhat hasjustbeen des-
+cribed, we shall beparticularlyinterested tolearn
+inwhat thisorganisation consists, andbywhat
+factors itisproduced. The author enumerates five
+/^
+principalconditions'forraisingcollective mental
+^
+lifetoahigherlevel.
+The firstandfundamental condition isthatthere
+should besomedegreeofcontinuityofexistence in
+thegroup.Thismaybeeither material orformal:
+the former,ifthesame individualspersistinthe
+groupforsome time; and the latter,ifthere is
+developedwithin thegroupasystemoffixedpositions
+which areoccupied byasuccession ofindividuals.
+Thesecond condition isthat inthe individual
+member ofthegroupsome definite idea should be
+formed ofthe nature, composition,functions and
+capacitiesofthegroup,sothatfrom thishemay
+Other Accounts ofCollective Alental Life 3i
+developanemotional relation tothegroupasa
+whole.
+The third isthat thegroupshould bebrought
+into interaction (perhapsintheform ofrivalry)with
+other groupssimilar to itbutdiffering from itin
+many respects.
+The fourth isthat thegroupshouldpossess
+traditions, customs and habits, andespecially such as
+determine the relations of itsmembers toone
+another.
+The fifth isthat thegroupshould have adefinite
+structure, expressedinthespecialisation and differ-
+entiation ofthefunctions ofitsconstituents.
+AccordingtoMcDougall,ifthese conditions
+are fulfilled, thepsychological disadvantagesofthe
+groupformation areremoved. The collective lower-
+ingofintellectualabilityisavoided bywithdrawing
+theperformanceofintellectual tasks from thegroup
+andreserving them forindividual members of it.
+Itseems tousthat the condition which
+McDougall designatesasthe'
+organisation'ofa
+groupcanwithmorejustification bedescribed in
+another way. Theproblemconsists inhow topro-
+cure forthegroup preciselythose features which
+were characteristic ofthe individual andwhich are
+extinguishedinhimbytheformation ofthegroup.
+For the individual, outside theprimitive group,
+possessedhisowncontinuity,hisself-consciousness,
+32Group Psychology andtheAnalysis oftheEgo
+histraditions and customs, hisownparticular func-
+tions andposition, andkept apart from his rivals.
+Owingtohisentryintoan^
+unorganised'
+group hehad
+lost this distinctiveness foratime. Ifwethusrecog-
+nise that theaim istoequipthegroupwith the
+attributes oftheindividual, we shall bereminded
+ofavaluable remark ofTrotter's,^ totheeffect that
+thetendency towards theformation ofgroupsisbio-
+logicallyacontinuation ofthe multicellular character
+ofallthehigher organisms.
+^Instincts oftheHerd inPeaceandWar. Fisher Unwin, 1916.
+I
+IV
+SUGGESTION AND LIBIDO
+^
+We started from the fundamental fact that an
+individual inagroupissubjected throughitsinfluence
+towhat isoften aprofoundalteration inhismental
+activity. Hisemotions becomeextraordinarilyinten-
+sified, while hisintellectualability becomes markedly
+reduced, both processes being evidentlyinthe
+direction ofanapproximationtotheother individuals
+inthegroup;and this result canonlybereached
+bytheremoval ofthose inhibitions uponhisinstincts
+which arepeculiartoeach individual, andbyhis
+resigningthoseexpressionsofhisinclinations which
+areespeciallyhisown.Wehave heard that these
+often unwelcomeconsequencesaretosome extent
+atleast prevented byahigher*
+organisation'ofthe
+group;but thisdoes notcontradict thefundamental
+fact ofGroup Psychology—thetwo theses asto
+the intensification oftheemotions and the inhibition
+ofthe intellect inprimitive groups. Our interest isI
+34Group Psychology andtheAnalysis oftheEgo
+now directed todiscoveringthepsychological explan-
+ation ofthismental changewhich isexperienced b}'
+theindividual inagroup.
+Itisclear that rational factors (suchasthe in-
+timidation oftheindividual which hasalready been
+mentioned, thatis,theaction ofhis instinct ofself-
+preservation)donotcover theobservable phenomena.
+Beyondthiswhatweareoffered asanexplanation
+byauthorities upon SociologyandGroup Psychology
+isalwaysthesame, even thoughitisgivenvarious
+names, and that is—themagicw^ord'suggestion'.
+Tarde calls it'imitation'
+;butwecannothelp
+agreeingwith awriter whoproteststhat imitation
+comes under theconceptofsuggestion,and isin
+factoneofitsresults.^ LeBon traces back allthe
+puzzlingfeatures ofsocial phenomenatotwo factors:
+themutualsuggestionofindividuals and theprestige
+ofleaders. Butprestige, again,isonly recognizable
+byitscapacityforevoking suggestion. McDougall
+foramomentgivesusanimpressionthat hisprin-
+cipleof'
+primitiveinduction ofemotion'
+mightenable
+ustodowithout theassumptionofsuggestion.But
+onfurther consideration weareforced toperceive
+that thisprinciple says nomore than the familiar
+assertions about imitation' or'contagion', except
+*
+Brugeilles:'L'essence duphenomenesocial: lasuggestion.'
+Revnephilosophiqne, 1913,XXV.
+Suggestion andLibido 35
+foradecided stress uponthe emotional factor.
+There isnodoubt thatsomethingexists inus
+which, whenwebecome aware ofsignsofanemo-
+tion insomeone else, tends tomake usfallintothe
+same emotion; buthow often dowenotsuccessfully
+oppose it,resist theemotion, and react inquitean
+opposite way? Why, therefore, dow^einvariably give
+waytothiscontagion when weare inagroup?
+Once moreweshould have tosaythatwhat com-
+pelsustoobeythistendencyisimitation, andwhat
+induces theemotion inus isthegroup's suggestive
+influence. Moreover, quite apart from this,McDougall
+does notenable ustoevadesuggestion; wehear
+from him aswell asfrom other writers thatgroups
+aredistinguished bytheirspecial suggestibility.We shall therefore bepreparedforthestatement
+thatsuggestion (ormorecorrectly suggestibility)is.
+actually anirreducible, primitive phenomenon,afun-"*
+damental fact inthemental lifeofman. Such, too,
+was theopinionofBernheim, ofwhoseastonishing \
+arts Iwas awitness intheyear 1889. But Ican^
+remember even thenfeelingamuffledhostilityto
+thistyrannyofsuggestion. When apatient who
+showed himself unamenable wasmetwith theshout:
+*What areyoudoing?Vous vouscontresuggestionnez!\
+Isaid tomyselfthat thiswas anevidentinjustice
+andanactofviolence. Forthemancertainly had
+arighttocounter-suggestionsiftheyweretryingto
+36Group Psychology andtheAnalysis oftheEgo
+subdue himwithsuggestions.Later onmyresistance
+took thedirection ofprotesting againsttheview that
+suggestion,which explained everything, was itself to
+bepreservedfrom explanation. Thinkingofit,I
+repeatedtheoldconundrum :^
+Christoph trug Christum,
+Christus trugdieganze Welt,
+Sag'wohatChristoph
+Damals hindenFussgestellt?^
+Christophorus Christum, sedChristus sustulit orbem:
+Constiterit pedibusdieubiChristophorus?
+Now that Ionce more approachthe riddle of
+suggestionafterhaving keptaway from itforsome
+thirty years,Ifindthere isnochangeinthesituation.
+To thisstatement Icandiscover onlyasingleex-
+ception,which Ineed notmention, since itisone
+which bears witness totheinfluence ofpsycho-analysis.
+Inotice thatparticularefforts arebeing made to
+formulate theconceptofsuggestion correctly,that
+is,tofixtheconventional useofthename.^ And this
+*Konrad Richter: 'Der deutsche S.Christoph.' Berlin,
+1896,Acta Germanic a,V,i.
+^[Literally:*Christopher bore Christ; Christ bore thewhole
+world; Say,where didChristopher thenputhisfoot?']
+'Thus, McDougall: *ANote onSuggestion.' Journal of
+Neurology andFsychopaihology, 1920, Vol.I,No. i.
+Suggestion andLibido 37
+isbynomeans superfluous,fortheword isacquiring
+amore andmore extended useandalooser and
+looser meaning,and willsoon come todesignate
+anysort otinfluence whatever, justasinEnglish,
+where'tosuggest'and'
+suggestion'
+correspondto
+ournahelegen andAnregung. Butthere hasbeen no
+explanationofthenature ofsuggestion,thatis,of
+theconditions under which influence without adequate
+logicalfoundation takesplace.Ishould not avoid
+thetask ofsupportingthisstatement byananalysisof
+the literature ofthe lastthirty years,ifIwere not
+aware thatanexhaustiveinquiryisbeingundertaken
+close athand which has inview thefulfilment ofthis
+verytask.
+Instead ofthis Ishallmake anattemptatusing
+theconceptoflibido forthepurposeofthrowing
+lightupon Group Psychology,aconcept which has
+done ussuchgoodservice inthestudyofpsycho-
+neuroses.
+Libido isanexpressiontaken from thetheory
+oftheemotions. We callbythatname theenergyI
+(regardedasaquantitative magnitude, thoughnot
+atpresent actually mensurable) ofthose instincts
+which have todowith allthatmaybecomprised
+under theword Move'. The nucleus ofwhatwe
+mean bylove naturallyconsists (and this iswhat is
+commonlycalled love, andwhat thepoets sing of)
+insexual love with sexual union asitsaim. Butwe
+38Group Psychology andtheAnalysis oftheEgo
+donotseparate from this—what inanycase hasa
+share inthename*love'—ontheonehand, self-love,
+andonthe other, love forparents and children,
+friendship and love forhumanityingeneral,and also
+devotion toconcreteobjects and toabstract ideas.
+Ourjustificationlies inthefact thatpsycho-analytic
+research hastaughtusthat allthese tendencies are
+anexpressionofthesame instinctiveactivities;in
+relations between thesexes these instincts force their
+waytowards sexual union^but inother circumstances
+theyare diverted from thisaim orareprevented
+fromreaching it,though always preserving enough
+oftheiroriginalnature tokeeptheiridentity recog-
+nizable (as insuch features asthelongingfor
+proximity, andself-sacrifice).
+Weareofopinion, then, thatlanguagehascarried
+outanentirely justifiable pieceofunification in
+creatingtheword^love'with itsnumerous uses,and
+thatwecannot dobetter than take itasthebasis
+ofour scientific discussions andexpositionsaswell.
+Bycomingtothis decision, psycho-analysishas let
+loose astorm ofindignation,asthoughithadbeen
+guiltyofanactofoutrageousinnovation. Yetpsycho-
+analysis hasdonenothing originalintakinglove in
+this*wider'sense. Initsorigin, function, andrelation
+tosexuallove, the^Eros' ofthephilosopherPlato
+coincidesexactlywith thelove force, the libido, of
+psycho-analysis,ashasbeen shown indetail by
+Suggestion andLibido 39
+Nachmansohn andPfister;^ andwhen theapostle Paul,
+inhisfamousepistletotheCorinthians, prizeslove
+above allelse,hecertainly understands itinthesame
+'wider'sense.^ But thisonly shows thatmen do
+notalw^aystake theirgreatthinkersseriously, even
+when they profess most toadmire them.
+Psycho-analysis,then,givesthese love instincts
+thename ofsexual instincts, apotioriandbyreason
+oftheirorigin. Themajorityof'educated'
+people
+haveregardedthisnomenclature asaninsult, and
+have taken their revenge byretorting upon ps3^cho-
+analysiswith thereproachof^
+pan-sexualism'. Anyone
+who considers sex assomething mortifyingandhu-
+miliatingtohuman nature isatlibertytomake use
+ofthemoregenteel expressions'Eros' and*erotic'.
+1mighthave done somyself from the firstandthus
+have spared myself muchopposition. But Ididnot
+wantto,for Ilike toavoid concessions tofaint-
+heartedness. Onecannever tellwhere thatroadmay
+leadone;onegiveswayfirst inwords, andthen little
+bylittle insubstance too. Icannot seeanymerit in
+being ashamed ofsex;theGreek word*
+Eros',
+^Nachmansohn: *Freuds Libidotheorie verglichenmitder
+Eroslehre Platos'. InternationaleZeitschrift fiirPsychoanalyse,
+1915,Bd.in; Pfister: 'Plato alsVorlaufer derPsychoanalyse',
+ibid., 192 1,Bd.VII.['Plato:aFore-Runner ofPsycho-Analysis'.
+International Journal ofPsycho- Analysis, 1922, Vol.III.]
+^'ThoughIspeakwith thetonguesofmenandofangels,and
+have notlove,Iambecome assounding brass, oratinkling cymbal.'
+40Group Psychology andtheAnalysis oftheEgo
+which istosoften the affront,isintheendnothing
+more than atranslation ofourGerman word Liebe
+[love]; andfinally, hewhqknows how towaitneed
+make noconcessions.
+We willtryour fortune, then, with thesup-
+positionthat loverelationships (or, touseamore
+neutral expression, emotional ties) also constitute the
+essence ofthegroupmind. Letusremember that
+theauthorities make nomention ofanysuch relations.
+What would correspondtothem isevidently con-
+cealed behind the shelter, thescreen, ofsuggestion.
+Our hypothesisfindssupportinthe first instance
+from twopassing thoughts. First, that agroupis
+clearlyheldtogether byapowerofsome kind: and
+towhat power could this featbebetter ascribed
+than toEros, who holdstogether everythinginthe
+world?Secondly,that ifanindividualgives uphis
+distinctiveness inagroupand lets itsothermembers
+influence himbysuggestion,itgives one theim-
+pressionthathedoes itbecause hefeels theneed
+ofbeinginharmony ^ith them rather than inop-
+positiontothem—sothatperhapsafter allhedoes
+it^ihnen zuLiebe'}
+^[Anidiom meaning*for their sake'.Literally:*for lore
+ofthem'.—Translator.]
+V
+TWO ARTIFICIAL GROUPS: THECHURCH
+ANDTHEARMY
+Wemayrecall from what weknow ofthe
+morphologyofgroupsthat itispossibletodistinguish
+verydifferent kinds ofgroups andopposinglines in
+their development. There arevery fleeting groups
+andextremely lasting ones; homogeneous ones,made
+upofthesame sorts ofindividuals, andunhomoge-
+neous ones;naturalgroups, apdartificial ones, requiring
+anexternal force tokeep themtogether; primitive
+groups,andhighly organisedones with adefinite
+structure. But forreasons which haveyettobe
+explained weshould liketolayparticularstress upon
+adistinction tov/hich the authorities have rather
+giventoo littleattention;Irefer tothatbetween
+leaderlessgroups and those with leaders. And, in
+complete oppositiontotheusualpractice, we shall
+notchoose arelatively simple groupformation as
+ourpointofdeparture, but shallbeginwithhighly
+organised, lasting and artificialgroups. Themost
+42Group Psychology andtheA^ialysis oftheEgo
+interesting exampleofsuch structures arechurches—
+communities ofbelievers—andarmies.
+Achurch andanarmyare artificialgroups,that
+is,acertain external force isemployedtoprevent
+them fromdisintegratingand tocheck alterations in
+their structure. Asaruleapersonisnotconsulted,
+or isgiven nochoice, astowhether hewants to
+enter such agroup; anyattemptatleavingitis
+usualty met with persecutionorwdth severepunish-
+ment, orhasquitedefinite conditions attached to it.
+It isquiteoutside ourpresentinterest toenquire
+why these associations need suchspecial safeguards.We areonlyattracted byonecircumstance, namely
+that certain facts, which are farmore concealed in
+other cases, canbeobserved very clearlyinthose
+highly organised groupswhich areprotectedfrom
+dissolution inthemanner that hasbeen mentioned.
+Inachurch (andwemaywith advantagetake
+theCatholic Church asatype)aswell asinan
+army, however different thetwomaybe inother
+respects, thesame illusion holds goodofthere being
+ahead—intheCatholic Church Christ,inanarmy
+itsCommander-in-Chief —who loves alltheindividuals
+inthegroupwith anequal _^Love. Everything
+depends uponthis.illusion;ifitwere tobedropped,
+then both Church andarmy would dissolve, sofar
+astheexternal force permitted them to.This equal
+lovewasexpresslyenunciated byChrist:*Inasmuch
+TwoArtificial Groups:theChurch andtheArmy 43
+asyehave done itunto oneofthe least ofthese
+mybrethren, yehave done itunto me.'Hestands
+tothe individual members ofthegroupofbelievers
+inthe relation ofakind elderbrother; he istheir
+fathersurrogate.Allthedemands that aremade
+uponthe individual arederived from this love of
+Christ's. Ademocratic character runsthrough
+theChurch, forthevery reason that before Christ
+everyoneisequal, and thateveryone' hasanequal
+share inhislove. Itisnotwithout adeep reason
+that thesimilarity between theChristian communit}''
+and afamilyisinvoked, and that believers call
+themselves brothers inChrist, thatis,brothers
+throughthelove which Christ has forthem. There
+isnodoubt that the tiewhich unites each
+individual with Christ isalso thecause ofthe tie
+which unites them withoneanother. The likeholds^
+goodofanai'my. The Commander-in-Chief isa
+father who loves allhissoldiersequally,and forthat
+reason they arecomrades amongthemselves. The
+armydiffersstructurally from theChurch inbeing
+built upofaseries ofsuchgroups. Ever}^ captain
+is,as itwere, theCommander-in-Chief andthefather
+ofhiscompany, and so isevery non-commissioned
+officer ofhis section. It istrue that asimilar
+hierarchyhasbeen constructed intheChurch, but it
+does notplaythesame partiniteconomically;for
+more knowledgeandcare about individuals maybe
+44Group Psychology andtheAnalysis oftheEgo
+attributed toChrist than toahuman Commander-in-
+Chief/
+Itistobenoticed that inthese two artificial
+groups each individual isbound bylibidinaP tieson
+^Anobjectionwilljustly beraisedagainstthisconception
+ofthe libidinal[seenextfoot-note]structure ofanarmy onthe
+ground thatnoplacehasbeen found in itforsuch ideas as
+those ofone's country, ofnationalglory, etc.,which areofsuch
+importanceinholding anarmy together. Theanswer isthat
+that isadififerent instance ofagroup tie,andnolongersuch a
+simple one; fortheexamplesofgreat generals,like Caesar,
+Wallenstein, orNapoleon, show thatsuch ideas arenotindis-
+pensabletotheexistence ofanarmy.We shallpresentlytouch
+upon thepossibility ofaleadingidea beingsubstituted fora
+leader andupon therelations between thetwo.Theneglectof
+this libidinal factor inanarrny, evenwhen itisnottheOnlyfactor
+operative, seems tobenotmerelyatheoretical omission but
+alsoapractical danger.Prussian militarism, which wasjustas
+unpsychologicalasGerman science, mayhavehad tosuffer the
+consequences ofthis inthegreatwar.Weknow that thewar
+neuroses which ravagedtheGerman army havebeen recognized
+asbeingaprotest oftheindividualagainsttheparthewasex-
+pectedtoplayinthearmy; andaccordingtothecommunication
+ofE.Simmel [Kriegsneurosen und^Psychisches Trauma'. Munich,
+1918),thehard treatment ofthemenbytheir superiors maybe
+considered asforemost among themotive forces ofthedisease. If
+theimportanceofthe libido's claims onthisscore hadbeen
+betterappreciated, thefantastic promisesoftheAmerican Presi-
+dent's fourteenpoints would probablynothave been believed
+soeasily, andthesplendid instrument would nothavebroken in
+thehands oftheGerman leaders.
+^[Here andelsewhere theGerman ^hbidinos' isusedsimply
+asanadjectival derivative from thetechnical term^Libido'\
+TwoArtificial Groups:theChurch andtheArmy 45
+theonehand totheleader (Christ, theCommander-
+in-Chief) andonthe other hand tothe other
+members ofthegroup. How these two ties are
+related toeach other, whether they areofthesame
+kindandthesame value, andhowthey are tobe
+describedpsychologically—thesequestions must be
+reserved forsubsequent enquiry.Butwe shall ven-
+tureevennowuponamildreproach againstthe
+authorities fornothaving sufficiently appreciatedthe
+importanceofthe leader inthepsychologyofthe
+group,while ourown choice ofafirstobjectfor
+investigationhasbroughtusintoamore favourable
+position.Itwould appearasthough wewere on
+therightroad towards anexplanationoftheprincipal
+phenomenonofGroup Psychology—the individual's
+lack offreedom inagroup.Ifeach individual is
+bound intwo directions bysuchanintense emotional
+tie,weshall findnodifficultyinattributingtothat
+circumstance thealteration and limitation which have
+been observed inhispersonality.
+Ahint tothesame effect, that theessence of
+agrouplies inthe libidinal tiesexistinginit,isalso
+tobefound inthephenomenonofpanic, which is
+best studied inmilitary groups. Apanicarises if
+agroupofthat kind becomesdisintegrated.Its
+'libidinal' isaccordinglyintroduced inthe translation inorder
+toavoid thehighly-coloured connotation oftheEnglish'libi-
+dinous'.—Translator\
+46Group Psychology andtheAnalysis oftheEgo
+characteristics are thatnone oftheordersgiven
+by superiorsare any longerlistened to,and
+that each individual isonlysolicitous onhisown
+account, andwithout anyconsideration forthe rest.
+Themutual tieshave ceased toexist, andagigantic
+and senseless dread [Angst]isset free. At this
+point, again,theobjectionwillnaturally bemade
+that itisrather theotherwayround; and that the
+dread hasgrownsogreatastobeable todisregard
+alltiesand allfeelingsofconsideration forothers.
+McDougallhaseven(p.24)made useofthecase
+ofpanic (thoughnotofmilitary panic)asatypical
+instance ofthat intensification ofemotion bycon-
+tagion ('primary induction') uponwhich helays so
+much emphasis. Butnevertheless thisrational method
+ofexplanationisherequite inadequate.The ver\^
+questionthatneeds explanationiswhythedread has
+become sogigantic.Thegreatnessofthedanger
+cannot beresponsible,forthesame army which now
+falls avictim topanic may previouslyhave faced
+equally greatorgreater dangerwith complete
+success;itisoftheveryessence ofpanicthat it
+bears norelation tothedangerthat threatens, and
+often breaks outuponthemost trivial occasions.
+Ifanindividual inpanicdreadbeginstobesolicitous
+/only onhisown account, hebears witness inso
+doingtothefact that theemotional ties,which have
+hitherto made thedangerseem small tohim, have
+TwoArtificial Groups:theChurch andtheArmy 47
+ceased toexist. Now thathe isbyhimself infacing
+thedanger,hemay surelythink itgreater. The fact
+is,therefore,, thatpanic dreadpresupposesarelaxation
+inthe libidinal structure ofthegroup and reacts to
+itinajustifiable manner, and thecontrary view—
+that the libidinal ties ofthegrouparedestroyed
+owingtodread intheface ofthedanger—canbe
+refuted.
+The contention thatdread inagroupisincreas-
+edtoenormousproportions bymeans ofinduction
+(contagion)isnot intheleast contradicted bythese
+remarks.McDougall'sview meets thecaseentirely
+when thedangerisareally great oneandwhen the
+grouphasnostrongemotional ties—conditions which
+arefulfilled, forinstance, when afirebreaks out ina
+theatre oraplace ofamusement. But thereally
+instructive caseandtheonewhich canbebestem-
+ployedforourpurposesisthatmentioned above, in
+which abody oftroops breaks into apanic although
+thedangerhasnotincreased beyond adegreethat
+isusual andhasoften beenpreviouslyfaced. Itis
+nottobeexpectedthat theusageoftheword
+*
+panic'should beclearly andunambiguouslydeter-
+mined. Sometimes itisused todescribe anycollec-
+tivedread, sometimes even dread inanindividual
+when itexceeds allbounds, and often thename
+seems tobereserved forcases inwhich theoutbreak
+ofdread isnotwarranted bythe occasion. Ifwe
+48Group Psychology andtheAnalysis oftheEgo
+take theword'
+panic'inthesense ofcollective
+dread, wecan establish afar-reaching analogy.
+Dread inanindividual isprovokedeither bythe
+greatnessofadangerorbythecessation ofemo-
+tional ties (libidinal cathexes^\Libidobesetzungen\)\the
+latter isthecase ofneurotic dread.^ Injustthe
+sameway panicarises either owingtoanincrease
+ofthecommon dangerorowingtothedisappearance
+oftheemotional tieswhich hold thegroup together;
+andthe latter case isanalogoustothat ofneurotic
+dread.^
+^
+['Cathexis', from theGreek 'Katexco','Ioccupy'. The
+German word ^Besetzung' hasbecome offundamental importance
+intheexpositionofpsycho-analytical theory. Anyattemptatashort
+definition ordescriptionislikelytobemisleading, butspeaking
+very loosely, wemay saythat 'cathexis' isusedontheanalogy
+ofanelectric charge, and that itmeans theconcentration or
+accumulation ofmental energyinsome particularchannel. Thus,
+whenwespeakoftheexistence insomeone ofalibidinal cathexis
+ofanobject, or,moreshortly,ofanobject-cathexis, wemean
+that hislibidinal energyisdirected towards, orrather infused
+into, theidea {Vorstellung)ofsome objectintheouter world.
+Readers who desire toobtain amore precise knowledgeofthe
+term arereferred tothediscussions in'Zur Einfuhrungdes
+Narzissmus*andtheessays onmetapsychologyinKleine Schriften
+zurNeurosenlekre, VierteFolge.—Translator.^
+^SeeVorlesungen zurEinfuhrungindiePsychoanalyse.
+XXV, 3.Auflage, 1920. {IntroductoryLectures onPsycho- Analysis.
+Lecture XXV. GeorgeAllen andUnwin, 1922.]
+^Compare Bela v.Felszeghy's interesting though somewhat
+fantastic paper'Panik undPankomplex'. Imago, 1920, Bd.VI.
+TwoArtificial Groups:theChurch andtheArmy 49
+Anyone who, likeMcDougall (1.c), describes
+apanicasone oftheplainest functions ofthe
+'
+group mind'
+,arrives attheparadoxical positionthat
+thisgroup mind doesaway with itself inone ofits
+moststrikingmanifestations. It isimpossible to
+doubt thatpanic means thedisintegrationofagroup;
+itinvolves thecessation ofallthefeelingsofcon-
+sideration which themembers ofthegroup otherwise
+show oneanother.
+Thetypicaloccasion oftheoutbreak ofapanic
+isverymuch as itisrepresentedinNestroy's parody
+ofHebbel'splay aboutJudith and Holofernes. A
+soldier cries aut :'Thegeneralhas lost hishead !'
+andthereuponalltheAssyrians take toflight. The
+lossoftheleader insome sense orother, the birth
+ofmisgivingsabout him, brings ontheoutbreak of
+panic, thoughthedangerremains thesame; the
+mutual tiesbetween themembers ofthegroupdis-
+appear,asarule, atthesame time asthe tiewith
+their leader. Thegroupvanishes indust,likea
+Bolognaflaskwhen itstopisbroken off.
+The dissolution ofareligious groupisnotso
+easytoobserve. Ashort timeagothere came into
+myhands anEnglishnovel ofCatholicorigin, recom-
+mended bytheBishopofLondon, with the title
+When ItWasDark, Itgaveaclever and, as it
+seems tome, aconvincing pictureofsuch apossi-
+bility and itsconsequences.The novel, which is
+50Group Psychology andtheAnalysis oftheEgo
+supposedtorelate tothepresent day,tellshow a
+conspiracyofenemies ofthefigureofChrist andof
+the Christian faith succeed inarrangingfor a
+sepulchretobediscovered inJerusalem.Inthis
+sepulchreisaninscription,inwhich JosephofAri-
+mathaea confesses that forreasons ofpiety he
+secretly removed thebodyofChrist from its^rave
+onthethird dayafter itsentombment andburied it
+inthisspot. The resurrection ofChrist and his
+divine nature arebythismeans disposed of,andthe
+result ofthisarchaeological discoveryisaconvulsion
+inEuropeancivilisation andanextraordinaryincrease
+inallcrimes and acts ofviolence, whichonlyceases
+when theforgers' plothasbeen revealed.
+Thephenomenonwhich accompaniesthe disso-
+lution that isheresupposedtoovertake areligious
+groupisnotdread, forwhich theoccasion iswanting.
+Instead ofitruthless and hostileimpulsestowards
+other people make theirappearance, which, owingto
+theequallove ofChrist, they hadpreviously been
+unable todo.^ Butevenduringthekingdomof
+Christ those people whodonotbelongtothecom-
+munityofbelievers, whodonotlovehim,andwhom
+hedoes notlove, stand outside this tie. Therefore
+*Comparetheexplanationofsimilar phenomenaafter the
+abolition ofthepaternal authority ofthesovereign givenin
+P.Federn's Die vaterloseGesellschaft. Vienna, Anzengruber-
+Verlag, 1919.
+TwoArtificial Groups:theChurch andtheArmy 5I
+areligion,even ifitcalls itself thereligion oflove,
+must behard andunlovingtothose who donot
+belongto it.Fundamentally indeed every religionis
+inthissame way areligionoflove for allthose
+whom itembraces;whilecruelty and intolerance
+towards thosewhodonotbelongto itarenatural
+toevery religion. However difficult wemayfind it
+personally, weoughtnot toreproach believers too
+severely onthisaccount; people who areunbelieving
+orindifferent aresomuch better offpsychologically
+inthisrespect.Ifto-daythat intolerance nolonger
+shows itself soviolent and cruel asinformer cen-
+turies, wecanscarcely conclude that there hasbeen
+asofteninginhuman manners. Thecause israther \
+tobefound intheundeniableweakeningofreligious /
+feelings and the libidinal tieswhich depend upon
+them. Ifanothergrouptietakes theplaceofthe
+/religious one—and the socialistic tieseems tobe
+succeedingindoingso—
+,then there willbethe
+same intolerance towards outsiders asintheageof
+theWars ofReligion; and ifdifferences between
+scientificopinions could ever attain asimilsirsignifi-
+cance forgroups,thesame result wouldagain be
+repeated with thisnew motivation.
+BOSTON UNIVERSITY
+SCHOOL OFSOCIAL WORK
+LIBRARY
+VI
+FURTHER PROBLEMS ANDLINES OFWORK
+We have hitherto considered two artificialgroups
+andhave found that theyaredominated bytwo
+emotional ties. One ofthese, the tiewith theleader,
+seems (atallevents forthese cases) tobemore of
+arulingfactor than theother, which holds between
+themembers ofthegroup.
+Nowmuch else remains tobeexamined and
+described inthemorphologyofgroups. Weshould
+have tostart from theascertained fact that amere
+collection ofpeopleisnotagroup,solongasthese
+tieshave notbeen established init;butweshould
+have toadmit that inanycollection ofpeoplethe
+tendencytoform apsychological group may very
+easily become prominent. We should have togive
+our attention tothe different kinds ofgroups,more
+orless stable, that arisespontaneously,and tostudy
+theconditions oftheiroriginandoftheir dissolution.
+Weshould above allbeconcerned with thedistinction
+Fu7'ther Problems andLinesofWork 53
+between groupswhich have aleader and leaderless
+groups. We should consider whethergroupswith
+leaders maynotbethemoreprimitive andcomplete,
+whether intheothers anidea, anabstraction, may
+notbesubstituted fortheleader (astate ofthings
+towhichreligious groups,with their invisible head,
+form atransitionstage), andwhether acommon ten-
+dency,awish inwhich anumber ofpeoplecanhave
+ashare, may not inthesame way serve asa
+substitute. This abstraction, again, might bemore
+orlesscompletely embodied inthefigureofwhat
+wemightcall asecondary leader, andinteresting
+varieties w^ould arise from the relation between the
+ideaandtheleader. The leader ortheleadingidea
+might also, sotospeak,benegative;hatredagainst
+aparticular personorinstitutionmight operatein
+justthesameunifying way, andmightcallupthe
+same kind ofemotional ties aspositiveattachment.
+Then thequestionwould also arise whether aleader
+isreally indispensabletotheessence ofagroup—
+andotherquestionsbesides.
+But allthesequestions,which may, moreover,
+have been dealt w^ith inpartinthe literature of
+Group Psychology,willnotsucceed indivertingour
+interest from thefundamentalpsychological problems
+that confront usinthestructure ofagroup. And
+ourattention will firstbeattracted byaconsideration
+whichpromisestobringusinthemost direct way
+54Group Psychology andtheAnalysis oftheEgo
+^toaproofthat libidinal ties arewhat characterize
+/agroup.
+jLetuskeepbefore oureyesthenature ofthe
+/emotional relations which holdbetween men ingeneral.
+AccordingtoSchopenhauer'sfamous simile ofthe
+freezing porcupinesnoonecantolerate atoointimate
+approachtohisneighbour.^
+Theevidence ofpsycho-analysisshows thatalmost
+everyintimate emotional relation bets^^een twopeople
+which lasts forsome time—marriage, friendship,the
+relations between parents and children^—leaves a
+sediment offeelingsofaversion andhostility, which
+have first tobeeliminated byrepression.This is
+lessdisguisedinthecommon wranglesbetween
+business partnersorinthegrumblesofasubordinate
+**Acompanyofporcu'^ines crowded themselves very
+close together one cold winter's daysoastoprofit byone
+another's warmth and sosave themselves from beingfrozen to
+death. Butscon theyfeltone another'squills, which induced
+them toseparate again. And now,when theneed for.warmth
+brought them nearer together again,thesecond evilarose once
+more. Sothattheywere driven backwards andforwards from
+one trouble totheother,until they had discovered amean
+distance atwhich theycould most tolerablyexist' {Parerga und
+Paralipomena,II.Teil,XXXI., 'Gleichnisse und Parabeln'.)
+^Perhaps with the solitary exceptionoftherelation ofa
+mother toher son,which isbased upon narcissism,isnot j
+disturbed bysubsequent rivalry, and isreinforced byarudimentary
+attemptatsexual object-choice.
+Further Problems andLinesofWork55
+athissuperior. Thesamething happens whenmen
+cometogetherinlargerunits. Every time two
+families become connected byamarriage, each of
+them thinks itselfsuperior toorofbetter birth
+than the other. Oftwoneighbouringtowns each
+isthe other's mostjealous rival; everylittle canton
+looks down upon theothers withcontempt. Closely
+related races keep one another atarm'slength;
+theSouth German cannot endure theNorth German,
+theEnglishmancastsevery kind ofaspersion upon
+theScotchman, theSpaniard despises thePortuguese.We arenolongerastonished thatgreaterdifferences
+should lead toanalmostinsuperable repugnance,
+such asthe Gallicpeoplefeel fortheGerman, the
+AryanfortheSemite, and thewhite races forthe
+coloured.
+When thishostilityisdirectedagainst people1
+who areotherwise lovedwedescribe itasambivalence/
+offeeling; andweexplainthefact, inwhat is
+probablyfartoorational amanner, bymeans ofthe
+numerous occasions for conflicts ofinterest which
+arisepreciselyinsuch intimate relations. Inthe
+undisguised antipathies and aversions which people
+feeltowardsstrangerswithwhom theyhave todo
+wemay recognizetheexpressionofself-love— of
+narcissism. This self-love works fortheself-assertion
+oftheindividual, andbehaves asthoughtheoccur-
+s
+rence ofany divergencefrom hisownparticular
+f
+56Group Psychology midtheAnalysis oftheEgo
+lines ofdevelopmentinvolved acriticism ofthem
+andademand fortheir alteration. Wedonotknow
+whysuch sensitiveness should have been directed to
+justthese details ofdifferentiation; but itisunmis-
+takable that inthiswhole connection mengive
+evidence ofareadiness forhatred, anaggressiveness,
+thesource ofwhich isunknown, and towhich one
+istemptedtoascribe anelementarycharacter.^
+Butthewhole ofthisintolerance vanishes, tem-
+porarilyorpermanently,astheresult oftheformation
+ofagroup, and inagroup. Solongasagroup
+formationpersistsorsofaras itextends, individuals
+behave asthough tlieywere uniform, tolerate other
+people's peculiarities, putthemselves onanequallevel
+with them, andhave nofeelingofaversion towards
+them. Such alimitation ofnarcissism can,according
+toour theoretical views, onlybeproduced byone
+factor, alibidinal tiewith otherpeople. Love for
+oneself knowsonlyonebarrier—love forothers, love
+forobjects.^ Thequestionwill atonce beraised
+*Inarecently published study, Jenseits desLustprinzips
+(1920) [BeyondthePieastirePrinciple,International Psycho-
+Analytical Library, No.4],Ihave attemptedtoconnect the
+polarityofloveandhatred with ahypothetical opposition between
+instincts oflifeand death, and toestablish thesexual instincts
+asthepurest examplesoftheformer, theinstincts oflife.
+^See *ZurEinfuhrung desNarzissmus', 1914.KleineSchriften
+znrNeurosenlehre, VierteFolge, 1918.
+Further Problems andLinesofWork 57
+whethercommunityofinterest initself, without any \
+addition oflibido, must notnecessarily lead tothe
+toleration ofotherpeople and toconsiderateness for
+them. Thisobjection maybemetbythereplythat
+nevertheless nolastinglimitation ofnarcissism is
+effected inthisway,since this tolerance does not
+persist longer than theimmediateadvantage gained
+from theotherpeople'scollaboration. Butthepractical
+importance ofthediscussion islessthanmight be
+supposed, forexperience hasshown that incases of
+collaboration libidinal ties areregularly formed be-
+tween thefellow-workers whichprolongandsolidify
+the relation between them toapoint beyond what
+ismerely profitable. Thesamethingoccurs inmen's
+social relations ashasbecome familiar topsycho-
+analytic research inthecourse ofthedevelopment
+oftheindividual libido. The libido propsitself upon
+thesatisfaction ofthegreatvitalneeds, andchooses as
+itsfirstobjectsthepeople whohave ashare inthat
+process. And inthedevelopmentofmankind as a'l
+whole, justasinindividuals, love alone acts as I
+thecivilizingfactor inthesense that itbringsry
+changefromegoismtoaltruism. And this istrue
+both ofthesexual love forwomen, with allthe
+obligations which itinvolves ofsparingwhat wornen
+arefondof,and alsoofthedesexualised, sublimated
+homosexual love forother men, which springsfrom
+Avork incommon.
+58Group Psychology andtheAnalysis oftheEgo
+Iftherefore ingroupsnarcissistic self-love is
+subjecttolimitations which donotoperateoutside
+them, that iscogentevidence that theessence ofa
+group formation consists inanewkind oflibidinal
+tiesamongthemembers ofthegroup.
+Butour interest now leads usontothepressing
+questionastowhatmaybethenature ofthese ties
+which exist ingroups.Inthepsycho-analytic study
+ofneuroses wehave hitherto been occupiedalmost
+exclusivelywith tiesthat unite with theirobjectsthose
+love instincts which stillpursue directlysexual aims. In
+groupsthere canevidently benoquestionofsexual
+aims ofthat kind.Weareconcerned here with love
+instincts which havebeen diverted from theiroriginal
+aims, though they donotoperatew^ith lessenergy
+onthat account. Nowwehavealready observed
+within therangeoftheusual sexualobject-cathexis
+[Objektbesetzung] phenomenaw^hichrepresentadi-
+version ofthe instinct from itssexual aim.We
+have described them asdegreesofbeinginlove,
+and haverecognizedthat theyinvolve acertain
+encroachment upontheego.We shallnow turn
+our attention morecloselytothese phenomenaof
+beinginlove,inthefirmexpectationoffindingin
+them conditions which canbetransferred tothe ties
+that exist ingroups.Butweshould also like to
+know whether this kind ofobject-cathexis,aswe
+know itinsexuallife, representstheonlymanner
+Further Problems andLinesofWork 59
+ofemotional tiewith otherpeople,orwhether we
+must take other mechanisms ofthesort intoaccount.
+Asamatter offactwelearn frompsycho-analysis
+that there doexist other mechanisms foremotional
+ties, theso-calledidentifications^ insufficiently-known
+processes andhard todescribe, theinvestigationof
+which will forsome time keepusaway from the
+subjectofGroup Psychology.
+VII
+IDENTIFICATION
+Identification isknown topsycho-analysisasthe
+earliest expressionofanemotional tiewith another
+person.Itplaysapartintheearly historyofthe
+Oedipus complex. Alittleboywill exhibit aspecial
+interest inhisfather; hewould liketogrowlikehim
+andbelikehim,andtake hisplace everywhere. We
+may saysimplythathetakes hisfather ashisideal.
+This behaviour hasnothingtodowith apassiveor
+feminine attitude towards hisfather (and towards
+males ingeneral);itisonthecontrary typically
+masculine. Itfits inverywell with theOedipus
+complex,forwhich ithelpstopreparetheway.
+Atthesame time asthis identification with his
+father, oralittlelater, theboyhasbeguntodevelop
+atrueobject-cathexistowards hismother according
+tothe anaclitictype \Anlehnungstypus\} Hethen
+*
+[Literally,'
+leaning-up-against type ';from theGreek* dvaicXCva''
+*Ileanupagainst'.Inthe firstphase oftheir developmentthe
+Identi/ication 61
+exhibits, therefore, twopsychologicallydistinct ties:
+astraightforwardsexualobject-cathexis towards his
+mother andatypicalidentification towards hisfather.
+Thetwo subsist sidebyside foratime without any
+mutual influence orinterference. Inconsequenceol
+the irresistible advance towards aunification ofmental
+lifetheycometogetheratlast; and thenormal
+Oedipus complex originatesfrom their confluence^
+The little boy notices that hisfather stands inhis
+waywith hismother. His identification with his
+father then takes onahostile colourincr andbecomes
+identical with thewish toreplacehisfather inregard
+tohismother aswell. Identification, infact,is
+ambivcdent from thevery first;itcan turn intoan
+expressionoftenderness aseasilyasintoawish for
+someone's removal. Itbehaves like aderivative
+the first oralphase oftheorganisationofthelibido,
+inwhich theobjectthat w^elongforandprizeis
+assimilated byeating and isinthatwayannihilated
+assuch. The cannibal, asweknow, hasremained at
+sexual instincts have noindependent means offinding satisfaction;
+theydosobypropping themselves upon orMeaning upagainst'
+theself-preser\'ative instincts. The individual's first choice ofa
+sexual objectissaid tobeofthe'anaclitic type'when itfollows
+thispath; thatis,when hechoses ashis firstsexual object the
+same person who has satisfied hisearly non-sexual needs. Fora
+fulldiscussion ofthe anaclitic and narcissistictypesofobject-
+choice compare 'ZurEinfuhrung desNarzissmus'. —Translator.']
+62Group Psychology andtheAnalysis oftheEgo
+this standpoint;hehasadevouringaffection forhis
+enemies andonly devours people ofwhom he is
+fond.^
+Thesubsequent history ofthis identification with
+thefather may easily belostsightof. Itmayhappen
+that theOedipus complex becomes inverted, and
+that thefather istaken astheobjectofafeminine
+attitude, anobjectfrom which thedirectlysexual
+instincts look forsatisfaction;inthatevent theidenti-
+fication with thefather hasbecome theprecursorof
+anobjecttiewith thefather. Thesame holdsgood,
+with thenecessary substitutions, ofthebaby daughter
+aswell.
+Itiseasytostate inaformula thedistinction
+between anidentification with the father and the
+choice ofthefather asanobject.Inthe firstcase
+one's father iswhat onewould liketobe^and inthe
+second he iswhat onewould like tohave. The
+distinction, thatis,depends upon whether the tieat-
+taches tothesubjectortotheobjectoftheego.
+The former isthereforealready possiblebefore any
+sexualobject-choicehasbeenmade. Itismuch more
+*SeeDreiAbhandlungen zurSexualtheorie, andAbraham's
+*Untersuchungeniiber die friihestepragenitale Entwicklungs-
+stufe der Libido', InternationaleZeitschrift furPsychoanalyse,
+1916, Bd,rV;alsoincluded inhisKlinische Beitrdge zurPsycho-
+analyse (Internationale psychoanalytischeBibliothek. Nr. 10,
+1921).
+Identification 63
+difficult togiveaclearmetapsychological representa-
+tion ofthe distinction. We canonlysee that
+identification endeavours tomould aperson's own
+egoafter thefashion oftheone thathasbeen taken
+asa'model'.
+Letusdisentangleidentification as itoccurs in
+thestructure ofaneurotic symptom from itsrather
+complicatedconnections.Supposingthatalittle^ girl
+(andwewillkeeptoher forthepresent) develops
+thesamepainful symptomashermother—forinstance,
+thesametormenting cough. Now thismaycome
+about invarious ways. The identification maycome
+from theOedipus complex;inthat case itsignifies
+ahostile desire onthegirl's parttotake her
+mother'splace, and thesymptom expressesher
+object love tow^ards herfather, andbringsabout
+arealisation, under the influence ofasense of
+guilt,ofher desire totake hermother'splace:
+^You wanted tobeyour mother, andnowyou
+are—anyhowasfar asthepain goes'.This is
+the complete mechanism ofthe structure ofa
+hysterical symptom. Or,ontheother hand, the
+symptom maybethesame asthat oftheperson
+who isloved—(so, for instance, Dora inthe
+'Bruchstiick einerHysterieanalyse'^imitated her
+father'scough);inthat casewecanonlydescribe
+*\Kleine SchriftenzurNeurosenlehre. Zweite Folge.]
+64Group Psychology andtheAnalysis oftheEgo
+^.thestate ofthings bysayingthatidentification has
+<^appearedinsteadofobject-choice ,and thatobject-
+'hoice hasregressedtoidentification. Wehaveheard
+that identification isthe earliest andoriginalform of
+emotionaltie;itoften happensthatunder thecon-
+ditions inwhich symptoms areconstructed, thatis,
+where there isrepression andwhere themechanisms
+oftheunconscious aredominant, object-choiceis
+turned back into identification —theego,thatis,as-
+sumes thecharacteristics oftheobject.Itisnoticeable
+that inthese identifications theegosometimescopies
+theperson who isnotloved andsometimes theone
+who isloved. Itmust also strike usthat inboth
+cases the identification isapartial and extremely
+limited oneandonlyborrows asingletraitfrom the
+person who isitsobject.
+There isathirdparticularly frequentand im-
+portantcase ofsymptom formation,inwhich the
+identification leaves anyobjectrelation totheperson
+who isbeing copied entirely outofaccount. Sup-
+posing,forinstance, thatoneofthegirlsinaboarding
+school hashadaletter fromsomeone withwhom she
+issecretlyinlove which arouses herjealousy,and
+that she reacts to itwith afitofhysterics;then
+some ofherfriends whoknow about itwillcontract
+thefit,aswesay,bymeans ofmental infection.
+Themechanism isthat ofidentification based upon
+thepossibilityordesire ofputtingoneself inthesame
+Identification 65
+situation. The othergirlswould like tohave asecret
+love affair too,andunder theinfluence ofasense of
+guilt theyalso acceptthepain involved in it. It
+would bewrongtosupposethatthey take onthe
+symptom out ofsympathy. Onthecontrary, the\
+sympathy onlyarises outoftheidentification, and
+this isproved bythe fact that infection orimitation
+ofthiskind takesplaceincircumstances where even
+lesspre-existing sympathyistobeassumed than
+usuallyexists between friends inagirls'school. One
+egohasperceivedasignificant analogywith another
+upon onepoint—inourexample upon asimilar
+readiness foremotion; anidentification isthereupon
+constructed onthispoint, and, under theinfluence
+ofthepathogenic situation,isdisplaced ontothe
+symptomwhich theoneegohasproduced. The
+identification bymeans ofthesymptomhas thus
+become themark ofapointofcoincidence between
+the tv\^oegoswhich hastobekept repressed.
+What wehave learned from these three sources
+maybesummarised asfollows. First, identification
+istheoriginalform ofemotional tiewithanobject;
+secondly,inaregressive wayit-becomes asubstitute
+foralibidinalobject tie,as itwerebymeans ofthe
+introjectionoftheobjectinto theego;andthirdly,
+itmayarise with every newperceptionofacommon
+qualityshared withsome other person who isnotan
+objectofthesexual instinct. Themore important
+66Group Psychologya7tdtheAnalysis oftheEgo
+thiscommonquality is,themore successful maythis
+partialidentification become, and itmaythusrepre-
+sent thebeginningofanew tie.
+We already begintodivine that themutual tie
+between members ofagroupisinthenature ofan
+identification ofthiskind, based upon animportant
+emotional commonquality;andwemay suspectthat
+thiscommonqualitylies inthenature ofthetiewith
+theleader. Another suspicion maytellusthatwe
+are farfromhavingexhausted theproblemofidenti-
+fication, and thatwearefaced bytheprocess which
+psychologycalls^empathy \Einfuhlung\'andwhich
+playsthelargest partinourunderstandingofwhat
+isinherently foreigntoouregoinotherpeople. But
+we shall here limit ourselves totheimmediate emo-
+tional effects ofidentification, and shall leave onone
+side itssignificanceforour intellectual life.
+Psycho-analytic research, which hasalready
+occasionally attacked themore difficult problemsof
+thepsychoses, has alsobeen able toexhibit iden-
+tification tousinsome other cases which arenot
+immediately comprehensible.Ishall treat two of
+these cases indetail asmaterial forour further
+consideration.
+Thegenesisofmale homosexualityinalarge
+class ofcases isasfollows. Ayoung man has
+beenunusually~long andintenselyfixated uponhis
+mother inthesense oftheOedipus complex.But
+Identification 67
+atlast, after theendofhispuberty, thetimecomes
+forexchanginghismother forsome other sexual
+object. Thingstake asudden turn: theyoung man
+does notabandon hismother, but identifies himself
+withher; hetransforms himself into her, andnow
+looks about forobjects which canreplacehisego
+forhim, andonwhich hecanbestow such loveand
+care ashehasexperienced from hismother. This is
+afrequent process, which canbeconfirmed asoften
+asone likes, andwhich isnaturally quite independent
+ofanyhypothesisthatmay bemade astotheor-
+ganic drivingforce and themotives ofthesudden
+transformation. Astriking thingabout ^this identific- \
+ation isitsample scale;itremoulds theegoinonej
+ofitsimportantfeatures—in itssexual character—/
+uponthemodel ofw^hat hashitherto been theobject.
+Inthisprocesstheobject»itself isrenounced—whether
+entirely orinthesense ofbeing preserved onlyin
+theunconscious isaquestionoutside thepresent
+discussion. Identification with anobjectthat isre-
+nounced orlostasasubstitute forit,introjectionof
+thisobjectintotheego,isindeed nolongeranovelty
+tous.Aprocessofthekindmay sometimes be
+directly observed insmall children. Ashort time
+agoanobservation ofthis sortwaspublishedinthe
+InternationaleZeitschrift fiirPsychoanalyse. Achild
+\vhowasunhappyover thelossofakitten declared
+straightoutthatnowhehimself wasthekitten, and
+68Group Psychology andtheAnalysis oftheEgo
+accordinglycrawled about on allfours, would noteat
+attable, etc.^
+/Another such instance ofintrojectionofthe
+objecthasbeen provided bythe analysis ofmelan-
+cholia, anaffection which counts amongthemost
+remarkable ofitsexcitingcauses the real oremotio-
+nalloss ofalovedobject. Aleadingcharacteristic
+ofthese cases isacruelself-depreciationoftheego
+combined with relentless self-criticism and bitter self-
+reproaches. Analyses haveshown that thisdisparage-
+ment andthesereproaches applyatbottom tothe
+object andrepresenttheego's revenge uponit.The
+shadow oftheobjecthasfallenupontheego,asIhave
+said elsewhere.^ Theintrojectionoftheobjectishere
+unmistakablyclear.
+Butthese melancholias alsoshow ussomething
+else,which maybeofimportanceforour later dis-
+cussions. They show ustheego divided, fallen into
+twopieces, one ofwhichrages againstthesecond.
+Thissecondpieceistheonewhich hasbeen altered
+byintrojection andwhich contains the lostobject.
+But thepiece which behaves socruellyisnotun-
+known touseither. Itcomprisestheconscience, a
+*Marcuszewicz :'
+Beitrag zum autistischen Denken bei
+Kindern.' InternationaleZeiischrift fur Psychoanalyse, 1920,
+Bd.VI.
+^['Trauer undMelancholic' KleineSchrifienzurNeurosen-
+lekre, VierteFolge, 1918.]
+Identification 69
+criticalfaculty \histanzYvi\\}c{\x\ theego,which even
+innormal times takes upacritical attitude towards
+theego, thoughnever sorelentlessly andsounjusti-
+fiably. Onprevious occasions wehave been driven to
+thehypothesis^thatsome suchfaculty developsin
+ouregowhich maycut itself offfrom therest of
+theegoandcome into conflict with it.Wehave
+called itthe'
+egoideal'
+,andbywayoffunctions
+wehave ascribed to itself-observation, themoral
+conscience, thecensorshipofdreams, and the chief
+influence inrepression. Wehave said that itisthe
+heir totheoriginalnarcissism inwhich the childish
+egofound itsself-sufficiency;itgradually gathers up
+from theinfluences oftheenvironment thedemands
+which that environment makes upontheegoand
+which theegocannot alwaysriseto;sothataman,
+when hecannot besatisfied with hisego itself, may
+nevertheless beable tofind satisfaction intheego
+ideal which hasbeen differentiated outoftheego.
+Indelusions ofobservation, aswehave further shown,
+thedisintegrationofthisfaculty hasbecomepatent,
+andhasthus revealed itsoriginintheinfluence of
+*
+\^Instanz*—like*instance' inthephrase 'court of first
+instance'—wasoriginallyalegalterm. Itisnowused inthesense
+ofoneofahierarchyofauthorities orfunctions.—Translator.]
+^'ZurEinfiihrung desNarzissmus', 'Trauer undMelan-
+cholic'.1
+//OGroup Psychology andtheAnalysis oftheEgo
+superior powers, andabove allofparents/ Butwe
+have notforgottentoaddthat theamount ofdistance
+between thisegoideal andtherealegoisveryvari-
+ablefrom one individual toanother, and that with
+many peoplethis differentiation within theegodoes
+notgofurther than with children.
+But before wecanemploythis material for
+understandingthe libidinalorganisationofgroups, we
+must take intoaccount some other examplesofthe
+mutual relations between theobjectandtheego.^
+**ZurEinfiihrung desNarzissmus.'
+^We ?irevery wellaware thatwehave notexhausted the
+nature ofidentification with these examples taken frompathology,
+and thatwehave consequentlyleftpartoftheriddle ofgroup
+formations untouched. Afarmore fundamental andcomprehen-
+sivepsychological analysis would have tointervene atthispoint.
+Apath leads from identification byway ofimitation toempathy,
+thatis,tothecomprehension ofthemechanism bymeans of
+which weareenabled totake upanyattitude atalltowards
+another mental life.Moreover there isstillmuch tobeexplained
+inthemanifestations ofexistingidentifications. These resultamong
+other thingsinaperson limitinghisaggressiveness towards those
+withwhom hehasidentified himself, and inhissparing them
+andgiving themhelp. Thestudy ofsuch identifications, like
+those, forinstance, which lieattheroot ofclanfeeling,led
+Robertson Smith tothesurprisingresult thattheyrestuponthe
+recognition ofacommon substance {Kinship andMarriage, 1885),
+andmayeven therefore bebroughtabout byameal eaten in
+common. This feature makes itpossibletoconnect thiskind of
+identification with theearly historyofthehuman family which I
+constructed inTotem iindTabu.
+VIII
+BEING INLOVEANDHYPNOSIS
+Even initscapricestheusageoflanguageremains
+true tosome kind ofrealit3'\ Thus itgivesthe
+name of*love'toagreat many kinds ofemotional
+relationshipwhichwetoogroup together theoretically
+aslove; butthenagainitfeels adoubt whether
+this love isreal, true, actual love, and sohints at
+awhole scale ofpossibilitieswithin therangeofthe
+phenomenaoflove.We shall have nodifficultyin
+makingthesame discovery empirically.
+Inone class ofcasesbeinginlove isnothing
+more than object-cathexis onthepartofthesexual
+instincts with aview todirectlysexual satisfaction, a
+cathexis whichexpires, moreover, when thisaimhas
+been reached;this iswhat iscalled common, sensual
+love. But, asweknow, the libidinal situation rarely
+remains sosimple.Itwaspossibletocalculate with
+certainty upontherevival oftheneed which hadjust
+expired; and thismust nodoubt havebeen the first
+'J2Group Psychology andtheAnalysis oftheEgo
+motive fordirectingalastingcathexis upon thesexual
+object and for*
+loving'
+itinthepassionlessintervals
+aswell.
+To thismust beadded another factor derived
+from theastonishingcourse ofdevelopment which is
+pursued bythe erotic lifeofman. Inhis firstphase,
+which hasusually come toanendbythetimehe is
+fiveyears old, achild hasfound the firstobjectfor
+hislove inone orother ofhisparents, and allof
+hissexual instincts with theirdemand forsatisfaction
+have been united uponthisobject. Therepression
+which then sets incompels him torenounce the
+greater number ofthese infantile sexual aims, and
+leaves behind aprofound modification inhisrelation
+to hisparents. The child still remains tied to
+hisparents, butbyinstincts which must bede-
+scribed asbeing'inhibited intheiraim\zielgehemmte\\
+The emotions which hefeels henceforward towards
+theseobjectsofhislove arecharacterized as'tender'.
+Itiswellknown that the earlier'sensual'tendencies
+remain more orlessstrongly preservedintheun-
+conscious, sothat inacertain sense thewhole ofthe
+originalcurrent continues toexist.^
+Atpuberty,asweknow, there setinnewand
+very strong tendencies withdirectlysexual aims. In
+unfavourable casestheyremainseparate,intheform
+*Cf.DreiAbhandlungen zurSexualtheorie, I.e.
+BeinginLoveandHypnosis 73
+ofasensual current, from the*tender* emotional
+trends whichpersist. Wearethen faced byapicture
+thetwo aspects ofwhich certain movements in
+literature take suchdelightinidealising. Aman of
+this kind willshow asentimental enthusiasm for
+women whom hedeeply respects butwhodonot
+excite him tosexualactivities, andhewillonlybe
+potentwith otherwomen whom hedoes not'love*
+but thinks little oforevendespises.^ More often,
+however, theadolescent succeeds inbringingabout
+acertaindegreeofsynthesis between theunsensual,
+heavenlyloveand the sensual, earthly love, and his
+relation tohissexualobjectischaracterised bythe
+interaction ofuninhibited instincts and ofinstincts
+inhibited intheir aim. The depthtowhich anyone
+isinlove, ascontrasted with hispurelysensual
+desire, maybemeasured bythe size oftheshare
+taken bytheinhibited instincts oftendem*ess.
+Inconnection with thisquestionofbeinginlovewe
+have always been struck bythephenomenon ofsexual
+over-estimation —thefact that thelovedobject enjoys
+acertain amount offreedom from criticism, andthat
+allitscharacteristics arevalued morehighlythanthose
+ofpeople who arenotloved, orthan itsownwere
+atatimewhen ititselfwasnotloved. Ifthesensual
+**Uber dieallgemeinste Emiedrigung desLiebeslebens.'
+KleineSchriftenzurNeurosenlehre, VierteFolge, 1918.
+F
+74Group Psychology andtheAutolysis oftheEgo
+tendencies aresomewhat more effectively repressed
+orsetaside, the illusion isproducedthat theobject
+hascome tobesensuallyloved onaccount ofits
+spiritual merits, whereas onthecontrarythese merits
+may really onlyhave been lent to itbyitssensual
+charm.
+The tendency which falsifies judgementinthis
+respectisthat ofidealisation. But thismakes it
+easier forustofindourwayabout.Weseethat
+theobjectisbeingtreated inthesamewayasour
+ownego,sothatwhenweare inlove aconsiderable
+'amount ofnarcissistic libido overflows ontotheobject.
+Itiseven obvious, inmany forms oflove choice, that
+theobjectserves asasubstitute forsome unattained
+egoideal ofourown.We love itonaccount ofthe
+perfections which wehave striven toreach forour
+ownego, andwhich weshould now liketoprocure
+inthisroundabout wayasameans ofsatisfyingour
+narcissism.
+Ifthesexual over-estimation and thebeingin
+love increase even further, then theinterpretationof
+thepicture becomes stillmore unmistakable. The
+tendencies whose trend istovv-ards directlysexual
+satisfaction maynow bepushedback entirely,as
+regularly happens,forinstance, with theyoungman's
+sentimentalpassion;theegobecomes more andmore
+unassumingandmodest, andtheobjectmore andmore
+sublime andprecious,until atlast itgets possession
+BeinginLoveandHypnosis
+oftheentire self-love oftheego,whose self-sacrifice
+thus follows asanaturalconsequence. Theobject
+has, sotospeak, consumed theego.Traits of
+humility,ofthe limitation ofnarcissism, and ofself-
+injuryoccur inevery case ofbeinginlove;inthe
+extreme case they are only intensified, and asa
+result ofthewithdrawal ofthesensual claims they
+remain insolitary supremacy.
+This happens especially easilywith love that is
+unhappy and cannot besatisfied;for inspiteof
+ever}^thingeach sexual satisfaction ahvaysinvolves a
+reduction insexual over-estimation. Contemporaneously
+with this'devotion' oftheegototheobject,w^hich
+isnolongertobedistinguished from asublimated
+devotion toanabstract idea, thefunctions allotted to
+theegoidealentirelycease tooperate. The criticism
+exercised bythatfacultyissilent; everythingthatthe
+object does and asks for isrightand blameless.
+Conscience hasnoapplicationtoanythingthat isdone
+forthesake oftheobject;intheblindness oflove
+remorselessness iscarried tothepitchofcrime. The
+whole situation canbecompletely summarised ina\i
+formula: Theobject hastaken theplace oftheego /
+ideal, J'
+Itisnow easytodefine thedistinction between
+identification andsuchextreme developmentsofbeing
+inlove asmaybedescribed asfascination orinfatua-
+tion. Intheformer case theegohasenriched itself
+'j^Group Psychology andtheAnalysis oftheEgo
+with thepropertiesoftheobject,ithas*
+introjected'
+theobjectintoitself, asFerencziexpressesit.Inthe
+second case itisimpoverished,ithassurrendered itself
+totheobject,ithassubstituted theobjectfor itsmost
+importantconstituent. Closer consideration soonmakes
+itplain, however, that thiskind ofaccount creates
+an illusion ofcontradistinctions that have noreal
+existence. Economicallythere isnoquestionofimpov-
+erishment orenrichment;it isevenpossibleto
+describe anextreme case ofbeinginlove asastate
+inwhich theegohasintrojectedtheobjectinto itself.
+Another distinction isperhapsbetter calculated to
+meet theessence ofthe matter. Inthecase of
+identification theobjecthasbeen lost orgiven up;
+itisthen setupagaininside theego,andtheego
+makes apartialalteration initself after themodel of
+the lostobject.Intheother case theobjectis
+retained, and there isahyper-cathexisofitbythe
+egoand attheego's expense. Buthereagaina
+difficulty presentsitself. Isitquitecertain that iden-
+tification presupposesthatobject-cathexishasbeen
+given up?Can there benoidentification with the
+objectretained? And before weembark uponadis-
+cussion ofthis delicatequestion,theperception may
+already bebeginningtodawn onusthatyetanother
+alternative embraces the realessence ofthematter,
+namely, whether theobjectisputintheplace ofthe
+egooroftheegoideal.
+BeinginLove a7idHypnosis yy
+Frombeinginlove tohypnosisisevidently
+onlyashortstep. Therespectsinwhich thetwo
+agreeareobvious. There isthesame humble sub-
+jection,thesamecompliance,thesame absence of
+criticism, towards thehypnotist justastowards the
+lovedobject.There isthesameabsorptionofone*s
+owninitiative; noonecandoubt that thehypnotist
+hassteppedinto theplaceoftheegoideal. Itis
+onlythateverythingiseven clearer andmore intense
+inhypnosis,sothat itwould bemore tothepoint
+toexplain beinginlovebymeans ofhypnosisthan
+theotherwayround. Thehypnotististhesoleobject,
+andnoattention ispaidtoanybuthim. The fact
+thattheegoexperiencesinadream-like waywhatever
+hemay request-orassert reminds usthatweomitted
+tomention amongthefunctions oftheegoideal the
+business oftestingtherealityofthings.^ Nowonder
+that theegotakes aperceptionforreal ifitsreality
+isvouched forbythementalfaculty which ordinarily
+dischargestheduty oftestingtherealityofthings.
+Thecomplete absence oftendencies which areunin-
+hibited intheir sexual aims contributes further towards
+theextremepurityofthephenomena. Thehypnotic
+relation isthedevotion ofsomeone inlove toan
+unlimiteddegreebutwithsexual satisfaction excluded;
+*Cf.*Metapsychologische ErganzungzurTraumlehre.'
+KleineSchrifienzurNeurosenlehre, VierteFolge, 1918.
+78Group Psychology andtheAnalysis oftheEgo
+whereas inthecase ofbeinginlove thiskind of
+satisfaction isonly temporarily kept back, andremains
+inthebackgroundasapossibleaimatsome later time.
+Butontheother handwemayalso saythat
+thehypnoticrelation is(iftheexpressionispermis-
+sible) agroupformation withtwomembers. Hypnosis
+isnotagood objectforcomparisonwith agroup
+formation, because itistruer tosaythat itisidenti-
+calwith it.Out ofthecomplicatedfabric ofthe
+groupitisolates oneelement forus—thebehaviour
+oftheindividual tothe leader. Hypnosisisdistin-
+guishedfrom agroupformation bythis limitation of
+number, justas itisdistinguishedfrombeinginlove
+bytheabsence ofdirectlysexual tendencies. Inthis
+respectitoccupiesamiddlepositionbetween thetwo.
+Itisinterestingtoseethat itispreciselythose
+sexual tendencies that areinhibited intheiraimswhich
+achieve suchlastingtiesbetween men. But thiscan
+easily beunderstood from thefact thattheyarenot
+capableofcomplete satisfaction, while sexual tenden-
+cies which areuninhibited intheir aims.suffer an
+extraordinaryreduction throughthe dischargeof
+energy everytime thesexual aim isattained. Itis
+thefate ofsensual love tobecome extinguished when
+itissatisfied;for ittobeable tolast,itmust from
+the firstbemixed withpurelytender components—
+with such, thatis,asareinhibited intheir aims—or
+itmust itself undergoatransformation ofthiskind.
+BeinginLoveandHypnosis 79
+Hypnosis would solve theriddle ofthe libidinal
+constitution ofgroupsforusstraight away,ifitwere
+not that ititself exhibits some features which are
+notmetbytherationalexplanation wehave hitherto
+givenof itasastate ofbeinginlove with the
+directlysexual tendencies excluded. There isstilla
+greatdeal in itwhich wemustrecogniseasunex-
+plained andmystical.Itcontains anadditional element
+ofparalysis derived from therelation between someone
+withsuperior power andsomeone who iswithout
+powder andhelpless—which mayafford atransition
+tothehypnosis ofterror which occurs inanimals.
+Themanner inwhich itisproduced and itsrelation-
+shiptosleeparenotclear; andthepuzzling wayin
+which somepeoplearesubjecttoit,while others
+resist itcompletely, pointstosome factor stillun-
+known which isrealised initandwhich perhaps alone
+makespossible thepurity^ofthe attitudes ofthe
+libido which itexhibits. Itisnoticeablethat, even
+when there iscomplete suggestive complianceinother
+respects, themoral conscience oftheperson hypnotized
+mayshow resistance. But thismaybedue tothe
+fact that inhypnosisas itisusually practised some
+knowledge mayberetained thatwhat ishappening
+isonlyagame, anuntruereproductionofanother
+situation offarmore importancetolife.
+But after theprecedingdiscussions wearequite
+inapositiontogivetheformula forthe libidinal
+8oGroup Psychology andtheAnalysis oftheEgo
+constitution ofgroups:oratleast ofsuchgroupsas
+wehave hitherto considered, namely, those thathave
+aleader andhave notbeen ablebymeans oftoomuch
+'
+organisation'toacquire secondarilythecharacteristics
+ofanindividual. Aprimary group ofthiskind is
+anumber ofindividuals whohave substituted 07ieand
+thesameobject fortheiregoidealandhave conse-
+quently identifiedthemselves with oneanother intheir
+ego.This condition admits ofgraphic representation:
+EgoIdeal Object
+Outer
+Object
+:-x
+IX
+THEHERD INSTINCT
+We cannot forlong enjoythe illusion thatwehave
+solved theriddle ofthegroupwith this formula. It
+isimpossibletoescapetheimmediate anddisturbing
+recollection that allwehavereally done hasbeen to
+shift thequestion ontotheriddle ofhypnosis, about
+which somany points have yettobeclearedup.And
+now anotherobjection shows usourfurtherpath.
+Itmightbesaid that theintense emotional ties
+which weobserve ingroupsarequitesufficient to
+explain oneoftheir characteristics —thelack ofinde-
+pendence and initiative intheirmembers, thesimilarity
+inthereactions ofallofthem, their reduction, soto
+speak,tothe level ofgroupindividuals. But ifwe
+look at itasawhole, agroup shows usmore than
+this.Some ofitsfeatures—theweakness ofintellectual
+ability,thelack ofemotional restraint, theincapadty
+formoderation and delay,the inclination toexceed
+everylimit intheexpression ofemotion andtowork\
+82Group Psychology andtheAnalysis oftheEgo
+itoffcompletelyintheform ofaction—these andsimilar
+features^ which wefind soimpressivelydescribed in
+LeBon,show anunmistakable pictureofarecession
+, iofmental activitytoanearlierjtagesuch aswearenot
+surprisedtofindamong savagesorchildren. Aregression
+ofthissort isinparticularanessential characteristic of
+commongroups, while, aswehave heard,inorganized
+and artifiqial groupsitcantoalargeextent bechecked.
+We thushave animpressionofastate inwhich
+anindividual's separate emotion andpersonalintel-
+lectucd actaretooweak tocome toanything by
+themselves andareabsolutely obligedtowait tillthey
+arereinforced through being repeatedinasimilar
+wayintheother members ofthegroup.We are
+reminded ofhowmanyofthesephenomenaofdepen-
+dence arepartofthenormal constitution ofhuman
+society,ofhow littleoriginalityandpersonal courage
+aretobefound init,ofhowmuch everyindividual
+isruled_ bythose attitudesofthegroupmind which
+exhibit themselves insuch forms asracial character-
+istics,classprejudices, public opinion,etc.The influence
+ot__suggestionbecomes agreaterriddle foruswhen
+jweadmit that itisnotexercised onlybytheleader,
+butbyeveryindividual upon everyother individual;
+andwemustreproachourselves withhaving unfairly
+emphasizedtherelation totheleader andwithhaving
+\kepttheother factor ofmutualsuggestiontoomuch
+inthebackground.
+TheHerd Instinct 83
+After thisencouragementtomodesty, weshall
+beinclined tolisten toanother voice, whichpromises
+usanexplanationbased upon simpler grounds. Such
+aone istobefound inTrotter'sthoughtful book
+upontheherd instinct, concerningwhichmyonlyregret
+isthat itdoes notentirely escapetheantipathiesthat
+were setloose bytherecentgreatwar.'
+Trotter derives themental phenomenathat are
+described asoccurringingroups from aherd instinct
+{'gregariousness'))which isinnate inhumanbeings just
+asinotherspeciesofanimals.Biologicallythisgre-
+gariousnessisananalogytomulticellularity and as
+itwere acontinuation of it.From thestandpointof
+the libido theoryitisafurther manifestation ofthe
+inclination, which proceeds from thelibido, andwhich
+isfeltbyallliving beingsofthesame kind, tocombine
+inmore andmore comprehensiveunits.^The individual
+feels*
+incomplete'
+ifhe isalone. The dread shown
+bysmall children would seem alreadytobeanex-
+pressionofthisherd instinct. Oppositiontotheherd
+isasgoodasseparation fromit,and istherefore
+aii^ouslyavoided. But theherd turns away from
+anythingthat isnew orunusual. Theherd instinct
+^W.Trotter: Instincts oftheHerd inPeace andWar.
+Fisher Unwin, 1916.
+Seemyessay yenseits desLustprinzipt
+84Group Psychology andtheAnalysis oftheEgo
+would appeartobesomething primary, something
+Svhich cannot besplit up'.
+Trottergivesasthe listofinstincts which he
+considers asprimarythose ofself-preservation,of
+nutrition, ofsex,and oftheherd. The last often
+comes intooppositionwith theothers. Thefeelingsof
+guiltand ofdutyarethepeculiar possessionsofa
+gregariousanimal. Trotter also derives from theherd
+instinct therepressiveforces whichpsycho-analysis
+hasshown toexist intheego,andfrom thesame
+sourceaccordinglytheresistances which thephysician
+comes up againstinpsycho-analytic treatment.
+Speech owes itsimportancetoitsaptitudeformutual
+understandingintheherd, anduponitthe identi-
+fication ofthe individuals with one anotherlargely
+rests.
+While LeBon isprincipally concerned withtypical
+transientgroup formations, andMcDougallwith stable
+associations, Trotter haschosen asthecentre ofhis
+interest themostgeneralised form ofassemblagein
+which man, that C^cbov jtoXitikov, passeshislife,andhe
+givesusitspsychologicalbasis. ButTrotter isunder
+nonecessityoftracing back theherd instinct, forhe
+characterizes itasprimary andnotfurther reducible.
+Boris Sidis'sattempt,towhich herefers,attracing
+theherd instinct back tosuggestibilityisfortunately
+superfluousasfarasheisconcerned;itisanexplan-
+ation ofafamiliar andunsatisfactory type,andthe
+TheHerd Instinct 85
+converse proposition—thatsuggestibilityisaderivative
+oftheherd instinct—would seem tometothrow-
+farmorelightonthesubject.
+ButTrotter'sexposition,withevenmorejustice
+than theothers',isopentotheobjectionthat ittakes
+too little account ofthe leader'spartinagroup,
+while we incline rather totheopposite judgement,
+that itisimpossibletograspthenature ofagroupif
+theleader isdisregarded. Theherd instinct leaves no
+room at allfortheleader; he ismerely thrown in
+alongwith theherd, almost bychance;itfollows,
+too, thatnopathleads from this instinct tothe
+need foraGod; theherd iswithout aherdsman.
+But-besides this Trotter'sexpositioncanbeunder-
+minedpsychologically;that istosay,itcanbe
+made atallevents probablethat theherd instinct is
+not irreducible, that itisnotprimaryinthesame
+sense astheinstinct ofself-preservationandthesexual
+instinct.
+Itisnaturally noeasymatter totrace theonto-
+genesisoftheherd instinct. The dread w^hich is
+shown bysmall children when theyare leftalone, and
+which Trotter claims asbeing akeadyamanifestation
+ofthe instinct, neverthelesssuggestsmorereadilyan-
+otherinterpretation. The dread relates tothechild's
+mother, and later toother familiarpersons,and itis
+theexpressionofanunfulfilled desire, which thechild
+does notyetknow how todeal with inanyway
+86Group Psychology andtheAnalysis oftheEgo
+except byturningitintodread.^ Nor isthechild's dread
+when itisalonepacified bythesightofanyhaphazard
+*member oftheherd'
+,butonthecontraryitisonly
+broughtintoexistence bytheapproachofa^
+stranger'
+ofthis sort.Then foralongtimenothinginthenature
+ofherd instinct orgroup feelingistobeobserved in
+children. Somethinglike itgrows upfirst ofall,ina
+nursery containing many children, outofthechildren's
+relation totheirparents, and itdoes soasareaction
+tothe initial envywithwhich theelder child receives
+theyoungerone.The elder child wouldcertainly
+like toputitssuccessorjealously aside, tokeep
+itaway from theparents, and torob itofall its
+privileges;but inface ofthe fact that this child
+(like allthatcome later)isloved bytheparentsin
+justthesamew^ay,and inconsequenceoftheimpos-
+sibilityofmaintainingitshostile attitude without
+damaging itself,itisforced intoidentifyingitself with
+theother children. Sothere grows upinthetroopof
+children acommunal orgroup feeling,which isthen
+furtherdevelopedatschool. The firstdemand made
+bythis reaction-formation isforjustice,forequal
+treatment for all.We allknowhowloudly andimplac-
+ablythisclaim isputforward atschool. Ifonecannot
+bethe favourite oneself, at allevents nobodyelse
+^See theremarks upon Dread inVorlesungen zurEin-
+fnhrungindiePsychoanalyse. XXV.
+TheHerd Instinct 87
+shallbethefavourite. This transformation —thereplac-
+ingofjealousy byagroup feelinginthenursery
+and classroom—might beconsideredimprobable,if
+thesame processcould not later onbeobserved
+againinother circumstances. Wehaveonlytothink
+ofthetroopofwomen andgirls,allofthem inlove
+inanenthusiasticallysentimental way,whocrowd
+round asingerorpianistafter hisperformance.It
+would certainly beeasyforeach ofthem tobejealous
+oftherest; but,inface oftheir numbers andthe
+consequent impossibilityoftheirreachingtheaimof
+their love, they renounceit,and, instead ofpulling
+outone another'shair, theyactasaunitedgroup,
+dohomagetothehero oftheoccasion with their
+common actions, andwouldprobably begladtohave
+ashare
+.ofhisflowinglocks.Originally rivals, they
+have succeeded inidentifyingthemselves with one
+another bymeans ofasimilar love forthesame
+object. When, asisusual, asituation inthe field of
+the instincts iscapableofvarious outcomes, weneed
+notbesurprisediftheactual outcome isonewhich
+involves thepossibilityofacertain amount ofsatis-
+faction, while another, eventhoughinitself more
+obvious,ispassedoverbecause thecircumstances of
+lifepreventitsattainingthisaim.
+Whatappearslater oninsocietyintheshape
+ofGemeingeist^ espritdecorps^*
+group spirit', etc.,
+does notbelie itsderivation from whatwasoriginally
+88Group Psychology andtheAnalysis oftheEgo
+envy. Noonemust want toputhimself forward,
+every onemust bethesame andhave thesame.
+Socialjustice means thatwedenyourselves many
+thingssothat others mayhave todowithout them
+aswell, or,what isthesamething, maynotbeable
+toask forthem. Thisdemand forequalityisthe4
+root ofsocial conscience andthesense ofduty.It
+reveals itself unexpectedlyinthesyphilitic'sdread
+ofinfectingotherpeople,whichpsycho-analysishas^
+taughtustounderstand. The dread exhibited by
+these poor wretches correspondstotheir violent
+struggles againsttheunconscious wish tospreadtheir '
+infection ontoother people;forwhy-should they
+alone beinfected and cut offfrom somuch? whyI
+notother peopleaswell?And thesame germisto|
+befound inthepretty anecdote ofthejudgementof
+Solomon. Ifonewoman's child isdead, theother -I
+shall nothave aliveone either. The bereaved
+woman isrecognized bythiswish.
+Thus socialfeelingisbased uponthereversal of
+whatwas firstahostilefeelingintoapositively-tonedi
+tieofthenature ofanidentification. Sofaraswe-
+have hitherto been able tofollow thecourse ofevents,
+thisreversalappearstobeeffected under theinfluence
+ofacommon tender tiewith apersonoutside the
+group.Wedonotourselves regardouranalysisof
+identification asexhaustive, but itisenoughforour
+present purposethatweshould revert tothisone
+TheHerd Instinct 89
+feature—itsdemand thatequalizationshall becon-
+sistentlycarriedthrough. Wehavealready heard in
+thediscussion ofthetwo artificialgroups, church and
+army,that theirpreliminary condition isthat alltheir
+members should beloved inthesamewaybyone
+person,theleader. Donotletusforget, however, that
+thedemand forequalityinagroup applies onlytoits
+members andnottotheleader. Allthemembers
+must beequaltooneanother, buttheyallwant to
+beruled byoneperson. Many equals, who can
+identify themselves with one another, andasingle
+person superiortothem all—that isthe situation
+thatwefind realised ingroups which arecapable of
+subsisting. Letusventure, then, tocorrect Trotter's
+pronouncement thatman isaherd animal and assert
+thatheisrather ahorde animal, anindividual creature
+inahorde ledbyachief.
+X
+THEGROUP ANDTHEPRIMAL HORDE
+In1912Itook upaconjectureofDarwin's tothe
+effect that theprimitive form ofhumansociety
+was that ofahorde ruled overdespotically bya
+powerfulmale. Iattemptedtoshow that thefortunes
+ofthishorde have leftindestructible traces uponthe
+history ofhumandescent; and, especially,that the
+developmentoftotemism, whichcomprisesinitself
+thebeginningsofreligion, morality% andsocialorganisa-
+tion,isconnected with thekillingofthe chiefby
+violence andthetransformation ofthepaternalhorde
+into acommunity ofbrothers.^ Tobesure,this is
+onlyahypothesis,like somanyothers with which
+archaeologists endeavour tolightenthedarkness of
+prehistoric times—a*
+Just-So Story'
+,asitwasamusingly
+called byanotunkind critic(Kroeger);but Ithink it
+iscreditable tosuch ahypothesisifitprovesable to
+^Totem undTabu.1
+TheGroup and thePrimal Horde 91
+bringcoherence andunderstandinginto nk)re and
+morenewregions.
+Human groupsexhibit onceagainthe familiar
+pictureofanindividual ofsuperior strength amonga
+troopofsimilar companions,apicture which isalso
+contained inour idea oftheprimalhorde. The
+psychologyofsuch agroup,asw^eknow itfrom the
+descriptionstoVv^hich wehave sooften referred—the
+dwindlingoftheconscious individualpersonality,the
+focussingofthoughtsandfeelingsintoacommon
+direction, thepredominanceoftheemotions andof
+the[unconsciousmentallife,thetendencytotheim-
+mediatecarryingoutofintentions astheyemerge—
+all thiscorrespondstoastate ofregressiontoa
+primitivementalactivity,ofjustsuch asort aswe
+should beinclined toascribe totheprimal horde/
+*Whatwehavejustdescribed inourgeneralcharacterisa-
+tion ofmankind must apply especiallytotheprimal horde.
+The will oftheindividual was tooweak; hedidnotventure
+uponaction. Noimpulses whatever came intoplayexceptcol-
+lective ones; there wasonlyacommonwill, therewerenosingle
+ones. Anidea didnotdare toturn itself intoavolition unless
+itfelt itself reinforced byaperception ofitsgeneraldiffusion.
+Thisweakness oftheidea istobeexplained bythestrengthof
+theemotional tiewhich isshared byallthemembers ofthe
+horde;butthesimilarityinthecircumstances oftheir lifeandthe
+absence ofanyprivate propertyassist indeterminingtheuniformity
+oftheir individual mental acts. Aswemayobserve with children
+andsoldiers, commonactivityisnotexcluded even intheex-
+cremental functions. Theonegreat exceptionisprovided bythe
+\
+92Group Psychology andtheAnalysis oftheEgo
+Thus thegroup appearstousasarevival of
+theprimalhorde.Justasprimitive manvirtually
+survives inevery individual, sotheprimal horde may
+arise oncemore outofanyrandorn crowd;insofar
+asmen arehabitually under theswayofgroupform-
+ationwerecognisein itthe survival oftheprimal
+horde.Wemust conclude thatthepsychologyofthe
+groupistheoldest humanpsychology;whatwehave
+isolated asindividualpsychology, by neglecting
+alltraces ofthegroup,hasonlysince come into
+prominence outoftheoldgroup psychology, bya
+gradual process whichmay still,perhaps, bedescribed
+asincomplete. We shall later venture uponan
+attemptatspecifyingthepointofdepartureofthis
+development.
+Further reflection willshow usinwhat re-
+spectthis statementrequirescorrection. Individual
+psychology must, onthecontrary, bejustasoldas
+group psychology,forfrom the first there were two
+kinds ofpsychologies,that oftheindividual members
+ofthegroup and that ofthefather, chief, orleader.
+Themembers ofthegroupweresubjecttotiesjust
+asweseethem to-day, butthefather oftheprimal
+horde was free. His intellectual actswerestrongand
+sexual act,inwhich athird personisatthebestsuperfluous and
+intheextreme case iscondemned toastate ofpainful expectancy.
+Astothereaction ofthesexual need(forgenital gratification)
+towardsgregariousness,seebelow.
+TheGroup and thePrimal Horde 93
+independenteven inisolation, and hiswillneeded no
+reinforcement from others. Consistency leads usto
+assume that hisegohadfew libidinalties; heloved
+noonebuthimself, orotherpeople onlyinsofaras
+theyserved hisneeds. Toobjectshisegogaveaway
+nomore thanwasbarely necessary.
+He,atthevery beginningofthehistory of
+mankind, was theSuperman whom Nietzscheonly
+expectedfrom thefuture. Even to-daythemembers
+ofagroupstand inneed ofthe illusion thattheyare
+equallyandjustlyloved bytheirleader; buttheleader
+himself need lovenooneelse,hemaybeofamasterly
+nature, absolutely narcissistic, but self-confident and
+independent. Weknow that loveputsacheck upon
+narcissism, and itwould bepossibletoshow how,
+byoperatinginthisway,itbecame afactor of
+civilisation.
+The primalfather ofthehorde was notyet
+immortal, ashelaterbecame bydeification. Ifhe
+died, hehad tobereplaced;hisplace wasprobably
+taken byayoungest son,whohaduptothenbeen
+amember ofthegrouplikeanyother. There must
+therefore beapossibilityoftransforming group psycho-
+logyinto individual psychology;acondition must be
+discovered under which such atransformation iseasily
+accomplished, justas itispossibleforbees incase
+ofnecessity toturn alarva intoaqueeninstead of
+intoaworker. Onecanimagine onlyonepossibility:
+94Group Psychology andtheAnalysis oftheEgo
+theprimalfather hadprevented Jiis_sonsfrom satis-
+fyingtheirdirectlysexualtendencies; heforced them
+into abstinence andconsequentlyinto theemotional
+tieswithhimandwithoneanother which could arise
+outofthose oftheir tendencies thatwere inhibited
+intheir sexual aim.Heforced them, sotospeak,
+intogroup psychology. HissexuaFjealousy and intol-
+erance became inthe lastresort thecauses ofgroup
+psycholog}^^
+.Whoever became hissuccessor was alsogiven
+thepossibilityofsexual satisfaction, and w^asbythat
+means offered away outoftheconditions ofgroup
+psychology. The fixation ofthelibido towoman and
+thepossibilityofsatisfaction withoutanyneed fordelay
+oraccumulation made anend oftheimportanceof
+those ofhissexual tendencies thatwere inhibited in
+their aim, andallowed hisnarcissism alwaystorise
+toitsfullheight.We shall return inapostscriptto
+thisconnection between loveandcharacter formation.
+Wemayfurtheremphasize,asbeing specially
+instructive, the relation that holds between thecon-
+trivance bymeans ofwhich anartificialgroupisheld
+together and the constitution oftheprimalhorde.
+Wehave seen that with anarmy andachurch this
+^Itmayperhapsalsobeassumed that thesons,when they
+were driven outandseparated from their father, advanced from
+identification with orjeanother tohomosexual object love,and in
+thiswaywonfreedom tokilltheir father.
+^TheGroup and thePrimal Horde 95
+contrivance isthe illusion that theleader loves allof
+theindividualsequallyandjustly. But this issimply
+anidealistic remodellingofthestate ofaffairs inthe
+primal horde, where allofthesonsknew thattheyV
+wereequally persecuted bytheprimal father, and'
+feared himequally.Thissamerecasting upon which"
+allsocial duties are built upisalready presupposed
+bythenext form ofhumansociety, thetotemistic
+clan. The indestructiblestrengthofthefamilyasa
+naturalgroupformation restsuponthefact that this
+necessar}^ presuppositionofthe father'sequallove
+canhave arealapplicationinthefamily.
+Butweexpect evenmore ofthisderivation of
+thegroupfrom theprimalhorde. Itoughtalso to
+helpustounderstand what isstillincomprehensible
+and mysteriousingroupformations—allthat lies
+hidden behind theenigmatic wordshypnosis andsug-
+gestion. And Ithink itcansucceed inthis too.Let
+usrecall thathypnosishassomething positively uncanny
+aboutit;butthecharacteristic ofuncanninesssug-
+gests somethingoldand familiar thathasundergone
+repression.^ Letusconsider howhypnosisisinduced.
+Thehypnotistasserts thathe isinpossrjssionofa
+mysterious power which robs thesubjectofhisown
+will, or,which isthesamething,thesubjectbelieves
+itofhim. This mysterious power (whichisevennow
+1<DasUnheimliche.' Imago, 1919, Bd.V.
+g6Group Psychology andtheAnalysis oftheEgo
+often describedpopularlyasanimalmagnetism)must
+bethesame that islooked upon byprimitiv^e people
+asthesource oftaboo, thesame thatemanates from
+kings and chieftains andmakes itdangerousto
+approach them (mana). Thehypnotist, then,issup-
+posedtobeinpossessionofthispower; andhow
+does hemanifest it?By tellingthesubjecttolook
+him intheeyes;hismosttypical method ofhypnotising
+isbyhislook. But itispreciselythesightofthe
+chieftain that isdangerous andunbearable forprimitive
+people, justaslater that oftheGodhead isfor
+mortals. Even Moses had toactasanintermediary
+betw^een hispeople andJehovah,since thepeople
+could notsupportthesightofGod; andwhen he
+returned from thepresenceofGod hisfaceshone—
+some ofthemana hadbeen transferred ontohim,
+justashappenswith theintermediary among primitive
+people.^
+Jt istrue thathypnosiscan alsobeevoked in
+other ways,forinstance byfixingthe'eyesupona
+bright objectorbylisteningtoamonotonous sound.
+This ismisleading and hasgivenoccasion toinad-
+equate physiologicaltheories. Asamatter offact
+these procedures merelyserve todivert conscious
+attention and tohold itriveted. The situation is
+thesame asifthehypnotist had said tothesubject:
+^SeeTotem undTabu andthesources there quoted.
+TheGroup andthePrimal Horde 97
+*Now concern yourself exclusivelywithmyperson;
+therestoftheworld isquite uninteresting.'
+Itwould
+ofcourse betechnically inexpedientforahypnotist
+tomake such aspeech;itwould tear thesubject
+away from hisunconscious attitude andstimulate him
+toconsciousopposition. Thehypnotistavoidsdirecting
+thesubject'sconscious thoughtstowards hisown
+intentions, andmakes theperson uponwhom he is
+experimentingsink into anactivityinwhich the
+world isbound toseemuninterestingtohim; butat
+thesame time thesubjectisinreality unconsciously
+concentratinghiswhole attention uponthehypnotist,
+and isgettingintoanattitude ofrapport^oftrans-
+ference ontohim. Thus the indirect methods of
+hypnotising,likemanyofthe technical procedures
+used inmaking jokes,have the effect ofchecking
+certain distributions ofmentalenergywhich would
+interfere with thecourse ofevents intheunconscious,
+andtheyleadeventuallytothesame result asthe
+direct methods ofinfluence bymeans ofstaringor
+stroking.^
+^Thissituation, inwhich thesubject's attitude isuncon-
+sciously directed towards thehypnotist, while heisconsciously
+occupied withmonotonous anduninteresting perceptions,finds a
+parallel amongtheevents ofpsycho-analytic treatment, which
+deserves tobementioned here. Atleastonce inthecourse of
+every analysis amoment comes when thepatient obstinately
+maintains thatjustnowpositively nothing whatever occurs to
+hismind. His free associations come toastopand theusual
+98Group Psychology andtheAyialysis oftheEgo
+Ferenczi hasmade thetruediscoverythatwhen
+ahypnotist givesthecommand tosleep, which is
+often done atthebeginningofhypnosis, he isputting
+himself intheplaceofthesubject's parents. He
+thinks thattwo sorts ofhypnosisare tobedistin-
+guished:onecoaxingandsoothing,which hecon-
+siders ismodelled uponthemother, and another
+threatening,which isderived from the father.^ Now
+thecommand tosleepinhypnosis meansnothing
+more nor lessthananorder towithdraw allinterest
+from theworld andtoconcentrate itupontheperson
+ofthehypnotist. And itissounderstood bythe
+subject;for inthiswithdrawal ofinterest from the
+outer world lies thepsychologicalcharacteristic of
+sleep, andthekinship betweensleep andthestate of
+hypnosisisbased uponit.
+incentives forputting them inmotion failintheir effect. Asaresult
+ofpressure thepatientisatlastinduced toadmit thatheis
+thinkingoftheview from theconsulting-room window, ofthe
+wall-paperthathesees before him, orofthegas-lamp hanging
+from theceiling. Then oneknows atonce thathehasgoneoff
+into thetransference andthatheisengaged upon what are still
+unconscious thoughts relatingtothephysician; andonesees the
+stoppageinthepatient'sassociations disappear,assoon ashehas
+been giventhisexplanation.
+^Ferenczi:*
+Introjektion undUbertragung.' Jahrbuch der
+Psycho analyse^ 1909, Bd. I.[ContridjitionstoPsycho- Analysis.
+Boston, Badger, 1916, Chapter II.]
+TheGroup andthePrimal Horde 99
+Bythemeasures thathetakes, then, thehyp-
+notist awakens inthesubjectaportion ofhisarchaic
+inheritance which had alsomade himcompliantto-
+wards hisparents andwhich hadexperienced an
+individual re-animation inhisrelation tohisfather;
+what isthusawakened is'theidea ofaparamount
+anddangerous personality, towards whomonly a
+passive-masochisticattitude ispossible,towhom one's
+willhastobesurrendered, —while tobealone with
+him, 'tolookhim intheface', appearsahazardous
+enterprise.Itisonlyinsome suchwayasthis that
+wecanpicturetherelation oftheindividual member
+oftheprimal horde totheprimalfather. Aswe
+know from other reactions, individuals havepreserved
+avariabledegreeofpersonal aptitudeforreviving
+oldsituations ofthiskind. Some knowledgethat in
+spiteofeverything hypnosisisonlyagame,adecep-
+tiverenewal ofthese oldimpressions, mayhowever
+remain behind andtake care that there isaresist-
+anceagainst any too seriousconsequencesofthe
+suspensionofthe will inhypnosis.
+Theuncanny andcoercive characteristics ofgroup
+formations, which areshown intheirsuggestion
+phenomena, may therefore withjustice betraced
+back tothe fact oftheirorigin from theprimal
+horde. The leaderofthegroupisstillJ:h_e,dreaded
+primal father;thegroupstillwishes tobegoverned
+byunrestricted force: ithasanextreme passionfor
+.—mil^111—nil
+.^-_^— ^^^,^
+/
+lOOGroup Psychology andtheAnalysis oftheEgo
+authority;inLeBon'sphrase,ithas athirst for
+obedience. The primalfather isthegroup ideal,
+which governstheegointheplaceoftheegoideal.
+Hypnosishasagoodclaim tobeingdescribed asa
+groupoftwo;there remains asadefinition for
+suggestion—aconviction which isnotbased upon
+perceptionandreasoningbutuponanerotic tie.^
+*Itseems tomeworth emphasizingthefact that the dis-
+cussions inthissection have induced ustogiveupBernheim's
+conception ofhypnosis andgoback tothendifearlier one.
+AccordingtoBernheim allhypnotic phenomenaaretobetraced
+tothefactor ofsuggestion, which isnot itself capableoffurther
+explanation. Wehavecome totheconclusion that suggestionis
+apartialmanifestation ofthestate ofhypnosis, andthathypnosis
+issolidly founded uponapredisposition which hassurvived inthe
+unconscious from theearly historyofthehuman family.
+XI
+ADIFFERENTIATING GRADE INTHEEGO
+Ifwesurveythe life ofan individual man of
+to-day, bearinginmind themutually complementary
+accoimts ofgroup psychology givenbytheauthorities,
+wemaylose thecourage,infaceofthecomplications
+that arerevealed, toattemptacomprehensiveex-
+position.Each individual isacomponent partof
+numerous groups,heisbound bytiesofidentification
+inmany directions, andhehas builtuphisegoideal
+uponthemost various models. Each individual therefore/
+hasashare innumerous groupminds—those ofhisrace,/
+ofhisclass, ofhiscreed, ofhisnationality,etc.—and
+hecan also raise himself above them totheextent
+ofhavingascrapofindependence andoriginality.
+Such stable andlasting group formations, with their
+uniform andconstant effects, are lessstrikingtoan
+observer than therapidly formed andtransientgroups
+from which LeBon hasmade his brilliant psycho-
+logicalcharacter sketch ofthegroupmind.And itis
+justinthese noisy ephemeral groups,which areasit
+102Group Psychology andtheAnalysis oftheEgo
+were superimposed upontheothers, thatwearemet
+bytheprodigyofthecomplete,, eventhough only
+temporary, disappearanceofexactly whatwehave
+recognizedasindividualacquirements.Wehaveinterpretedthisprodigyasmeaning
+that theindividualgives uphisegoideal and substi-
+tutes for itthegroupideal asembodied inthe
+leader. Andwemust addbywayofcorrection
+that theprodigyisnotequally greatineverycase.
+/Inmanyindividuals theseparation between theego
+(andtheegoideal isnotveryfaradvanced;thetwo
+stillcoincidereadily;theegohasoften preservedits
+earlierself-complacency. The selection oftheleader
+isverymuch facilitated bythis circumstance. He
+needonly possessthetypical qualitiesoftheindivid-
+ualsconcerned inaparticularly clearly marked and
+pure form, andneedonly giveanimpressionof
+greaterforce andofmore freedom oflibido; and in
+\that case theneed forastrongchief willoftenmeet
+himhalf-way andinvest himwith apredominanceto
+which hewould otherwise perhaps havehadnoclaim.
+The other members ofthegroup, whose egoideal
+wouldnot, apart fromthis, havebecome embodied
+Iinhisperson without some correction,are then
+carried awaywith therestby^suggestion',that is
+tosay,bymeans ofidentification.
+We areaware thatwhatwehave been able to
+contribute towards theexplanationofthe libidinal
+ADifferentiating Grade intheEgo 103
+structure ofgroupsleads back tothe distinction
+between theegoand theegoideal and tothe
+double kind oftiewhich thismakespossible—identi-
+fication, and substitution oftheobjectfortheego
+ideal. Theassumptionofthiskind ofdifferentiating
+grade \Stufe\intheegoasafirststepinan
+analysisoftheegomustgraduallyestablish itsjustifi-
+cation inthemost variousregionsofpsychology.In
+mypaper*ZurEinfiihrungdesNarzissmus'
+Ihaveput
+togetherallthepathologicalmaterial thatcould atthe
+moment beused insupportofthisseparation. But it
+may beexpectedthatwhen wepenetrate deeper
+into thepsycholog}^ofthepsychosesitssignificance
+willbediscovered tobefargreater.Letusreflect
+thattheegonowappearsintherelation ofanobject
+totheegoideal which hasbeen developedoutof
+it,and that alltheinterplay between anouterobject
+andtheegoasawhole, withwhich ourstudyofthe
+neuroses hasmade usacquainted, may possibly be
+repeated uponthisnewscene ofaction inside theego.
+InthisplaceIshallonlyfollow uponeofthe
+consequences which seempossiblefrom thispointof
+view, thusresumingthe discussion ofaproblem
+which Iwasobligedtoleave unsolved elsewhere.*
+Each ofthemental differentiations thatwehave
+becomeacquaintedwithrepresentsafreshaggravation
+ofthe difficulties ofmentalfunctioning,increases its
+**Trauer undMelanchoUe.*
+104Group Psychology andtheAnalysis oftheEgo
+instability, andmaybecome thestarting-pointfor its
+breakdown,thatis,fortheonset ofadisease. Thus,
+bybeingbomwehavemade thestepfrom anab-
+solutelyself-sufficient narcissism totheperceptionof
+achangingouter world and tothebeginningsofthe
+discoveryofobjects. And with this isassociated the
+fact thatwecannot endure thenew state ofthings
+forlong,thatweperiodicallyrevert fromit,inour
+sleep,toourformer condition ofabsence ofstimul-
+ation andavoidance ofobjects.Itistrue, however,
+that inthiswearefollowingahintfrom theouter
+world, which, bymeans oftheperiodical changeof
+dayandnight, temporarily withdraws thegreater part
+ofthe stimuli that affect us.Thesecond example,
+which ispathologically moreimportant,isnotsubject
+toanysuchqualification.Inthecourse ofour
+development wehave effected aseparationofour
+mental existence into acoherent egoand into an
+unconscious andrepressed portion which isleftoutside
+it;andweknow that thestabilityofthisnewacquis-
+ition isexposedtoconstant shocks. Indreams and
+/inneuroses what isthusexcluded knocks foradmission
+atthegates, guarded though theyarebyresistances;
+and inourwakinghealth wemake useofspecial
+artifices forallowing what isrepressedtocircumvent
+theresistances and forreceivingittemporarilyinto
+ouregototheincrease ofourpleasure. Witand
+humour, and tosome extent thecomic ingeneral,
+ADifferentiating Grade intheEgo 105
+mayberegardedinthislight. Everyone acquainted
+with thepsychologyoftheneuroses will think of
+similar examplesoflessimportance; but Ihasten on
+totheapplicationIhave inview.
+Itisquiteconceivable that theseparation ofthe
+egoideal from theegocannot beborne forlong
+either, and has tobetemporarily undone. In all
+renunciations and limitations imposed upon theego
+aperiodical infringementoftheprohibitionistherule;
+thisindeed isshown bythe institution offestivals,
+which inoriginarenothing more nor less than
+excesses provided bylawandwhich owe their cheerful
+character tothe release whichthey bring.^ The
+Saturnalia oftheRomans andourmodern carnival
+agreeinthis essential feature with the festivals of
+primitive people, whichusually end indebaucheries
+ofevery kind andthetransgressionofwhat areat
+other times themost sacred commandments. Butthe
+egoidealcomprisesthesum ofallthelimitations in
+which theegohastoacquiesce, and forthatreason
+theabrogationofthe ideal wouldnecessarily bea
+magnificentfestival fortheego, whichmightthen
+onceagainfeel satisfied with itself.^
+*Totem undTabu.
+^Trotter traces repression back totheherd instinct. Itis
+atranslation ofthis intoanother form ofexpression rather than
+acontradiction when Isayinmy'Einfiihrung desNarzissmus'
+thatonthepart oftheegotheconstruction ofanideal isthe
+condition ofrepression.
+H
+106Group Psychology andtheAnalysis oftheEgo
+There isalwaysafeelingoftriumph when
+somethingintheegocoincides with theegoideal.
+And thesense ofguilt (aswell asthesense ot
+inferiority)can alsobeunderstood asanexpression
+oftension between theegoandtheegoideal.
+Itiswellknown thatthere arepeoplethegeneral
+colour ofwhose mood oscillatesperiodically from an
+excessive depression through some kind ofintermediate |
+state toanexalted sense ofwell-being. These oscill-
+ations appearinverydifferentdegreesofamplitude,
+fromwhat isjustnoticeable tothose extreme instances
+which,intheshapeofmelancholia andmania, make
+themostpainfulordisturbinginroads uponthe life
+oftheperson concerned. Int}^picalcases ofthis
+cyclical depressionouterexcitingcauses donotseem
+toplay anydecisivepart;asregardsinner motives,
+nothing more (ornothing different)istobefound in
+thesepatients than inallothers. Ithasconsequently
+become thecustom toconsider these cases asnot
+being psychogenic. We shall refer laterontothosej
+other exactlysimilar cases ofcyclical depressionwhich
+can neverthelesseasily betraced back tomental
+traumata.
+Thus thefoundation ofthese spontaneousoscill-
+ations ofmood isunknown; wearewithoutinsight
+into themechanism ofthedisplacementofamelan-
+cholia byamania. Sowearefree tosupposethat,
+thesepatientsarepeopleinwhom ourconjecture
+ADifferentiatingGrade intheEgo 107
+\
+mightfindanactualapplication—theiregoidealmight
+betemporarilyresolved into theiregoafterhaving,
+previouslyruled itwithespecialstrictness. )
+Letuskeeptowhat isclear :Onthebasis ofour^
+analysisoftheegoitcannot bedoubted that incases
+ofmania theegoand theegoideal have fused
+together,sothat theperson,inamood oftriumph
+andself-satisfaction, disturbed bynoself-criticism, can
+enjoythe abolition ofhisinhibitions,hisfeelingsof
+consideration forothers, and hisself-reproaches.It
+isnotsoobvious, butnevertheless very probable,that
+themiseryofthemelancholiac istheexpressionofa
+sharpconflict between thetwo faculties ofhisego,
+aconflict inwhich the ideal,inanexcess ofsen-|
+sitiveness, relentlesslyexhibits itscondemnation ofthe
+^
+egoindelusions ofinferiority and inself-depreciation.
+Theonly questioniswhether wearetolook forthe
+causes ofthese altered relations between theegoand
+theegoideal intheperiodic rebellions, which we
+havepostulated above, againstthenewinstitution, or
+whether wearetomake other circumstances respon-
+sible forthem.
+Achangeintomania isnotanindispensable
+feature ofthesymptomatologyofmelancholic depres-
+sion. There aresimple melancholias, some insingle
+andsome inrecurring attacks, which never show this
+development. Ontheother hand there aremelancholias
+inwhich theexcitingcauseclearly playsanaetiological
+108Group Psychology andtheAnalysis oftheEgo
+part. Theyarethose which occur after thelossof
+alovedobject, whether bydeath orasaresult of
+circumstances which have necessitated thewithdrawal
+ofthelibido from theobject. Apsychogenicmelan-
+cholia ofthis sortcanend inmania, and thiscycle
+canberepeatedseveral times, justaseasilyasina
+case whichappearstobespontaneous. Thus the
+state ofthingsissomewhat obscure, especiallyasonly
+afewforms and cases ofmelancholia have been
+submitted topsycho-analytical investigation.^ Sofar
+weonly understand those cases inwhich theobject
+isgiven upbecause ithasshown itself unworthyof
+love. It isthen setupagaininside theego,by
+means ofidentification, and severely condemned by
+theegoideal. The reproaches andattacks directed
+towards theobject come tolightintheshapeof
+melancholicself-reproaches.^
+Amelancholia ofthiskindmayalsoend ina
+changetomania;sothat thepossibilityofthishapp-
+ening represents afeature which isindependentof
+theother characteristics inthesymptomatology.
+*Cf.Abraham: 'Ansatze zurpsychoanalytischen Erforschung
+undBehandliing des manisch-depressiven Irreseins', 1912,in
+Klinische Beitrdge zurPsychoanalyse, 1921.
+^Tospeak moreaccurately, theyconceal themselves behind
+thereproaches directed towards theperson's ownego,andlend
+them thefixity, tenacity, andimperativeness which characterize
+theself-reproachesoiamelancholiac.
+ADifferentiating Grade intheEgo 109
+Nevertheless Iseenodifficultyinassigningto
+the factor oftheperiodical rebellion oftheego
+againsttheegoideal ashare inboth kinds ofmel-
+ancholia, thepsychogenicaswell asthespontaneous.
+Inthespontaneous kind itmaybesupposedthat
+theegoideal isinclined todisplayapeculiar strictness,
+which then resultsautomaticallyin itstemporary
+suspension.Inthepsychogenickind theegowould 7
+beincited torebellion byill-treatment onthepart of/
+itsideal—anill-treatment which itencounters when \
+there hasbeen identification with arejected object.j
+XII
+POSTSCRIPT
+Inthecourse oftheenquiry which hasjustbeen
+broughttoaprovisional endwecame across anumber
+ofside-pathsw^hich weavoidedpursuinginthe first
+instance but inwhich there wasmuch that offered
+uspromisesofinsight.Wepropose now totakeup
+afewofthepointsthathavebeen leftonone side
+inthisway.
+A.The distinction between identification ofthe
+egowith anobject andreplacementoftheegoideal
+byanobjectfinds aninterestingillustration inthe
+twogreatartificial groupswhichwebegan bystudying,
+thearmy andtheChristian church.
+Itisobvious that asoldier takes hissuperior,
+thatis,really,theleader ofthearmy,ashisideal,
+while heidentifies himself with hisequals, andderives
+from thiscommunityoftheiregostheobligationsfor
+givingmutualhelpand forsharing possessionswhich
+comradeship implies. Buthebecomes ridiculous if
+hetries toidentifyhimself with thegeneral. TheI
+Postscript III
+soldier inWallensteins Lager laughsatthesergeant
+forthisveryreason:
+Wie errauspert undwieerspuckt,
+Dashabt ihrihmgliicklich abgeguckt!^
+Itisotherwise intheCatholic Church. Every
+Christian loves Christ ashisideal and feels himself
+united with allother Christians bythe tieofidentific-
+ation. But theChurchrequires more ofhim.He
+has also toidentifyhimself with Christ and love all
+other Christians asChrist loved them. Atbothpoints,
+therefore, theChurchrequiresthat thepositionof
+thelibido which isgiven byagroupformation should
+besupplemented.Identification has tobeadded
+whereobject-choicehastakenplace, andobjectlove
+where there is-identification. This additionevidently
+goesbeyondtheconstitution ofthegroup. One can
+beagoodChristian andyetbefarfrom theidea
+ofputtingoneself inChrist'splace andofhavinglike
+himanall-embracinglove formankind. Oneneed
+notthink oneselfcapable, weak mortal thatoneis,
+oftheSaviour'slargenessofsoul andstrengthof
+love. But this further developmentinthedistribution
+oflibido inthegroupisprobablythe factor upon
+whichChristianity bases itsclaim tohave reached a
+higherethical level.
+^
+[Literally: *How heclears histhroat andhowhespits,
+thatyouhavecleverly copied fromhim,']
+112Group Psychology andtheAnalysis oftheEgo
+B.Wehave said that itwould bepossibleto
+specifythepointinthemental developmentofman
+atwhich theadvance fromgrouptoindividual psycho-
+logywas also achieved bythe individual members
+ofthegroup/
+For thispurpose wemust return foramoment
+tothe scientific mythofthe father oftheprimal
+horde. Hewas later onexalted into thecreator of
+theworld, andwithjustice,forhehadproducedall
+thesonswhocomposedthe firstgroup. Hewasthe
+ideal ofeach one ofthem,atonce feared and
+honoured, afactwhich ledlater totheidea oftaboo.
+These manyindividuals eventually banded themselves
+together,killed himand cuthim inpieces. None
+ofthegroupofvictors could take hisplace, or,
+ifone ofthemdid, the battles began afresh,until
+they understood that they must allrenounce their
+father'sheritage. Theythen formed the totemistic
+communityofbrothers,allwithequal rightsand
+united bythetotemprohibitionswhich were to
+preserve and toexpiatethememoryofthemurder.
+Butthe dissatisfaction withwhat hadbeen achieved
+stillremained, and itbecame thesource ofnew
+developments. Thepersons whowere united inthis
+groupofbrothersgradually came towards arevival
+^What follows atthispointwaswritten under theinfluence
+ofanexchangeofideas with Otto Rank.
+Postscript 113
+ofthe old state ofthingsatanew level. Man
+became oncemore thechief ofafamily, andbroke
+down theprerogativesofthegynaecocracywhich had
+become establishedduringthefatherlessperiod. As
+acompensationfor thishemayatthat timehave
+acknowledgedthemother deities, whosepriests were
+castrated forthemother'sprotection,after theexample
+thathadbeengiven bythe father oftheprimal
+horde. And yetthenew family wasonlyashadow
+oftheoldone; there were numbers offathers and
+each onewas limited bytherightsoftheothers.
+Itwas then, perhaps,thatsome individual, in
+theexigencyofhislonging, mayhave beenmoved
+tofree himself from thegroupandtake over the
+father'spart. Hewho did thiswas the firstepic
+poet; andtheadvance wasachieved inhisimagination.
+This poet disguisedthetruth with lies inaccordance
+with hislonging. Heinvented theheroic myth. The
+herowasamanwhobyhimself had slain thefather—the father who stillappearedinthemythasa
+totemistic monster.Justasthefather hadbeen the
+boy'sfirstideal, sointheherowhoaspirestothe
+father'splacethepoetnow created the firstego
+ideal. The transition tothehero was probably
+afforded bytheyoungest son, themother's favourite,
+whom shehadprotected frompaternal jealousy,and
+who,intheeraoftheprimal horde, hadbeen the
+father's successor. Inthelying poeticfancies of
+114Group Psychology andtheAnalysis oftheEgo
+prehistorictimes thewoman, whohadbeen theprize
+ofbattle andtheallurement tomurder, wasprobably-
+turned intotheseducer andinstigatortothecrime.
+Thehero claims tohave acted alone inaccom-
+plishingthedeed, whichcertainly onlythehorde asa
+whole would have venturedupon. But, asRank has
+observed, fairytales havepreservedclear traces of
+the facts which were disavowed. Forweoften find
+inthem that theherowho hastocarry outsome
+difficult task(usuallyayoungest son,and not in-
+frequentlyonewho hasrepresentedhimself tothe
+fathersurrogateasbeing stupid,that istosay,
+harmless)—weoften find, then,that thishero can
+carryout histask onlybythehelpofacrowd of
+small animals, such asbees orants. These would
+bethebrothers intheprimal horde, justasinthe
+same wayindream symbolisminsects orvermin
+signifybrothers and sisters (contemptuously,considered
+asbabies). Moreover every one ofthe tasks in
+myths andfairytales iseasily recognisableasa
+substitute fortheheroic deed.
+The myth, then,isthestep bywhich the
+individual emergesfrom group psychology. The first
+myth wascertainlythepsychological,thehero m)^h;
+theexplanatorynature myth must have followed much
+later. The poetwhohadtaken this stepandhad
+inthiswaysethimself freefrom thegroupinhis
+imagination,isnevertheless able (asRank hasfurther
+Postscript 115
+observed) tofind hiswayback to itinreality. For
+hegoes and relates tothegrouphishero's deeds
+which hehasinvented. Atbottom thishero isno
+onebuthimself. Thus helowers himself tothelevel
+ofreality, and raises hishearers tothe level of
+imagination. But hishearers understand thepoet,
+and, invirtue oftheirhavingthesame relation of
+longingtowards theprimal father, they canidentify
+themselves with thehero.^
+The lieoftheheroic myth culminates inthe
+deification ofthe hero.Perhapsthe deified hero
+may have been earlier than theFather God and
+may have been aprecursortothereturn ofthe
+primalfather asadeity. The series ofgods, then,
+would runchronologically: Mother Goddess—Hero—
+Father God. But itisonly with theelevation ofthe
+neverforgotten primalfather that thedeity acquires
+thefeatures thatwe stillrecogniseinhimto-day.^
+C.Agreatdealhasbeen said inthispaper about
+directlysexual instincts andthose that areinhibited
+*Cf»Hanns Sachs: *Gemeinsame Tagtraume*, asummary
+made bythelecturer himself ofapaper read attheSixth Psycho-
+analytical Congress, held attheHa^ein1920. Internationale
+Zeitschrift fiirPsychoanalyse, 1920, Bd. VI.['Day-Dreamsin
+Common'. International Journal ofPsycho- Analysis,1920,Vol.I.]
+^Inthis brief expositionIhavemade noattempttobring
+forward anyofthematerialexistinginlegends, myths, fairy tales,
+thehistory ofmanners, etc.,insupportoftheconstruction.
+116Group Psychology andtheAnalysis oftheEgo
+intheir aims, and itmaybehopedthat thisdistinction
+will notmeet with toomuch resistance. But a
+detailed discussion ofthequestionwillnotbeoutof
+place,even ifitonly repeats what has toagreat
+extent already been said before.
+Thedevelopmentofthe libido inchildren has
+made usacquaintedwith the first but also tliebest
+exampleofsexual instincts which areinhibited intheir
+aims. Allthefeelingswhich achild hastowards its
+parents andthosewho look after itpassbyaneasy
+transition into thewishes which gw^ expressionto
+the child's sexual tendencies. The child claims from
+theseobjectsof itslove allthesignsofaffection
+which itknowsof;itwants tokissthem, touch them,
+andlook atthem;itiscurious toseetheirgenitals,
+andtobewiththemwhen theyperformtheir intimate
+excremental functions;itpromisestomarryitsmother
+ornurse—w^hatever itmay understand bythat;it
+proposestoitself tobear itsfather achild,etc.Direct
+observation, aswell asthesubsequent analyticinvesti-
+gationoftheresidue ofchildhood, leave nodoubt
+as'tothecompletefusion oftender andjealous
+feelingsand ofsexual intentions, andshow usin
+what afundamental waythe childmakes theperson
+itloves intotheobjectofallitsincompletelycentred
+sexual tendencies.^
+*Cf.DreiAbkandlungen zurSexualtheorie.
+Postscript117
+This firstconfigurationofthechild's love, which in
+typicalcases isco-ordinated withtheOedipus complex,
+succumbs, asweknow, from thebeginningoftheperiod
+oflatency onwards toawave ofrepression. Such ot
+itas isleftover shows itself asapurelytender
+emotionaltie,which relates tothesamepeople,but
+isnolongertobedescribed as^sexual'. Psycho-
+analysis, which illuminates thedepthsofmentallife,
+hasnodifficultyinshowingthat thesexual tiesof
+the earliest yearsofchildhood alsopersist, though
+repressed and unconscious. Itgivesuscourageto
+assert thatwherever wecome across atenderfeeling
+itisthesuccessor toacompletely^sensual'object
+tiewith thepersoninquestionorrather with that
+person's prototype (orimago).Itcannot indeed
+disclose touswithout aspecial investigationwhether
+inagivencase thisformer completesexual current
+still exists underrepressionorwhether ithasalready
+been exhausted. Toputitstillmoreprecisely:itis
+quitecertain that itisstill there asaform and
+possibility,andcanalways bechargedwith cathectic
+energyand putintoactivity again bymeans of
+regression;theonly questionis(anditcannot always
+beanswered) whatdegreeofcathexis andoperative
+force itstillhas atthepresent moment. Equalcare
+must betaken inthisconnection toavoid twosources
+oferror— theScyllaofunder-estimatingtheimportance
+oftherepressed unconscious, and theCharybdisof
+118Group Psychology andtheAnalysis oftheEgo
+judgingthenormalentirely bythestandards ofthe
+pathological.
+Apsychologywhich willnotorcannotpenetrate
+thedepthsofwhat isrepressed regardstender
+emotional ties asbeing invariablytheexpressionof
+tendencies which have nosexual aim,eventhough
+theyarederived from tendencies which have such
+anaim.^
+We arejustifiedinsayingthat they have been
+diverted from these sexual aims, eventhoughthere
+issomedifficultyingivingarepresentationofsuch
+adiversion ofaim which will conform tothe
+requirementsofmetapsychology. Moreover, those
+instincts which are inhibited intheir aims always
+preserve some fewoftheiroriginalsexual aims; even
+anaffectionate devotee, even afriend oranadmirer,
+desires thephysical proximity and thesightofthe
+person who isnowlovedonlyinthe^Pauline' sense.
+Ifwechoose, wemay recogniseinthis diversion of
+aim abeginningofthesublimation ofthesexual
+instincts, orontheother handwemayfixthe limits
+ofsublimation atsome more distantpoint. Those
+sexual instincts which areinhibited intheir aimshave
+agreatfunctionaladvantageover those which are
+uninhibited. Since they arenotcapableofreally
+^Hostilefeeling^s, which arealittlemore complicatedin
+theirconstruction,offernoexceptiontothis rule.I
+Postscript119
+complete satisfaction, they areespecially adaptedto
+create permanent ties; while those instincts which are
+directlysexual incur alossofenergy each timethey
+aresatisfied, andmust wait toberenewed bya
+fresh accumulation ofsexuallibido, sothatmean-
+while theobject may have beenchanged. The
+inhibited instincts arecapableofany degreeof
+admixture with theuninhibited; they canbetrans-
+formed back into them, justasthey arose outof
+them. Itiswellknown howeasilyerotic wishes
+develop out ofemotional relations ofafriendly
+character, based upon appreciation and admiration,
+(compare Moliere's 'Embrassez-moi pourI'amour du
+grec'), between amaster and apupil, between a
+performer andadelighted listener, andespeciallyin
+thecase ofwomen. Infactthegrowthofemotional
+ties ofthis kind, with theirpurposeless beginnings,
+provides amuchfrequented pathwaytosexualobject-
+choice.Pfister,inhisFrommigkeitdesGrafenvon
+Zinzendorf^ hasgivenanextremelyclearandcertainly
+notanisolated exampleofhoweasily even an
+intensereligioustiecan revert toardent sexual
+excitement. Ontheother hand itisalsoveryusual
+fordirectlysexual tendencies, short-lived inthemselves,
+tobetransformed intoalasting andpurely tendertie;
+^[Sckri/tenzurangewandten Seelenkunde. Heft 8.Vienna,
+Deuticke; 1910.]
+120Group Psychology andtheAnalysis oftheEgo
+and theconsolidation ofapassionatelovemarriage
+rests toalargeextent uponthisprocess.
+We shall naturally notbesurprisedtohear that
+thesexual tendencies that areinhibited intheir aims
+arise outofthedirectlysexual oneswhen inner or
+outer obstacles make thesexual aims unattainable.
+The repression duringtheperiodoflatencyisan
+inner obstacle ofthiskind—orrather onewhich has
+become inner.Wehaveassumed that the father of
+theprimal horde owingtohissexual intolerance
+compelledallhissons tobeabstinent, and thus
+forced them into ties thatwere inhibited intheir
+aims, while hereserved forhimself freedom ofsexual
+enjoyment and inthiswayremained without ties. All
+the tiesupon which agroup dependsareofthe
+character ofinstincts that areinhibited intheir aims.
+Butherewehave approachedthediscussion ofa
+newsubject, which deals with the relation between
+directlysexual instincts andtheformation ofgroups.
+D.The lasttworemarks willhave preparedus
+forfindingthat directlysexual tendencies areunfavour-
+able to-the^ior^nation jdI_groups.Inthe historyof
+thedevelopmentofthefamily there have also,it
+istrue, beengrouprelations ofsexual love (group
+marriages); but themoreimportantsexual love
+became fortheego,andthemore itdevelopedthe
+characteristics ofbeinginlove, themoreurgentlyit
+requiredtobelimited totwopeople—unacum
+Postscript12I
+uno—as isprescribed bythenature ofthegenital
+aim. Polygamousinclinations had tobecontent to
+find satisfaction inasuccession ofchanging objects.
+Twe-^eo plecoming—togetherior-thepurposeof
+sgxuaLaatisfaction,,insofarastheyseek-forsolitii(ie,
+are^jnakiD gadernQnstratiQa.,againsttheherd instinct,,
+thegroup feeling. Xhe— more-4h€y-~arein-Joai^^jthe
+more completelytheysuffice foreach other. The
+rejectionofthegroup'sinfluence ismanifested inthe
+shapeofasense ofshame. The extremelyviolent
+feelingsofjealousyaresutnmoned upinorder to
+protectthesexualobject-choice frombeingencroached
+upon byagrouptie. Itisonly—whea thetender^
+thatJs^-thf^ personal, factQr__Qf_a love relation gives
+place entir£ly,„tQ.. thesensual QQ£^__thaluit-is possible
+fortwopeople-Jt£X have sexual intercourse inthe
+presenceof^thers orforthere tobesimultaneous
+sexual acts inagroupasoccurs atanorgy.Butat
+thatpointaregressionhastakenplacetoanearly
+stageinsexualrelations,atwhichbeinginlove as
+yetplayed nopart, and allsexualobjects were
+judgedtobeofequal value, somewhat inthesense
+ofBernard Shaw's malicious aphorismtothe effect
+thatbeinginlovemeansgreatly exaggeratingthe
+difference between onewoman andanother.
+There areabundant indications thatbeingin
+loveonlymade itsappearancelateoninthesexual
+relations between men andwomen: sothat the
+122Group Psychology andtheAnalysis oftheEgo
+opposition between sexual loveandgroupties isalso
+alatedevelopment. Now itmayseem asthough
+thisassumptionwere incompatible with ourmythof
+theprimal family. For itwas after allbytheir love
+for their mothers and sisters that the troopof
+brothers was, aswehavesupposed,driven to
+parricide; and itisdifficult toimaginethislove as
+being anythingbutunbroken andprimitive—thatis,
+asanintimate union ofthetender and the sensual.
+But further consideration resolves thisobjectioninto
+aconfirmation. One ofthereactions totheparricide
+was after allthe institution oftotemistic exogamy,
+theprohibitionofanysexual relation with those
+women ofthefamily whohadbeen tenderly loved
+since childhood. Inthiswayawedge was driven in
+between aman's tender andsensualfeelings,one still
+firmly fixed inhiserotic lifeto-day.^ Asaresult ot
+thisexogamythesensual needs ofmenhad tobe
+satisfied withstrangeandunloved women.
+Inthegreatartificialgroups,thechurch andthe
+army,there isnoroom forwoman asasexual
+object. The love relation between men andwomen
+remains outside theseorganisations. Even where
+groupsareformed which arecomposedofbothmen
+andwomen the distinction between thesexes plays
+nopart. There isscarcely anysense inaskingwhether
+*See*Ober dieallgemeinste Erniedri^ngdesLiebeslebens.*
+Postscript 123
+thelibido which keeps groups togetherisofahomo-
+sexual orofaheterosexual nature,for itisnot
+differentiatedaccordingtothesexes, andparticularly
+shows acomplete disregardfortheaims ofthegenital
+organisationofthe libido.
+Even inaperson whohasinotherrespects become
+absorbed inagroupthedirectlysexual tendencies
+preservealittle ofhisindividualactivity.Ifthey
+become toostrong they disintegrate every group
+formation. The Catholic Church had thebest of
+motives forrecommendingitsfollowers toremain
+unmarried and forimposing celibacy uponitspriests;
+butfallinginlove hasoften driven evenprieststo
+leave thechurch. Inthesamewaylove forwomen
+breaksthroughthegroupties ofrace, ofnational
+separation, and ofthe social class system, and it
+thusproduces importanteffects asafactor incivili-
+zation. Itseems certain that homosexual love is
+farmore compatiblewith group ties, evenwhen it
+takes theshapeofuninhibited sexual tendencies—a
+remarkable fact, theexplanationofwhich might carry
+usfar.
+Thepsycho-analytic investigationofthepsycho-
+neuroses hastaughtusthat theirsymptomsareto
+betraced back todirectly sexual tendencies which
+arerepressedbut stillremain active.Wecancomplete
+thisformula byaddingtoit:or,totendencies inhibited
+intheir aims, whose inhibition hasnotbeenentirely
+124Gronp Psychology andtheAnalysis oftheEgo
+successful orhasmade room forareturn tothe
+repressedsexual aim. Itisinaccordance with this
+that aneurosis should make itsvictim asocial and
+should remove himfrom theusualgroupformations.
+Itmaybesaid that aneurosis hasthesame dis-
+integratingeffect uponagroupasbeinginlove.
+Ontheother hand itappearsthatwhere apowerful
+impetus hasbeengiventogroupformation neuroses
+maydiminish and atallevents temporarily disappear.
+Justifiable attempts have alsobeenmade toturn this
+antagonism between neuroses andgroupformation to
+therapeutic account. EyerLt hosewhodo^notjcegret the
+disappear ance ofreligiousillnsionR^fcom the civilized
+WQild_ ofto-day.willadniil^that solongas^ey;
+were inforce theyoffered those whowere bound
+bythemt];;t£-.^_i3qh^t:^j2nwerfnl prntertion againstthe
+danger ofneurosis. Nor is ithard todiscern in
+allthe tieswithmystico-religiousorphilosophico-
+religioussects andcommunities themanifestation of
+distorted cures ofallkinds ofneuroses. Allofthis
+isbound upwith the contrast betweendirectly
+sexual tendencies and those which are inhibited in
+their aims.
+Ifhe islefttohimself, aneurotic isobligedto
+replace byhisownsymptomformations thegreat
+group formations from which he isexcluded. He
+creates hisownworld ofimaginationforhimself, his
+ownreligion,hisown systemofdelusions, andthus
+Postscript125
+recapitulatestheinstitutions ofhumanityinadistorted
+waywhich isclear evidence ofthedominating part
+played bythedirectlysexual tendencies.^
+E.Inconclusion, we willadd acomparative
+estimate, from thestandpointofthe libido theory,
+ofthestates withwhichwehavebeen concerned, of
+beinginlove, ofhypnosis,ofgroup formation, and
+oftheneurosis.
+Beinginlove isbased uponthesimultaneous
+presenceofdirectlysexual tendencies and ofsexual
+tendencies that are inhibited intheir aims, sothat
+theobjectdraws apartofthe narcissisticego-libido
+to itself. Itisacondition inwhich there isonly
+room fortheegoandtheobject.
+Hypnosisresembles beinginlove inbeinglimited
+tothese twopersons,but itisbasedentirely upon
+sexual tendencies that are inhibited intheir aims
+and substitutes theobjectfortheegoideal.
+Thegroup multipliesthisprocess;itagreeswith
+hypnosisinthenature ofthe instincts which hold it
+together,and inthereplacementoftheegoideal
+bytheobject;buttothis itadds identification with
+other individuals, which wasperhaps originally made
+possible bytheir havingthesame relation tothe
+object.
+*SeeTotem und Tabu, towards theendofPartII,'Das
+Tabu und dieAmbivalenz '.
+126Group Psychology andtheAnalysis oftheEgo
+Both states, hypnosis andgroup formation, are
+aninheriteddeposit from thephylogenesisofthe
+human libido—hypnosisintheform ofapredisposition,
+and thegroup,besidesthis, asadirect survival.
+Thereplacementofthedirectly sexual tendencies by
+those that areinhibited intheir aimspromotesinboth
+states aseparation between theegoandtheego ideal,
+aseparationwithwhich abeginninghasalready been
+made inthestate ofbeinginlove.
+The neurosis stands outside this series. Italso
+isbased uponapeculiarityinthedevelopmentof
+thehuman libido—thetwicerepeatedstartmade by
+thedirectly sexual function, withanintervening period
+oflatency.^ To thisextent itresembleshypnosis and
+groupformation inhavingthecharacter ofaregression,
+which isabsent frombeinginlove. Itmakes its
+appearancewherever theadvance fromdirectlysexual
+instincts tothose that areinhibited intheir aims has
+notbeen completely successful; and itrepresentsa
+conflict between those instincts which have been
+received into theegoafterhaving passed through
+thisdevelopment and thoseportionsofthesame
+instincts which, likeother instinctive desires thathave
+been completely repressed, strive, from therepressed
+unconscious, toattain direct satisfaction. The neurosis
+^SeeDrei Abhandlungen zur Sexualtheorie, 4.Auflage,
+1920,S.96.
+Postscript127
+isextraordinarilyrich incontent, for itembraces all
+possiblerelations between theegoandtheobject—
+both those inwhich theobjectisretained andothers
+inwhich itisabandoned orerected inside theego
+itself—and also theconflictingrelations between the
+egoand itsegoideal.
+I
+INDEX
+Abraham, 62,108.
+Affectivity.See ««<y«fr Emotion.
+Altruism, 57.
+Ambivalence, 18,55,61.
+Anaclitictype,60.
+Archaic inheritance, 10,99.
+Army, 42-6, 89,94,no, 122.
+Autistic mental acts,2.
+Be?'nheim, 35,loo.
+Bleuler, 2.
+Brothers, 43,114.
+inChrist, 43.
+Community of,90,112, 122.
+Brugeilles, 34.
+Caesar, 44.
+Cathexis, 18,20,28,117.
+Object-, 48,58,60-1,71-2,76.
+Catholic Church, 42-3,111,123.
+Celibacy ofpriests, 123.
+Censorshipofdreams, 16,69.
+Chieftains, Mana in,96.
+Children, 14,16,18-19, 30,67,
+82,91.
+Dreadin,83,85-6.
+Parents and, 54,86,116.
+Sexual object of,72,116.
+Unconscious of,18.
+Christ, 42-5, 50,III.
+Equal loveof,50.
+Identification with, in.
+Church, 42-3, 89,94,iio-ii,
+122-3.
+Commander-in-Chief, 42-5.
+Conflict, 18,107,126.Conscience, 10,28,68-9,75, 79
+Social,88.
+Contagion, Emotional, 10-13,
+27,34-5, 46-7.
+Crowd, I,3,26,92.
+Danger,Effect ongroups, 46-9.
+Darwin, 90.
+Delusions :
+ofinferiority, 107.
+ofobservation, 69.
+Devotion toabstract idea, 17,
+Doubt:
+absence ingroups, 15-16.
+interpretationindreams,
+15-16.
+Dread :
+Children's, 83,85-6.
+inagroup, 46-8, 50.
+inanindividual, 47-8.
+Neurotic, 48.
+ofsociety,10.
+Panic, 45-9.
+Dream, 20,69,104.
+Interpretationofdoubt and
+uncertainty in,15-16.
+symbolism, 114.
+Duty, Senseof,84,88,95.
+Ego, 10,18-19, 62-70, 74,84,
+93,100-9, 120, 125-7.
+Relations between egoideal
+and, 68-70, 103, 105-10.
+Relations between object
+and, 62-70, 74-6,108-10.
+130Group PsychologyaitdtheAnalysis oftJieEgo
+Ego ideal, 68-70, 74-7, 80,
+100-3, 105-10, 113, 126-7.
+Abrogationofthe, 105.
+Hypnotistintheplace of,77.
+Objectassubstitute for,74-6,
+80,103,no.
+Relations between egoand,
+68-70, 103, 105-10.
+Testing realityofthings, 77.
+Thefirst, 113.
+Egoism, 57.
+Emotion :
+Ambivalent, 18,55.
+Charge of,28.
+Contagionof.SeeContagion.
+Intensification of,ingroups,
+16,23,27-30, 33,46,81.
+Primitive induction of,27,
+34,46-7.
+Tender, 72-3, 78,116-17.
+Emotional tie,40,43,45,52-3,
+59-60,64-5,81,88,91,94,
+100, 117-20.
+Cessationof,46-9.
+Empathy,relation toidenti-
+fication, 66,70.
+Enthusiasm, ingroups, 25.
+Envy, 87-8.
+Equality, demand for, 88,89.
+Eros, 38-40.
+Esprit decorps, origin of,87.
+Ethical :
+conduct ofagroup,18.
+level ofChristianity, in.
+standards ofindividual, 24-5.
+Fairy tales, thehero in,114.
+Family, 70,95,100,n3, 120.
+agroup formation, 95.
+andChristian community, 43.
+and social instinct, 3.
+Primal, 122.
+Fascination, 11,13,21,75.Father, 43,92,98-9.
+Equal love of,95.
+God, 115.
+Identification with,60-2.
+Objecttiewith, 62.
+Primal, 92,94-5, 9Q-100,
+112-13, 115, 120. Deifi-
+cation of,93,115. Killing
+the, 94,112-13,122.
+Surrogate, 43,114.
+Federn, P.,50.
+Felszeghy, Beta v.,48.
+Ferenczi, 'j6^98.
+Festivals, 105.
+Folk-lore, 25.
+Folk-song, 25.
+French Revolution, 26.
+Function:
+fortesting reality, 20,77.
+(Instanz), 15.
+Gemeingeist, origin of,87.
+Genital organisation, 19.
+God, 85,5^.
+Father, 115.
+Gregariousness, 83-4, 92.
+Group:
+Artificial, 41-2, 52,82,89,94,
+no,122.
+Different kindsof,26,41.
+Disintegration of,49-51«
+Dread in,47,
+Equality in,89.
+feeling, 86-7,121.
+Heightened affectivityin.
+Seeunder Emotion.
+ideal, 100, 102.
+Intellectual capacity of,14,
+18,23,25,29,31,33,8i-
+Intensification ofemotion in.
+See7mder Emotion.
+Leaders of.Seeunder
+Leader.
+Index 131
+Group (continued):
+Libidinal structureof,37,40,
+44-5. 47,51,53-4, 70,
+79-80, 102-3.
+marriages,120.
+Mental changeoftheindi-
+vidual in,6-I4j 33-4, 45>
+56,81,102.
+mind, 3,5-27, 40,49, 82.
+Organisation in,26,30-1, 33,
+41-2, 80,82,90.
+Primitive, 31,33,41,80.
+psychologicalcharacter of,
+6-32.
+psychology, 1-4,6,25-6, 33-4,
+37,45,53,59,92-4, loi,
+112, 114.
+Revolutionary,26.
+Sexual instincts and, 120.
+spirit, 87.
+Stable, 26,41,84,101.
+Suggestibility of,11,13,35,
+84-5.
+Transient, 25,41,84,loi.
+Guilt,Senseof,20,63,65,84, 106.
+Gynaecocracy, 113.
+Hatred, 53,56.
+Hebbel, 49.
+Herd, 83-5, 89.
+instinct, 3,83-6, 105, 121.
+Hero, 17,113-15-
+Homosexuality, 57,66-7, 94,
+123.
+Horde Primal, 89-95, 99,113-14,
+120.
+Father ofthe.Seeunder
+Father.
+Hypnosis, 10-13, 20-1, 77-9, 81,
+95-100, 125-6,
+agroupoftwo, 78,100.
+andsleep, 79,98.
+ofterror, 79.Hypnotist, 13,77,95-9.
+Hysteria,Identification in,63-5.
+Idealisation, 74.
+Identification, 59-70, 75-6, 84,
+86-9, 94,101-3, III, 125.
+Ambivalent, 61.
+inhysterical symptom, 63-5.
+Regressionofobject-choice
+to,64.
+withalostorrejected object,
+67-8, 108-9.
+with Christ, iii.
+with thefather, 60-2.
+with thehero, 115.
+with theleader, iio-ii.
+Imitation, 34-5, 65,70.
+Individual:
+amember ofmany groups,
+lOI.
+Dreadin,47-8.
+Mental changeinagroup.
+6-14, 33-4,45, 56,81, 102,
+Psychology, 1-2, 92-3, 112,
+114.
+Induction ofemotion, 27,34,
+46-7.
+Infection, mental, 64-65.
+Inferiority, Delusionsof,57,
+106-7.
+Inheritance, archaic, 10,99.
+Inhibition :
+Collective, ofintellectual
+functioning, 23,33.
+Removal of,17,28,33.
+Instinct:
+Herd, 3,83-6, 105, 121.
+inhibited inaim, 72-3, 78,
+115-26.
+Lifeanddeath, 56.
+Love, 37,39,58.
+Nutrition, 85.
+Primary, 84-5.
+132Group Psychology andtheAnalysis oftheEgo
+Instinct (continued):
+vSelf-preservative, 34,85.
+Sexual, 19, 39, 56,71-8,
+85-5, 94,115-26.
+vSocial, 3.
+unhibited inaim, 73,77-8,
+94,115-26.
+Unconscious, 10.
+Intellectualability," lowering of,
+ingroups, 14,18,23,25,
+29.31.33.81.
+Introjection, ofobjectintoego,
+65,67-8, ^6.
+Jealousy,121.
+Kings, Manain,96.
+Kraskovic, B.jnr., 23.
+Kroeger^ 90.
+Language, 25, i'^,71.
+Latency, period of,72,117,^ 120.
+126.
+Leader, 20-2, 41,44-5, 78,82,
+85,89,92,99,no.
+Abstractions assubstitutes
+for, 53.
+Equal loveof,93,95.
+Identification with, iio-ii.
+Killing the, 90.
+Loss of,49.
+Negative, 53.
+Prestige of,21-2.
+thegroup ideal, 100, 102,110.
+Tiewith, 49,52,66.
+LeBon, 5-25, 29,34,82,84,
+100- 1.
+Libidinal :
+structure ofthegroup, 37,
+40,44-5,47, 53,7o,79-8o,
+102-3.
+Theword, 44.
+ties, 44,56-8, 65,93, 100.
+inthegroup, 45,51,54.Libido, 33-40, 44, 57,79,83,
+102, III, 116,119,123,126.
+Narcissistic, 58,74,93,104,
+125.
+Oralphase of,61.
+theory, 57,83,125.
+Unificationof,19.
+Withdrawalof,108.
+Love, 37-40, 42,73,87,108,
+122.
+afactor ofcivilisation, 57,93.
+andcharacter formation, 94,
+118-20.
+andhatred, 56.
+Being in,58,71-9, 120-1,
+124-6.
+Child's,116-17.
+Christ's, 43.
+Equal, 42,50,89,93.
+Pauline, 118.
+Self-. Seeunder Narcissism.
+Sensual, 71-3, 78,117.
+Sexual, 37-8, 57,120-2.
+Sublimated homosexual, 57.
+Theword, 37-9, 71.
+Unhappy, 75.
+Unsensual, 73.
+McDougali, I,26-31, 34-6,
+46-7, 49,84.
+Magical powerofwords, 19.
+Magnetic influence, 11.
+Magnetism, animal, 96.
+Mana, 96.
+Mania, 106-9.
+Marcuszezciez, 68.
+Marriage, 54,120.
+Melancholia, 68,106-9.
+Metapsychology, 63,118.
+Moede, Walter, 24.
+Moliere, 119.
+IMorality, Totemism theorigin
+of,90.
+Index133
+Motherdeities, 113, 115.
+^^llticellularit^', 7,32,83.
+Myth,113-15.'
+Nacluiiansohn, 39.
+Names, Taboo upon, 19.
+Napoleon, 44.
+Narcissism, 2,38,54-8, 69,74-5,
+93,94,104.
+Nestroy, 49.
+Neurosis, 18,20, 37,44, 58,
+63,103-4,123-26.
+Nietzsche, 93.
+Nutrition, Instinctof,84.
+Object, 57-8, 62,68, 74,87,
+93,104, 125, 127.
+cathexis, 48,58,60-1, 71-2,
+76.
+Change of,18,119, 121.
+Child's, 72.
+-choice, 54,62^64,74,III,
+119, 121.
+Eating the,61-62.'
+Hyper-cathexis of,76.
+Identification withego,108.
+Less orRenunciation of,68,
+108.
+-love, 56,63,74,III.
+Relations with theego, 65,
+67-8, 70,76.
+Sexual, ^^,72-3, 116.
+Substituted forego ideal, 74,
+80,103, 125.
+Observation, delusions of,69.
+Oedipus complex, 60-61, 63,
+66,117.
+Inverted, 62.
+Oralphaseoforganisationof
+thelibido, 61.
+Organisationingroups, 26j
+30-1, 33,41-2, 80,82,90.
+Orgy,121.Panic, 45-9.
+Pan-sexualism, 39.
+Paul, Saint, 39,118.
+PJister, 39,119.
+Plato, 38.
+Poet, the firstepic, 113-114.
+Power, 9,15,28.
+ofleaders, 21.
+ofwords, 19.
+Prestige, 21-2, 34.
+Primitive peoples, 14,18-19,
+24,92,96,105.
+Psycho-Analysis, 4,714, 18,
+36,38-9. 59-60, 84,97.
+Psychology:
+Group, i-4, 6,25-6, 33-4, 37»
+45.53.59.92,94,loi.
+Group and individual, 1-2,
+92-93, 112, 114.
+Psychoses, ^^,103.
+Puberti% ^^,72-73-
+Races, repugnance between
+related, S5.
+Rank, Otto, 112, 114.
+Rapport, 97.
+Reality:
+Function fortesting, 20, i'].
+Contrast between Objective
+andPsychological,20.
+Regression, 82,91, 117, 121,
+126.
+Religion, 51,90.
+Wars of,51.
+Repressed:
+Sexual tendencies, 74,117,
+123-4.
+The, 10,104, 117-18,126.
+Repression, 9,54,64-5, 69,
+72,84,95,105, 117, 120,
+Resistance, 84,104.
+Responsibility, Sense of,9-10,
+29-30.
+134Group Psychology andtheAnalysis oftheEgo
+Rickter, Konrad, 36.
+Sachs, HannSy 16,115.
+Schopenhauer, 54.
+Self- :
+consciousness, 30-1,
+depreciation, 107.
+love. Seeunder Narcissism.
+observation, 69.
+preservation, 15, 34,84-5.
+sacrifice, 11,38,75.
+Sex, 39.
+Sexual :
+act,92,121.
+aims, 58,72.Diversion of
+instinct from, 58.Infantile,
+72.Obstacles to,120.
+life, 19,72.
+over-estimation, 53-5.
+Tendencies, Inhibited and
+unhibited.72-3, 77-8, 94,
+115-16, 125-26.
+union, 37-8.
+Shaw, Bernard, 121.
+Sidis, Boris, 84.
+Sighele, 24-5.
+Simmel, E.,44.
+Sleep, 98,104.
+andhypnosis, 98.
+Smith, Robertson, 70.
+Social:
+duties, 88,95.
+relations, 2-3, 57.
+Socialistic tie, 51.
+Society, 24,26,28,90.
+Dread of,10.
+Sociolo^.SeeunderGroup
+Psychology.
+Speech, 84.
+Sublimated:
+devotion, 17,75.
+homosexual love, 57.
+Sublimation, 118.Suggestibility, u,13,35,84-5.
+Suggestion, 12-13, 17,29,34-7,
+40,82,95,99,102.
+Counter-, 35.
+Definition for, 100.
+Mutual, 12,27,34,82.
+Superman, 93.
+Taboo, 19,96,112.
+Tarde, 34.
+Totemism, 90,112-13.
+Totemistic :
+clan, 95.
+community ofbrothers, 112.
+exogamy,122.
+Tradition, 17,21.
+ofthegroup, 31.
+oftheindividual, 32.
+Transference, 97-8.
+Trotter, 32,83-5, 89,105.
+Uncanniness, 95,99,
+Uncertainty, absence ingroups,
+15-16.
+interpretationindreams,
+15-16.
+Unconscious, 8,10,12,14-16,
+18,23-4, 64,67,72,97.
+100, 104.
+Groups ledby, 14.
+instincts, 10.
+LeBon's, 10,14,24.
+ofchildren, 18,117.
+ofneurotics, 18.
+Racial, 9.
+Wallenstein, 44.
+Wcir neuroses, 44.
+War, The, 44.
+Wilson, President, 44.
+Wishes, Affective cathexis of,
+20.
+Words, magical power of,19.
