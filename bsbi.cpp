@@ -1,8 +1,8 @@
-#include<bits/std++.h>
+#include<bits/stdc++.h>
 #define DOC_COUNT 30
 #define WORDS_PER_BLOCK 50000
 #define ITEMS_PER_BLOCK_IN_MEM 2000
-
+using namespace std;
 
 void fill_queue(queue< pair<string, map<int, int> > > &q, ifstream *fp)
 {
@@ -42,6 +42,7 @@ int main()
 	map<string, map<int, int> > term_doc_pairs;
 	int flag = 0, block_count = 0;
 	int wc = 0;
+	int isAscii;
 	for(int i = 0; i < DOC_COUNT; i++)
 	{
 		ifstream f;
@@ -51,11 +52,18 @@ int main()
 		{
 			if(!flag)
 			{
+				isAscii = true;
 				if(word.find(",") != string::npos || word.find(";") != string::npos || word.find(":") != string::npos || word.find(".") != string::npos)
 				{
 					word = word.substr(0, word.size() - 1);
 				}
-				if(word != "")
+				for(int i = 0;i < word.length();i++){
+					if(int(word[i]) >= 255){
+						isAscii = false;
+						break;
+					}
+				}
+				if(word != "" && isAscii)
 				{
 					if(term_doc_pairs.find(word) == term_doc_pairs.end())
 					{
