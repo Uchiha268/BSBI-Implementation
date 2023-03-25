@@ -88,6 +88,7 @@ int main()
 				word = word_pre_processor(word);
 				if(word != "" && stop_words.find(word) == stop_words.end())
 				{
+					string bi_word = prev_word + "." + word;
 					if(term_doc_pairs.find(word) == term_doc_pairs.end())
 					{
 						term_doc_pairs[word].insert(make_pair(i + 1, 0));
@@ -97,10 +98,23 @@ int main()
 						term_doc_pairs[word][i + 1] = 0;
 					}
 					term_doc_pairs[word][i + 1]++;
-					if(++wc >= WORDS_PER_BLOCK)
+
+					if(term_doc_pairs.find(bi_word) == term_doc_pairs.end())
+					{
+						term_doc_pairs[bi_word].insert(make_pair(i + 1, 0));
+					}
+					else if(term_doc_pairs[bi_word].find(i + 1) == term_doc_pairs[bi_word].end())
+					{
+						term_doc_pairs[bi_word][i + 1] = 0;
+					}
+					term_doc_pairs[bi_word][i + 1]++;
+
+					wc += 2;
+					if(wc >= WORDS_PER_BLOCK)
 					{
 						flag = 1;
 					}
+					prev_word = word;
 				}
 			}
 			else
