@@ -1,7 +1,21 @@
 #include<bits/stdc++.h>
 #define DOC_COUNT 30
-#define WORDS_PER_BLOCK 50000
-#define ITEMS_PER_BLOCK_IN_MEM 2000
+#define WORDS_PER_BLOCK 100000
+#define ITEMS_PER_BLOCK_IN_MEM 10000
+
+unordered_set<string> get_stop_words(string file)
+{
+	ifstream fp;
+	fp.open(file);
+	string word;
+	unordered_set<string> *stop_words = new unordered_set<string>;
+	while(fp >> word)
+	{
+		(*stop_words).insert(word);
+	}
+	return (*stop_words);
+}
+
 
 
 void fill_queue(queue< pair<string, map<int, int> > > &q, ifstream *fp)
@@ -39,6 +53,7 @@ class myComparator
 int main()
 {
 	string doc = "document";
+	unordered_set<string> stop_words = get_stop_words("stop_words.txt");
 	map<string, map<int, int> > term_doc_pairs;
 	int flag = 0, block_count = 0;
 	int wc = 0;
@@ -55,7 +70,7 @@ int main()
 				{
 					word = word.substr(0, word.size() - 1);
 				}
-				if(word != "")
+				if(word != "" && stop_words.find(word) == stop_words.end())
 				{
 					if(term_doc_pairs.find(word) == term_doc_pairs.end())
 					{
