@@ -16,6 +16,21 @@ unordered_set<string> get_stop_words(string file)
 	return (*stop_words);
 }
 
+string word_pre_processor(string word)
+{
+	string new_word = "";
+	int i = 0;
+	while(i < word.size() && ((word[i] < 'A' || word[i] > 'Z') && (word[i] < 'a' || word[i] > 'z')))
+	{
+		i++;
+	}
+	while(i < word.size() && ((word[i] >= 'A' && word[i] <= 'Z') || (word[i] >= 'a' && word[i] <= 'z') || word[i] == '-'))
+	{
+		new_word += word[i];
+		i++;
+	}
+	return new_word;
+}
 
 
 void fill_queue(queue< pair<string, map<int, int> > > &q, ifstream *fp)
@@ -66,10 +81,11 @@ int main()
 		{
 			if(!flag)
 			{
-				if(word.find(",") != string::npos || word.find(";") != string::npos || word.find(":") != string::npos || word.find(".") != string::npos)
-				{
-					word = word.substr(0, word.size() - 1);
-				}
+				// if(word.find(",") != string::npos || word.find(";") != string::npos || word.find(":") != string::npos || word.find(".") != string::npos)
+				// {
+				// 	word = word.substr(0, word.size() - 1);
+				// }
+				word = word_pre_processor(word);
 				if(word != "" && stop_words.find(word) == stop_words.end())
 				{
 					if(term_doc_pairs.find(word) == term_doc_pairs.end())
