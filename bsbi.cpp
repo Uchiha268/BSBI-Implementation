@@ -45,7 +45,7 @@ string word_pre_processor(string word)
 }
 
 
-void fill_queue(queue< pair<string, map<int, int> > > &q, ifstream *fp)
+void fill_queue(queue< pair<string, map<int, pair<int, vector<long int> > > > > &q, ifstream *fp)
 {
 	int lc = 0;
 	string line;
@@ -55,13 +55,18 @@ void fill_queue(queue< pair<string, map<int, int> > > &q, ifstream *fp)
 		string word;
 		ss >> word;
 		string term = word;
-		map<int, int> *temp = new map<int, int>;
+		map<int, pair<int, vector<long int> > > *temp = new map<int, pair<int, vector<long int> > >;
 		while(ss >> word)
 		{
 			int doc_id = stoi(word);
 			ss >> word;
 			int term_freq = stoi(word);
-			(*temp)[doc_id] = term_freq;
+			(*temp)[doc_id].first = term_freq;
+			for(int i = 0; i < term_freq; i++)
+			{
+				ss >> word;
+				(*temp)[doc_id].second.push_back(stoi(word));
+			}
 		}
 		q.push(make_pair(term, *temp));
 	}
@@ -81,13 +86,14 @@ int main()
 {
 	string doc = "document";
 	unordered_set<string> stop_words = get_stop_words("stop_words.txt");
-	map<string, map<int, int> > term_doc_pairs;
+	map<string, map<int, pair<int, vector<long int> > > > term_doc_pairs;
 	int flag = 0, block_count = 0;
 	int wc = 0;
 	for(int i = 0; i < DOC_COUNT; i++)
 	{
 		ifstream f;
 		string word, prev_word = "";
+		long int prev_word_loc = 0;
 		f.open("document" + to_string(i + 1) + ".txt");
 		while(f >> word)
 		{
@@ -97,29 +103,36 @@ int main()
 				// {
 				// 	word = word.substr(0, word.size() - 1);
 				// }
+				long int loc = (long int)f.tellg() - word.size();
+				string old_word = word; //we maintain this so we know the size of original string which is needed for prev_word_size to accruately calculate loc for biwords
 				word = word_pre_processor(word);
-				if(word != "" && stop_words.find(mystringtolower(word)) == stop_words.end())
+				word = mystringtolower(word);
+				if(word != "" && stop_words.find(word) == stop_words.end())
 				{
 					string bi_word = prev_word + "." + word;
+					vector<long int> *temp_single = new vector<long int>;
+					vector<long int> *temp_bi_word = new vector<long int>;
 					if(term_doc_pairs.find(word) == term_doc_pairs.end())
 					{
-						term_doc_pairs[word].insert(make_pair(i + 1, 0));
+						term_doc_pairs[word].insert(make_pair(i + 1, make_pair(0, (*temp_single))));
 					}
 					else if(term_doc_pairs[word].find(i + 1) == term_doc_pairs[word].end())
 					{
-						term_doc_pairs[word][i + 1] = 0;
+						term_doc_pairs[word][i + 1].first = 0;
 					}
-					term_doc_pairs[word][i + 1]++;
+					term_doc_pairs[word][i + 1].first++;
+					term_doc_pairs[word][i + 1].second.push_back(loc);
 
 					if(term_doc_pairs.find(bi_word) == term_doc_pairs.end())
 					{
-						term_doc_pairs[bi_word].insert(make_pair(i + 1, 0));
+						term_doc_pairs[bi_word].insert(make_pair(i + 1, make_pair(0, (*temp_bi_word))));
 					}
 					else if(term_doc_pairs[bi_word].find(i + 1) == term_doc_pairs[bi_word].end())
 					{
-						term_doc_pairs[bi_word][i + 1] = 0;
+						term_doc_pairs[bi_word][i + 1].first = 0;
 					}
-					term_doc_pairs[bi_word][i + 1]++;
+					term_doc_pairs[bi_word][i + 1].first++;
+					term_doc_pairs[bi_word][i + 1].second.push_back(prev_word_loc); //problem is that the words skipped in middle are not counted here
 
 					wc += 2;
 					if(wc >= WORDS_PER_BLOCK)
@@ -127,6 +140,7 @@ int main()
 						flag = 1;
 					}
 					prev_word = word;
+					prev_word_loc = loc; //+1 to accomodate the space in between the two words of biword
 				}
 			}
 			else
@@ -136,9 +150,14 @@ int main()
 				for(auto i : term_doc_pairs)
 				{
 					f1 << i.first;
-					for(auto j : term_doc_pairs[i.first])
+					for(auto j : term_doc_pairs[i.first])	
 					{
-						f1 << " " << j.first << " " << j.second;
+						f1 << " " << j.first;
+						f1 << " " << j.second.first;
+						for(auto k : j.second.second)
+						{
+							f1 << " " << k;
+						}
 					}
 					f1 << endl;
 				}
@@ -161,19 +180,25 @@ int main()
 			f1 << i.first;
 			for(auto j : term_doc_pairs[i.first])
 			{
-				f1 << " " << j.first << " " << j.second;
+				f1 << " " << j.first;
+				f1 << " " << j.second.first;
+				for(auto k : j.second.second)
+				{
+					f1 << " " << k;
+				}
 			}
 			f1 << endl;
 		}
+
 		f1.close();
 		term_doc_pairs.clear();
 	}
-	vector < queue< pair<string, map<int, int > > > > block_queues;
+	vector < queue< pair<string, map<int, pair<int, vector<long int> > > > > > block_queues;
 	vector < ifstream * > block_pointers;
 	priority_queue< pair<string, int> , vector < pair<string, int> >, myComparator> pq;
 	for(int i = 0; i < block_count; i++)
 	{
-		queue< pair<string, map<int, int> > > temp;
+		queue< pair<string, map<int, pair<int, vector<long int> > > > > temp;
 		block_queues.push_back(temp) ;
 		ifstream *fp = new ifstream;
 		(*fp).open("block" + to_string(i + 1) + ".txt");
@@ -187,23 +212,32 @@ int main()
 	{
 		pair<string, int> cur = pq.top();
 		pq.pop();
-		map< int, int > cur_dict_entry;
+		map< int, pair<int, vector<long int> > > cur_dict_entry;
 
 		for(int i = 0; i < block_count; i++)
 		{
 			if(!block_queues[i].empty() && block_queues[i].front().first == cur.first)
 			{
-				pair< string, map<int, int> > block_entry = block_queues[i].front();
+				pair< string, map<int, pair<int, vector<long int> > > > block_entry = block_queues[i].front();
 				block_queues[i].pop();
+
 				for(auto j : block_entry.second)
 				{
 					if(cur_dict_entry.find(j.first) == cur_dict_entry.end())
 					{
-						cur_dict_entry[j.first] = j.second;
+						cur_dict_entry[j.first].first = j.second.first; //edited till here
+						for(auto k : j.second.second)
+						{
+							cur_dict_entry[j.first].second.push_back(k);
+						}
 					}
 					else
 					{
-						cur_dict_entry[j.first] += j.second;
+						cur_dict_entry[j.first].first += j.second.first;
+						for(auto k : j.second.second)
+						{
+							cur_dict_entry[j.first].second.push_back(k);
+						}
 					}
 				}
 				if(block_queues[i].empty())
@@ -222,7 +256,12 @@ int main()
 			fout << cur.first;
 			for(auto i : cur_dict_entry)
 			{
-				fout << " " << i.first << " " << i.second;
+				fout << " " << i.first;
+				fout << " " << i.second.first;
+				for(auto j : i.second.second)
+				{
+					fout << " " << j;
+				}
 			}
 			fout << endl;
 		}
