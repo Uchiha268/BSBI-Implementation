@@ -1,20 +1,13 @@
 #include<bits/stdc++.h>
 
-string mystringtolower(string word)
-{
-	for(int i = 0; i < word.size(); i++)
-	{
-		if(isupper(word[i]))
-		{
-			word[i] = tolower(word[i]);
-		}
-	}
-	return word;
-}
-
 int main()
 {
-	string word = "Psycho-analysis";
-	cout << mystringtolower(word) << endl;
+	ifstream f;
+	f.open("document1.txt");
+	string word;
+	string line = "";
+	f.seekg(92354);
+	f >> word;
+	cout << "The word is - " << word;
 	return 0;
 }
