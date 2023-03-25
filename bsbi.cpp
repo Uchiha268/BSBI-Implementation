@@ -75,7 +75,7 @@ int main()
 	for(int i = 0; i < DOC_COUNT; i++)
 	{
 		ifstream f;
-		string word;
+		string word, prev_word = "";
 		f.open("document" + to_string(i + 1) + ".txt");
 		while(f >> word)
 		{
