@@ -16,6 +16,18 @@ unordered_set<string> get_stop_words(string file)
 	return (*stop_words);
 }
 
+string mystringtolower(string word)
+{
+	for(int i = 0; i < word.size(); i++)
+	{
+		if(isupper(word[i]))
+		{
+			word[i] = tolower(word[i]);
+		}
+	}
+	return word;
+}
+
 string word_pre_processor(string word)
 {
 	string new_word = "";
@@ -86,7 +98,7 @@ int main()
 				// 	word = word.substr(0, word.size() - 1);
 				// }
 				word = word_pre_processor(word);
-				if(word != "" && stop_words.find(word) == stop_words.end())
+				if(word != "" && stop_words.find(mystringtolower(word)) == stop_words.end())
 				{
 					string bi_word = prev_word + "." + word;
 					if(term_doc_pairs.find(word) == term_doc_pairs.end())
