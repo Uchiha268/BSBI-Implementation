@@ -49,7 +49,17 @@ vector<int> getTotalTermsPerDoc(string file){
 }
 
 double getIDF(vector<string> s){
-    int wordDocs = (s.size()-1)/2;
+    // int wordDocs = (s.size()-1)/2;
+    int wordDocs = 0;
+    int i = 1;
+    while(i < s.size())
+    {
+        wordDocs++;
+        i++;
+        int term_freq = stoi(s[i]);
+        for(int j = 0; j < term_freq; j++, i++){}
+        i++;
+    }
     return log10(DOC_COUNT/wordDocs);
 }
 
