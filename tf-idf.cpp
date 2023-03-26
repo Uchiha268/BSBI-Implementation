@@ -60,7 +60,9 @@ double getIDF(vector<string> s){
         for(int j = 0; j < term_freq; j++, i++){}
         i++;
     }
-    return log10(DOC_COUNT/wordDocs);
+    double x = DOC_COUNT;
+    double y = wordDocs;
+    return log10(x / y);
 }
 
 map<int,double> getTF(vector<string> s,vector<int> docTot){
