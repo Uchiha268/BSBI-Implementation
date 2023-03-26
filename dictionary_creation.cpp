@@ -1,3 +1,4 @@
+//Creates the dictionary for sorted_tf_idf.txt
 #include<bits/stdc++.h>
 using namespace std;
 
