@@ -4,6 +4,82 @@
 #define PRESENT_IN_LIMIT 3
 using namespace std;
 
+class Trie {
+private:
+    struct trieNode{
+        trieNode* alp[128];
+        bool isEnd;
+    };
+    trieNode* root;
+    trieNode* createNode(){
+        trieNode* newnode=new trieNode();
+        for(int i=0; i<128; i++){
+            newnode->alp[i]=nullptr;
+        }
+        newnode->isEnd=false;
+        return newnode;
+    }
+public:
+
+    Trie() {
+        root = createNode();
+    }
+    
+    void insert(string word) {
+        trieNode* curr = root;
+        for(int i = 0;i < word.length();i++){
+            if(curr->alp[int(word[i])] == nullptr){
+                trieNode* newNode = createNode();
+                curr->alp[int(word[i])] = newNode;
+            }
+            curr = curr->alp[int(word[i])];
+        }
+        curr->isEnd = true;
+    }
+    
+    bool search(string word) {
+        trieNode* curr = root;
+        for(int i = 0;i<word.length();i++){
+            if(curr->alp[int(word[i])] == nullptr){
+                return false;
+            }
+            curr = curr->alp[int(word[i])];
+        }
+        return curr->isEnd;
+    }
+
+    set<string> startsWith(string prefix) {
+    trieNode* curr = root;
+    set<string> wordSet;
+    int letterASCII;
+    for(int i = 0; i < prefix.length(); i++){
+        if(curr->alp[int(prefix[i])] == nullptr){
+            return {};
+        }
+        curr = curr->alp[int(prefix[i])];
+    }
+    string currWord = prefix;
+    startsWithHelper(curr, wordSet, currWord);
+    return wordSet;
+    }
+
+    void startsWithHelper(trieNode* curr, set<string>& wordSet, string& currWord) {
+        if(curr == nullptr){
+            return;
+        }
+        if(curr->isEnd){
+            wordSet.insert(currWord);
+        }
+        for(int i = 0; i < 128; i++){
+            if(curr->alp[i]!=nullptr){
+                currWord = currWord + char(i);
+                startsWithHelper(curr->alp[i], wordSet, currWord);
+                currWord = currWord.substr(0, currWord.length() - 1);
+            }
+        }
+    }
+};
+
 vector<string> split(string str, string delimiter){
     vector<string> v;
     if (!str.empty()) {
@@ -20,6 +96,67 @@ vector<string> split(string str, string delimiter){
         v.push_back(str.substr(start));
     }
     return v;
+}
+
+string getFirstWord(string line){
+    string word;
+    for (char c : line) {
+        if (c == ' ' || c == '.') {break;}
+        word += c;
+    }
+    return word;
+}
+string reverseString(string str) {
+    int n = str.length();
+    for (int i = 0; i < n / 2; i++) {
+        char temp = str[i];
+        str[i] = str[n - i - 1];
+        str[n - i - 1] = temp;
+    }
+    return str;
+}
+
+set<string> queryLocator(string query,Trie* standard,Trie* reverse){
+    set<string> queryOut;
+    if(query[0] == '*'){
+        set<string> querySub;
+        query = query.substr(1);
+        querySub = reverse->startsWith(reverseString(query));
+        for(auto i:querySub){
+            queryOut.insert(reverseString(i));
+        }
+    }
+    else if(query[query.length()-1] == '*'){
+        query.pop_back();
+        queryOut = standard->startsWith(query);
+    }
+    else{
+        vector<string> querySplit = split(query,"*");
+        set<string> querySub;
+        set<string> queryLeft;
+        set<string> queryRight;
+        querySub = reverse->startsWith(reverseString(querySplit[1])); 
+        for(auto i:querySub){
+            queryRight.insert(reverseString(i));
+        }
+        queryLeft = standard->startsWith(querySplit[0]);
+        set_intersection(begin(queryLeft),end(queryLeft),begin(queryRight),end(queryRight),inserter(queryOut, end(queryOut))); 
+    }
+    return queryOut;
+}
+
+vector<Trie*> getStandardAndReverseTrie(string filename){
+    vector<Trie*> trieVec(2,nullptr);
+    trieVec[0] = new Trie();
+    trieVec[1] = new Trie();
+    ifstream fp("dictionary.txt");
+    string line;
+    while(getline(fp,line)){
+        string word = getFirstWord(line);
+        trieVec[0]->insert(word);
+        trieVec[1]->insert(reverseString(word));
+    }
+    return trieVec;
 }
 
 class myIDFComparator
@@ -333,6 +470,7 @@ int main()
 	map< string, pair< int, long int> > dictionary = load_dictionary("dictionary.txt");
 	unordered_set<string> stop_words = get_stop_words("stop_words.txt");
 	unordered_map< int, double > potential_docs;
+	vector<Trie*> trieVec = getStandardAndReverseTrie("dictionary.txt");
 
 	string choice;
 	cout << "What kind of query do you want to make?" << endl << "1)Phrase" << endl << "2)Boolean" << endl << "3)WildCard" << endl << endl << "Enter your choice - ";
@@ -485,6 +623,21 @@ int main()
 
 		case '3' : {
 						//to be implemented by Karthik
+						string query;
+						cout << "Enter your query - " << endl;
+						getline(cin, query);
+						query = mystringtolower(query);
+						set<string> queryOut = queryLocator(query,trieVec[0],trieVec[1]);
+						vector<string> query_terms;
+						for(auto i : queryOut)
+						{
+							query_terms.push_back(i);
+						}
+						priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
+						get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
+						priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
+						cout << endl << endl << "Results are - " << endl << endl;
+						print_results(pq, idfpq, &index, dictionary);
 						break;
 				   }
 
