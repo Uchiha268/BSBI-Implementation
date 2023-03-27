@@ -65,6 +65,109 @@ unordered_set<string> get_stop_words(string file)
 	return (*stop_words);
 }
 
+vector<int> get_docs_from_posting_list(string term, ifstream *index, map< string, pair< int, long int> > dictionary)
+{
+	vector<int> docs;
+	(*index).seekg(dictionary[term].second);
+	string line;
+	getline((*index), line);
+	vector<string> lineSplit = split(line, " ");
+	int i = 2;
+	while(i < lineSplit.size())
+	{
+		docs.push_back(stoi(lineSplit[i]));
+		i += 2;
+		int term_freq = stoi(lineSplit[i]);
+		i++;
+		for(int j = 0; j < term_freq; j++, i++){}
+	}
+	return docs;
+}
+
+vector<int> boolean_and(vector<int> l1, vector<int> l2)
+{
+	int p1 = 0, p2 = 0;
+	vector<int> result;
+	while(p1 < l1.size() && p2 < l2.size())
+	{
+		if(l1[p1] == l2[p2])
+		{
+			result.push_back(l1[p1]);
+			p1++; p2++;
+		}
+		else if(l1[p1] < l2[p2])
+		{
+			p1++;
+		}
+		else
+		{
+			p2++;
+		}
+	}
+	return result;
+}
+
+vector<int> boolean_or(vector<int> l1, vector<int> l2)
+{
+	int p1 = 0, p2 = 0;
+	vector<int> result;
+	while(p1 < l1.size() && p2 < l2.size())
+	{
+		if(l1[p1] == l2[p2])
+		{
+			result.push_back(l1[p1++]);
+			p2++;
+		}
+		else if(l1[p1] < l2[p2])
+		{
+			result.push_back(l1[p1++]);
+		}
+		else
+		{
+			result.push_back(l2[p2++]);
+		}
+	}
+	while(p1 < l1.size())
+	{
+		result.push_back(l1[p1++]);
+	}
+	while(p2 < l2.size())
+	{
+		result.push_back(l2[p2++]);
+	}
+	return result;
+}
+
+vector<int> boolean_not(vector<int> l1, vector<int> l2)
+{
+	int p1 = 0, p2 = 0;
+	vector<int> result;
+	while(p1 < l1.size() && p2 < l2.size())
+	{
+		if(l1[p1] == l2[p2])
+		{
+			p1++; p2++;
+		}
+		else if(l1[p1] < l2[p2])
+		{
+			result.push_back(l1[p1++]);
+		}
+		else
+		{
+			p2++;
+		}
+	}
+	if(p2 >= l2.size())
+	{
+		while(p1 < l1.size())
+		{
+			result.push_back(l1[p1++]);
+		}
+	}
+	return result;
+}
+
+
 
 map< string, pair< int, long int > > load_dictionary(string dict_file)
 {
@@ -222,10 +325,7 @@ int main()
 	string choice;
 	cout << "What kind of query do you want to make?" << endl << "1)Phrase" << endl << "2)Boolean" << endl << "3)WildCard" << endl << endl << "Enter your choice - ";
 	getline(cin, choice);
-	// string query;
-	// 				cout << "Enter your query - " << endl;
-	// 				getline(cin, query);
-	// 				query = mystringtolower(query);
+
 	char ch = choice[0];
 	switch(ch)
 	{
@@ -259,7 +359,71 @@ int main()
 					}
 
 		case '2' : {
-						//to be implemented by Shreyash
+						ifstream doc_id_sorted_index;
+						doc_id_sorted_index.open("tf_idf.txt");
+						string query;
+						cout << "Enter your query with necessary AND, OR and NOT syntax - " << endl;
+						getline(cin, query);
+						int in_dict = 1;
+						query = mystringtolower(query);
+						vector<string> query_terms_with_stop_words = split(query, " ");
+						string prev_term;
+						vector<int> prev_doc_list;
+						vector<int> next_doc_list;
+						if(dictionary.find(query_terms_with_stop_words[0]) != dictionary.end())
+						{
+							prev_term = query_terms_with_stop_words[0];
+							prev_doc_list = get_docs_from_posting_list(prev_term, &doc_id_sorted_index, dictionary);
+						}
+						else
+						{
+							in_dict = 0;
+						}
+						for(int i = 1; i < query_terms_with_stop_words.size() && in_dict; i += 2)
+						{
+							string operation = query_terms_with_stop_words[i];
+							string next_term = query_terms_with_stop_words[i + 1];
+							if(dictionary.find(next_term) != dictionary.end())
+							{
+								next_doc_list = get_docs_from_posting_list(next_term, &doc_id_sorted_index, dictionary);
+
+								if(operation == "and")
+								{
+									prev_doc_list = boolean_and(prev_doc_list, next_doc_list);
+								}
+								else if(operation == "or")
+								{
+									prev_doc_list = boolean_or(prev_doc_list, next_doc_list);
+								}
+								else if(operation == "not")
+								{
+									prev_doc_list = boolean_not(prev_doc_list, next_doc_list);
+								}
+								else
+								{
+									in_dict = 0;
+								}
+							}
+							else
+							{
+								in_dict = 0;
+							}
+
+						}
+						if(in_dict)
+						{
+							cout << endl << "The total matching documents are - " << prev_doc_list.size() << endl;
+							cout << endl << "The resulting docs are - " << endl << endl;
+							for(auto i : prev_doc_list)
+							{
+								cout << "document" << to_string(i) << ".txt" << endl;
+							}
+							cout << endl;
+						}
+						else
+						{
+							cout << endl << "Invalid boolean query or the terms mentioned are not in the dictionary..." << endl;
+						}
 						break;
 				   }
 
