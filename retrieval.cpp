@@ -472,179 +472,190 @@ int main()
 	unordered_map< int, double > potential_docs;
 	vector<Trie*> trieVec = getStandardAndReverseTrie("dictionary.txt");
 
-	string choice;
-	cout << "What kind of query do you want to make?" << endl << "1)Phrase" << endl << "2)Boolean" << endl << "3)WildCard" << endl << endl << "Enter your choice - ";
-	getline(cin, choice);
-
-	char ch = choice[0];
-	switch(ch)
+	while(true)
 	{
-		case '1' :	{
-						string query;
-						cout << "Enter your query - " << endl;
-						getline(cin, query);
-						query = mystringtolower(query);
+		string choice;
+		cout << "What kind of query do you want to make?" << endl << "1)Phrase" << endl << "2)Boolean" << endl << "3)WildCard" << endl << "4)End" << endl << endl << "Enter your choice - ";
+		getline(cin, choice);
 
-						vector<string> query_terms_with_stop_words = split(query, " ");
-						vector<string> query_terms;
-						for(auto i : query_terms_with_stop_words)
-						{
-							if(stop_words.find(i) == stop_words.end())
+		char ch = choice[0];
+		switch(ch)
+		{
+			case '1' :	{
+							string query;
+							cout << "Enter your query - " << endl;
+							getline(cin, query);
+							query = mystringtolower(query);
+
+							vector<string> query_terms_with_stop_words = split(query, " ");
+							vector<string> query_terms;
+							for(auto i : query_terms_with_stop_words)
 							{
-								query_terms.push_back(i);
-							}
-						}
-						vector<string> query_bi_word_terms;
-						for(int i = 1; i < query_terms.size(); i++)
-						{
-							query_bi_word_terms.push_back((query_terms[i - 1] + "." + query_terms[i]));
-						}
-						priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
-						get_scores(query_bi_word_terms, potential_docs, dictionary, &index, idfpq);
-						get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
-						priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
-						cout << endl << endl << "Results are - " << endl << endl;
-						print_results(pq, idfpq, &index, dictionary);
-						cout << endl << endl << "Enter the search results (1 - 10) which seemed relevant to you separated by spaces (eg: 1 2 6). If you are satisfied with the output, then enter any other character - " << endl;
-						string relev_results;
-						getline(cin, relev_results);
-						vector<string> relev_results_split = split(relev_results, " ");
-						if(isdigit(relev_results_split[0][0]))
-						{
-							vector<int> top_k;
-							int k = K;
-							while(!pq.empty() && k--)
-							{
-								top_k.push_back(pq.top().first);
-								pq.pop();
-							}
-							for(auto i : relev_results_split)
-							{
-								int doc_id = top_k[stoi(i) - 1];
-								ifstream doc_fp;
-								doc_fp.open("./DOCS/document" + to_string(doc_id) + ".txt");
-								string prev_word = "";
-								string word;
-								int wc = 5;
-								while(doc_fp >> word && wc)
+								if(stop_words.find(i) == stop_words.end())
 								{
-									word = mystringtolower(word);
-									if(stop_words.find(word) == stop_words.end() && dictionary.find(word) != dictionary.end())
+									query_terms.push_back(i);
+								}
+							}
+							vector<string> query_bi_word_terms;
+							for(int i = 1; i < query_terms.size(); i++)
+							{
+								query_bi_word_terms.push_back((query_terms[i - 1] + "." + query_terms[i]));
+							}
+							priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
+							get_scores(query_bi_word_terms, potential_docs, dictionary, &index, idfpq);
+							get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
+							priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
+							cout << endl << endl << "Results are - " << endl << endl;
+							print_results(pq, idfpq, &index, dictionary);
+							cout << endl << endl << "Enter the search results (1 - 10) which seemed relevant to you separated by spaces (eg: 1 2 6). If you are satisfied with the output, then enter any other character - " << endl;
+							string relev_results;
+							getline(cin, relev_results);
+							vector<string> relev_results_split = split(relev_results, " ");
+							if(isdigit(relev_results_split[0][0]))
+							{
+								vector<int> top_k;
+								int k = K;
+								while(!pq.empty() && k--)
+								{
+									top_k.push_back(pq.top().first);
+									pq.pop();
+								}
+								for(auto i : relev_results_split)
+								{
+									int doc_id = top_k[stoi(i) - 1];
+									ifstream doc_fp;
+									doc_fp.open("./DOCS/document" + to_string(doc_id) + ".txt");
+									string prev_word = "";
+									string word;
+									int wc = 5;
+									while(doc_fp >> word && wc)
 									{
-										query_terms.push_back(word);
-										query_bi_word_terms.push_back((prev_word + "." + word));
-										prev_word = word;
-										wc--;
+										word = mystringtolower(word);
+										if(stop_words.find(word) == stop_words.end() && dictionary.find(word) != dictionary.end())
+										{
+											query_terms.push_back(word);
+											query_bi_word_terms.push_back((prev_word + "." + word));
+											prev_word = word;
+											wc--;
+										}
 									}
 								}
+								potential_docs.clear();
+								priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> new_idfpq;
+
+								get_scores(query_bi_word_terms, potential_docs, dictionary, &index, new_idfpq);
+								get_scores(query_terms, potential_docs, dictionary, &index, new_idfpq);
+								priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > new_pq = rank_docs(potential_docs);
+								cout << endl << endl << "Results after feedback are - " << endl << endl;
+								print_results(new_pq, new_idfpq, &index, dictionary);
+								potential_docs.clear();
+
+
 							}
-							potential_docs.clear();
-							priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> new_idfpq;
-
-							get_scores(query_bi_word_terms, potential_docs, dictionary, &index, new_idfpq);
-							get_scores(query_terms, potential_docs, dictionary, &index, new_idfpq);
-							priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > new_pq = rank_docs(potential_docs);
-							cout << endl << endl << "Results after feedback are - " << endl << endl;
-							print_results(new_pq, new_idfpq, &index, dictionary);
-
-
+							break;
 						}
-						break;
-					}
 
-		case '2' : {
-						ifstream doc_id_sorted_index;
-						doc_id_sorted_index.open("tf_idf.txt");
-						string query;
-						cout << "Enter your query with necessary AND, OR and NOT syntax - " << endl;
-						getline(cin, query);
-						int in_dict = 1;
-						query = mystringtolower(query);
-						vector<string> query_terms_with_stop_words = split(query, " ");
-						string prev_term;
-						vector<int> prev_doc_list;
-						vector<int> next_doc_list;
-						if(dictionary.find(query_terms_with_stop_words[0]) != dictionary.end())
-						{
-							prev_term = query_terms_with_stop_words[0];
-							prev_doc_list = get_docs_from_posting_list(prev_term, &doc_id_sorted_index, dictionary);
-						}
-						else
-						{
-							in_dict = 0;
-						}
-						for(int i = 1; i < query_terms_with_stop_words.size() && in_dict; i += 2)
-						{
-							string operation = query_terms_with_stop_words[i];
-							string next_term = query_terms_with_stop_words[i + 1];
-							if(dictionary.find(next_term) != dictionary.end())
+			case '2' : {
+							ifstream doc_id_sorted_index;
+							doc_id_sorted_index.open("tf_idf.txt");
+							string query;
+							cout << "Enter your query with necessary AND, OR and NOT syntax - " << endl;
+							getline(cin, query);
+							int in_dict = 1;
+							query = mystringtolower(query);
+							vector<string> query_terms_with_stop_words = split(query, " ");
+							string prev_term;
+							vector<int> prev_doc_list;
+							vector<int> next_doc_list;
+							if(dictionary.find(query_terms_with_stop_words[0]) != dictionary.end())
 							{
-								next_doc_list = get_docs_from_posting_list(next_term, &doc_id_sorted_index, dictionary);
-
-								if(operation == "and")
-								{
-									prev_doc_list = boolean_and(prev_doc_list, next_doc_list);
-								}
-								else if(operation == "or")
-								{
-									prev_doc_list = boolean_or(prev_doc_list, next_doc_list);
-								}
-								else if(operation == "not")
-								{
-									prev_doc_list = boolean_not(prev_doc_list, next_doc_list);
-								}
-								else
-								{
-									in_dict = 0;
-								}
+								prev_term = query_terms_with_stop_words[0];
+								prev_doc_list = get_docs_from_posting_list(prev_term, &doc_id_sorted_index, dictionary);
 							}
 							else
 							{
 								in_dict = 0;
 							}
-
-						}
-						if(in_dict)
-						{
-							cout << endl << "The total matching documents are - " << prev_doc_list.size() << endl;
-							cout << endl << "The resulting docs are - " << endl << endl;
-							for(auto i : prev_doc_list)
+							for(int i = 1; i < query_terms_with_stop_words.size() && in_dict; i += 2)
 							{
-								cout << "document" << to_string(i) << ".txt" << endl;
+								string operation = query_terms_with_stop_words[i];
+								string next_term = query_terms_with_stop_words[i + 1];
+								if(dictionary.find(next_term) != dictionary.end())
+								{
+									next_doc_list = get_docs_from_posting_list(next_term, &doc_id_sorted_index, dictionary);
+
+									if(operation == "and")
+									{
+										prev_doc_list = boolean_and(prev_doc_list, next_doc_list);
+									}
+									else if(operation == "or")
+									{
+										prev_doc_list = boolean_or(prev_doc_list, next_doc_list);
+									}
+									else if(operation == "not")
+									{
+										prev_doc_list = boolean_not(prev_doc_list, next_doc_list);
+									}
+									else
+									{
+										in_dict = 0;
+									}
+								}
+								else
+								{
+									in_dict = 0;
+								}
+
 							}
-							cout << endl;
-						}
-						else
-						{
-							cout << endl << "Invalid boolean query or the terms mentioned are not in the dictionary..." << endl;
-						}
-						break;
-				   }
+							if(in_dict)
+							{
+								cout << endl << "The total matching documents are - " << prev_doc_list.size() << endl;
+								cout << endl << "The resulting docs are - " << endl << endl;
+								for(auto i : prev_doc_list)
+								{
+									cout << "document" << to_string(i) << ".txt" << endl;
+								}
+								cout << endl;
+							}
+							else
+							{
+								cout << endl << "Invalid boolean query or the terms mentioned are not in the dictionary..." << endl;
+							}
+							break;
+					   }
 
-		case '3' : {
-						//to be implemented by Karthik
-						string query;
-						cout << "Enter your query - " << endl;
-						getline(cin, query);
-						query = mystringtolower(query);
-						set<string> queryOut = queryLocator(query,trieVec[0],trieVec[1]);
-						vector<string> query_terms;
-						for(auto i : queryOut)
-						{
-							query_terms.push_back(i);
-						}
-						priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
-						get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
-						priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
-						cout << endl << endl << "Results are - " << endl << endl;
-						print_results(pq, idfpq, &index, dictionary);
-						break;
-				   }
+			case '3' : {
+							//to be implemented by Karthik
+							string query;
+							cout << "Enter your query - " << endl;
+							getline(cin, query);
+							query = mystringtolower(query);
+							set<string> queryOut = queryLocator(query,trieVec[0],trieVec[1]);
+							vector<string> query_terms;
+							for(auto i : queryOut)
+							{
+								query_terms.push_back(i);
+							}
+							priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
+							get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
+							priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
+							cout << endl << endl << "Results are - " << endl << endl;
+							print_results(pq, idfpq, &index, dictionary);
+							potential_docs.clear();
+							break;
+					   }
 
-		default  : {
-						cout << endl << "Invalid choice..." << endl;
-						break;
-				   }
+			case '4' : {
+							cout << endl << "Thank you for using our program" << endl;
+							exit(0);
+							break;
+					   }
+
+			default  : {
+							cout << endl << "Invalid choice..." << endl;
+							break;
+					   }
+		}
 	}
 
 	
