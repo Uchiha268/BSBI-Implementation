@@ -1,7 +1,11 @@
 #include<bits/stdc++.h>
-#define DOC_COUNT 30
+#define DOC_COUNT 8823
 #define WORDS_PER_BLOCK 100000
 #define ITEMS_PER_BLOCK_IN_MEM 10000
+using namespace std;
+
+static const string DOC_PREFIX = "./DOCS/";
+static const string BLOCK_PREFIX = "./BLOCKS/";
 
 unordered_set<string> get_stop_words(string file)
 {
@@ -94,7 +98,7 @@ int main()
 		ifstream f;
 		string word, prev_word = "";
 		long int prev_word_loc = 0;
-		f.open("document" + to_string(i + 1) + ".txt");
+		f.open(DOC_PREFIX + "document" + to_string(i + 1) + ".txt");
 		while(f >> word)
 		{
 			if(!flag)
@@ -146,7 +150,7 @@ int main()
 			else
 			{
 				ofstream f1;
-				f1.open("block" + to_string(++block_count) + ".txt");
+				f1.open(BLOCK_PREFIX + "block" + to_string(++block_count) + ".txt");
 				for(auto i : term_doc_pairs)
 				{
 					f1 << i.first;
@@ -174,7 +178,7 @@ int main()
 	if(!term_doc_pairs.empty())
 	{
 		ofstream f1;
-		f1.open("block" + to_string(++block_count) + ".txt");
+		f1.open(BLOCK_PREFIX + "block" + to_string(++block_count) + ".txt");
 		for(auto i : term_doc_pairs)
 		{
 			f1 << i.first;
@@ -201,7 +205,7 @@ int main()
 		queue< pair<string, map<int, pair<int, vector<long int> > > > > temp;
 		block_queues.push_back(temp) ;
 		ifstream *fp = new ifstream;
-		(*fp).open("block" + to_string(i + 1) + ".txt");
+		(*fp).open(BLOCK_PREFIX + "block" + to_string(i + 1) + ".txt");
 		block_pointers.push_back(fp);
 		fill_queue(block_queues[i], fp);
 		pq.push(make_pair(block_queues[i].front().first, i));

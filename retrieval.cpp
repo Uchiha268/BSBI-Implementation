@@ -4,6 +4,8 @@
 #define PRESENT_IN_LIMIT 3
 using namespace std;
 
+static const string DOC_PREFIX = "./DOCS/";
+
 class Trie {
 private:
     struct trieNode{
@@ -439,7 +441,7 @@ void print_results(priority_queue< pair<int, double>, vector<pair<int, double> >
 					if(flag)
 					{
 						ifstream fin;
-						fin.open("./DOCS/document" + to_string(i.first) + ".txt");
+						fin.open(DOC_PREFIX + "document" + to_string(i.first) + ".txt");
 						fin.seekg(first_locs[j.first][i.first] - 20);
 						char c;
 						int word_count = 10;
@@ -524,7 +526,7 @@ int main()
 								{
 									int doc_id = top_k[stoi(i) - 1];
 									ifstream doc_fp;
-									doc_fp.open("./DOCS/document" + to_string(doc_id) + ".txt");
+									doc_fp.open(DOC_PREFIX + "document" + to_string(doc_id) + ".txt");
 									string prev_word = "";
 									string word;
 									int wc = 5;

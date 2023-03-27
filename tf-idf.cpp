@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define DOC_COUNT 30
+#define DOC_COUNT 8823
 using namespace std;
 
 vector<string> split(string str, string delimiter){
