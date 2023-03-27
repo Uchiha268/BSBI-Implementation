@@ -283,26 +283,38 @@ void print_results(priority_queue< pair<int, double>, vector<pair<int, double> >
 		cout << "document" << i.first << ".txt" << endl;
 		cout << "Query terms present in - " << endl << endl;
 		int present_limit = PRESENT_IN_LIMIT;
-		long int prev_loc = -1;
+		vector<long int> prev_locs;
 		for(auto j : top_idf)
 		{
 			if(present_limit)
 			{
-				if(first_locs[j.first].find(i.first) != first_locs[j.first].end() && first_locs[j.first][i.first] != prev_loc)
+				if(first_locs[j.first].find(i.first) != first_locs[j.first].end())
 				{
-					ifstream fin;
-					fin.open("./DOCS/document" + to_string(i.first) + ".txt");
-					fin.seekg(first_locs[j.first][i.first] - 20);
-					char c;
-					int word_count = 10;
-					string word;
-					while(fin >> word && word_count--)
+					int flag = 1;
+					for(auto prev : prev_locs)
 					{
-						cout << word << " ";
+						long int cur_loc = first_locs[j.first][i.first];
+						if(cur_loc >= prev - 30 && cur_loc <= prev + 30)
+						{
+							flag = 0;
+						}
 					}
-					cout << endl;
-					present_limit--;
-					prev_loc = first_locs[j.first][i.first];
+					if(flag)
+					{
+						ifstream fin;
+						fin.open("./DOCS/document" + to_string(i.first) + ".txt");
+						fin.seekg(first_locs[j.first][i.first] - 20);
+						char c;
+						int word_count = 10;
+						string word;
+						while(fin >> word && word_count--)
+						{
+							cout << word << " ";
+						}
+						cout << endl;
+						present_limit--;
+						prev_locs.push_back(first_locs[j.first][i.first]);
+					}
 				}
 			}
 			else
@@ -355,6 +367,50 @@ int main()
 						priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
 						cout << endl << endl << "Results are - " << endl << endl;
 						print_results(pq, idfpq, &index, dictionary);
+						cout << endl << endl << "Enter the search results (1 - 10) which seemed relevant to you separated by spaces (eg: 1 2 6). If you are satisfied with the output, then enter any other character - " << endl;
+						string relev_results;
+						getline(cin, relev_results);
+						vector<string> relev_results_split = split(relev_results, " ");
+						if(isdigit(relev_results_split[0][0]))
+						{
+							vector<int> top_k;
+							int k = K;
+							while(!pq.empty() && k--)
+							{
+								top_k.push_back(pq.top().first);
+								pq.pop();
+							}
+							for(auto i : relev_results_split)
+							{
+								int doc_id = top_k[stoi(i) - 1];
+								ifstream doc_fp;
+								doc_fp.open("./DOCS/document" + to_string(doc_id) + ".txt");
+								string prev_word = "";
+								string word;
+								int wc = 5;
+								while(doc_fp >> word && wc)
+								{
+									word = mystringtolower(word);
+									if(stop_words.find(word) == stop_words.end() && dictionary.find(word) != dictionary.end())
+									{
+										query_terms.push_back(word);
+										query_bi_word_terms.push_back((prev_word + "." + word));
+										prev_word = word;
+										wc--;
+									}
+								}
+							}
+							potential_docs.clear();
+							priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> new_idfpq;
+
+							get_scores(query_bi_word_terms, potential_docs, dictionary, &index, new_idfpq);
+							get_scores(query_terms, potential_docs, dictionary, &index, new_idfpq);
+							priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > new_pq = rank_docs(potential_docs);
+							cout << endl << endl << "Results after feedback are - " << endl << endl;
+							print_results(new_pq, new_idfpq, &index, dictionary);
+
+
+						}
 						break;
 					}
 
