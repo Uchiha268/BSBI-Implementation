@@ -219,31 +219,62 @@ int main()
 	unordered_set<string> stop_words = get_stop_words("stop_words.txt");
 	unordered_map< int, double > potential_docs;
 
-	string query;
-	cout << "Enter your query - " << endl;
-	getline(cin, query);
-	query = mystringtolower(query);
+	string choice;
+	cout << "What kind of query do you want to make?" << endl << "1)Phrase" << endl << "2)Boolean" << endl << "3)WildCard" << endl << endl << "Enter your choice - ";
+	getline(cin, choice);
+	// string query;
+	// 				cout << "Enter your query - " << endl;
+	// 				getline(cin, query);
+	// 				query = mystringtolower(query);
+	char ch = choice[0];
+	switch(ch)
+	{
+		case '1' :	{
+						string query;
+						cout << "Enter your query - " << endl;
+						getline(cin, query);
+						query = mystringtolower(query);
 
-	vector<string> query_terms_with_stop_words = split(query, " ");
-	vector<string> query_terms;
-	for(auto i : query_terms_with_stop_words)
-	{
-		if(stop_words.find(i) == stop_words.end())
-		{
-			query_terms.push_back(i);
-		}
+						vector<string> query_terms_with_stop_words = split(query, " ");
+						vector<string> query_terms;
+						for(auto i : query_terms_with_stop_words)
+						{
+							if(stop_words.find(i) == stop_words.end())
+							{
+								query_terms.push_back(i);
+							}
+						}
+						vector<string> query_bi_word_terms;
+						for(int i = 1; i < query_terms.size(); i++)
+						{
+							query_bi_word_terms.push_back((query_terms[i - 1] + "." + query_terms[i]));
+						}
+						priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
+						get_scores(query_bi_word_terms, potential_docs, dictionary, &index, idfpq);
+						get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
+						priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
+						cout << endl << endl << "Results are - " << endl << endl;
+						print_results(pq, idfpq, &index, dictionary);
+						break;
+					}
+
+		case '2' : {
+						//to be implemented by Shreyash
+						break;
+				   }
+
+		case '3' : {
+						//to be implemented by Karthik
+						break;
+				   }
+
+		default  : {
+						cout << endl << "Invalid choice..." << endl;
+						break;
+				   }
 	}
-	vector<string> query_bi_word_terms;
-	for(int i = 1; i < query_terms.size(); i++)
-	{
-		query_bi_word_terms.push_back((query_terms[i - 1] + "." + query_terms[i]));
-	}
-	priority_queue< pair<string, float>, vector<pair<string, float> >, myIDFComparator> idfpq;
-	get_scores(query_bi_word_terms, potential_docs, dictionary, &index, idfpq);
-	get_scores(query_terms, potential_docs, dictionary, &index, idfpq);
-	priority_queue< pair<int, double>, vector<pair<int, double> >, myComparator > pq = rank_docs(potential_docs);
-	cout << endl << endl << "Results are - " << endl << endl;
-	print_results(pq, idfpq, &index, dictionary);
+
+	
 
 	return 0;
 }
